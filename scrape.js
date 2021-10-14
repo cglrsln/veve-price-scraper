@@ -2,8 +2,6 @@ const path = require('path');
 const fs = require('fs');
 const axios = require("axios");
 
-console.log("hello")
-
 function fileString(ts) {
   const year = ts.getUTCFullYear();
   const month = (ts.getUTCMonth() + 1).toString().padStart(2, '0');
