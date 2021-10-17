@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Adventure Time S1",
+    "season": 1,
+    "slugs": [
+      "finn-mertens",
+      "ice-king",
+      "jake-the-dog",
+      "marceline"
+    ]
+  },
+  {
+    "name": "Adventure Time S2",
+    "season": 1,
+    "slugs": [
+      "bmo",
+      "lady-rainicorn",
+      "lumpy-space-princess",
+      "princess-bubblegum"
+    ]
+  },
+  {
+    "name": "Batman Black & White S1",
+    "season": 1,
+    "slugs": [
+      "01-eduardo-risso-batman",
+      "100-todd-mcfarlane-batman",
+      "86-becky-cloonan-batman",
+      "97-joe-madureira-batman"
+    ]
+  },
+  {
+    "name": "Batman Black & White S2",
+    "season": 1,
+    "slugs": [
+      "21-jim-lee-the-joker",
+      "61-dick-sprang-the-joker",
+      "72-carmine-infantino-robin",
+      "77-jason-fabok-batman"
+    ]
+  },
+  {
+    "name": "Batman Black & White S3",
+    "season": 1,
+    "slugs": [
+      "24-brian-bolland-penguin",
+      "56-bruce-timm-harley-quinn",
+      "60-dick-sprang-batman",
+      "81-amanda-conner-batman"
+    ]
+  },
+  {
+    "name": "Batman Black & White S4",
+    "season": 1,
+    "slugs": [
+      "42-darwyn-cooke-batman",
+      "55-gary-frank-batman",
+      "57-jae-lee-batman",
+      "79-jim-lee-nightwing"
+    ]
+  },
+  {
+    "name": "Batman Black & White S5",
+    "season": 2,
+    "slugs": [
+      "06-batman",
+      "71-batman",
+      "76-robin",
+      "89-batman"
+    ]
+  },
+  {
+    "name": "Big Barda ",
+    "season": 1,
+    "slugs": [
+      "big-barda"
+    ]
+  },
+  {
+    "name": "Bombshells - S2",
+    "season": 2,
+    "slugs": [
+      "death",
+      "harley-quinn-deluxe-2"
+    ]
+  },
+  {
+    "name": "Captain America ",
+    "season": 2,
+    "slugs": [
+      "bucky-barnes",
+      "john-f.-walker",
+      "red-skull",
+      "sam-wilson",
+      "steve-rogers"
+    ]
+  },
+  {
+    "name": "Captain Carter",
+    "season": 2,
+    "slugs": [
+      "captain-carter"
+    ]
+  },
+  {
+    "name": "Cereal Killers - S1",
+    "season": 2,
+    "slugs": [
+      "cap'n-cornstarch",
+      "count-calorie",
+      "fat-tony",
+      "honey-butt-the-obese"
+    ]
+  },
+  {
+    "name": "Cereal Killers - S2",
+    "season": 2,
+    "slugs": [
+      "franken-fat",
+      "sugar-bear",
+      "two-ton-sam",
+      "yucky-charmer"
+    ]
+  },
+  {
+    "name": "CHOICES - S1",
+    "season": 2,
+    "slugs": [
+      "the-assassin",
+      "the-hunter",
+      "the-nightwatch",
+      "the-protector"
+    ]
+  },
+  {
+    "name": "Cover Girls - S1",
+    "season": 2,
+    "slugs": [
+      "batgirl",
+      "catwoman",
+      "mera",
+      "supergirl"
+    ]
+  },
+  {
+    "name": "Cryptkins - S1",
+    "season": 1,
+    "slugs": [
+      "bigfoot",
+      "chupacabra",
+      "cosmic-cthulhu",
+      "cthulhu",
+      "jersey-devil",
+      "mothman",
+      "nessie",
+      "nightcrawler",
+      "ogopogo",
+      "thunderbird",
+      "twilight-mothman",
+      "yeti"
+    ]
+  },
+  {
+    "name": "Cthulhu Idols",
+    "season": 2,
+    "slugs": [
+      "cthulhu-idol-bronze",
+      "cthulhu-idol-gold",
+      "cthulhu-idol-jade",
+      "necronomicon-(book-of-the-dead)"
+    ]
+  },
+  {
+    "name": "DeLorean Time Machine ",
+    "season": 1,
+    "slugs": [
+      "1:1-delorean-time-machine-interactive",
+      "1:1-delorean-time-machine-static",
+      "1:6-delorean-time-machine-interactive"
+    ]
+  },
+  {
+    "name": "Dragon Girl",
+    "season": 1,
+    "slugs": [
+      "dragon-girl-gold-pink",
+      "dragon-girl-silver",
+      "dragon-girl-silver-black",
+      "dragon-girl-silver-gold"
+    ]
+  },
+  {
+    "name": "Ecto-1",
+    "season": 2,
+    "slugs": [
+      "1:1-ecto-1-interactive",
+      "1:1-ecto-1-static",
+      "1:6-ecto-1-interactive"
+    ]
+  },
+  {
+    "name": "Fantastic Four",
+    "season": 2,
+    "slugs": [
+      "doctor-doom",
+      "human-torch",
+      "invisible-woman",
+      "mister-fantastic",
+      "the-thing"
+    ]
+  },
+  {
+    "name": "Ghostbusters i - S1",
+    "season": 1,
+    "slugs": [
+      "ghost-trap",
+      "ghostbusters-i-logo",
+      "ghostbusters-i-logo-platinum",
+      "slimer",
+      "stay-puft-marshmallow-man"
+    ]
+  },
+  {
+    "name": "GIVENCHY  + Rewind Collective",
+    "season": 2,
+    "slugs": [
+      "house-of-cards-amelia-earhart",
+      "house-of-cards-cleopatra",
+      "pride:-givenchy-beauty",
+      "rewind-collective-logo"
+    ]
+  },
+  {
+    "name": "Harley Quinn: RWB - S1",
+    "season": 1,
+    "slugs": [
+      "harley-quinn-06-terry-dodson",
+      "harley-quinn-08-babs-tarr",
+      "harley-quinn-18-guillem-march",
+      "harley-quinn-19-steve-pugh"
+    ]
+  },
+  {
+    "name": "Hoverboards",
+    "season": 2,
+    "slugs": [
+      "marty's-hoverboard",
+      "no-tech-hoverboard",
+      "pitbull-hoverboard",
+      "question-mark-hoverboard",
+      "rising-sun-hoverboard"
+    ]
+  },
+  {
+    "name": "Labbit - S1",
+    "season": 2,
+    "slugs": [
+      "backstab-smorkin'-labbit",
+      "happy-'stache-labbit",
+      "smorkin'-labbit-choice-cuts",
+      "smorkin'-labbit-red",
+      "the-visible-labbit",
+      "the-visible-labbit-neon-edition"
+    ]
+  },
+  {
+    "name": "Labbit - S2",
+    "season": 2,
+    "slugs": [
+      "corpsman",
+      "hooverville-labbit-rubberleg-colorway",
+      "hooverville-labbit-sunny-side-of-the-street",
+      "labbicorn",
+      "redrum",
+      "white-backstab"
+    ]
+  },
+  {
+    "name": "Marvel 1st's - Captain America - S1",
+    "season": 2,
+    "slugs": [
+      "captain-america---animated",
+      "captain-america---charging-into-battle",
+      "captain-america---the-first-avenger",
+      "captain-america---the-punch",
+      "captain-america---ultimate-animated"
+    ]
+  },
+  {
+    "name": "Mermicorno - S1",
+    "season": 1,
+    "slugs": [
+      "cora",
+      "corsica",
+      "gelatina",
+      "marea",
+      "marina",
+      "oceania",
+      "perla",
+      "sirena",
+      "tropicana"
+    ]
+  },
+  {
+    "name": "Modern Marvel S1 - Spider-man",
+    "season": 2,
+    "slugs": [
+      "spider-man---hangin'-out",
+      "spider-man---jump-into-action",
+      "spider-man---the-amazing-spider-man",
+      "spider-man---ultimate-animated",
+      "spider-man-animated"
+    ]
+  },
+  {
+    "name": "Mondo - S1",
+    "season": 2,
+    "slugs": [
+      "back-to-the-future",
+      "bill-and-ted's-bogus-journey",
+      "bill-and-ted's-excellent-adventure",
+      "jaws"
+    ]
+  },
+  {
+    "name": "NTTD: Series 1",
+    "season": 2,
+    "slugs": [
+      "1:1-glider-animated",
+      "1:1-glider-static",
+      "safin's-mask"
+    ]
+  },
+  {
+    "name": "NTTD: Posters - Set 1",
+    "season": 2,
+    "slugs": [
+      "coming-soon-poster",
+      "marking-time"
+    ]
+  },
+  {
+    "name": "NTTD: Posters - Set 2",
+    "season": 2,
+    "slugs": [
+      "man-on-a-mission",
+      "white-out"
+    ]
+  },
+  {
+    "name": "NTTD: Posters - Set 3",
+    "season": 2,
+    "slugs": [
+      "no-time",
+      "to-die-for"
+    ]
+  },
+  {
+    "name": "NTTD: Posters - Set 4",
+    "season": 2,
+    "slugs": [
+      "safin's-lair",
+      "twist"
+    ]
+  },
+  {
+    "name": "Powerpuff Girls - Series 1",
+    "season": 1,
+    "slugs": [
+      "blossom",
+      "buttercup",
+      "mayor-of-townsville",
+      "mojo-jojo"
+    ]
+  },
+  {
+    "name": "Powerpuff Girls - Series 2",
+    "season": 1,
+    "slugs": [
+      "bubbles",
+      "donny",
+      "h.i.m.",
+      "professor-utonium"
+    ]
+  },
+  {
+    "name": "Spider-Man (Ben Reilly)",
+    "season": 2,
+    "slugs": [
+      "ben-reilly-acrobatic-arachnid",
+      "ben-reilly-beyond-spider-man"
+    ]
+  },
+  {
+    "name": "Starfire",
+    "season": 1,
+    "slugs": [
+      "starfire"
+    ]
+  },
+  {
+    "name": "Starships - S1",
+    "season": 2,
+    "slugs": [
+      "borg-cube-(1:1)",
+      "borg-cube-(1:1000)",
+      "u.s.s.-enterprise-d-(1:1)",
+      "u.s.s.-enterprise-d-(1:1000)"
+    ]
+  },
+  {
+    "name": "Superman - S1",
+    "season": 2,
+    "slugs": [
+      "superman"
+    ]
+  },
+  {
+    "name": "THE RISE OF ULTRAMAN - S1",
+    "season": 1,
+    "slugs": [
+      "the-rise-of-ultraman-1-adi-granov",
+      "the-rise-of-ultraman-1-alex-ross",
+      "the-rise-of-ultraman-1-ed-mcguinness",
+      "the-rise-of-ultraman-1-john-tyler-christopher",
+      "the-rise-of-ultraman-1-skottie-young",
+      "the-rise-of-ultraman-1-yuji-kaida"
+    ]
+  },
+  {
+    "name": "Throg",
+    "season": 2,
+    "slugs": [
+      "throg---frog-of-thunder",
+      "throg---lightning-leap",
+      "throg---the-mighty-frogjolnir"
+    ]
+  },
+  {
+    "name": "Toy Tokyo - Lucky",
+    "season": 2,
+    "slugs": [
+      "lucky"
+    ]
+  },
+  {
+    "name": "Toy Tokyo - Mooglie",
+    "season": 1,
+    "slugs": [
+      "ghostbusters-i-logo-gold"
+    ]
+  },
+  {
+    "name": "Toy Tokyo Dragon Girl",
+    "season": 2,
+    "slugs": [
+      "dragon-girl-gold"
+    ]
+  },
+  {
+    "name": "Ultraman - S1",
+    "season": 1,
+    "slugs": [
+      "ultraman",
+      "ultraman-ace",
+      "ultraman-seven"
+    ]
+  },
+  {
+    "name": "Unicorno - S1",
+    "season": 1,
+    "slugs": [
+      "bellina",
+      "dolce",
+      "fumo",
+      "metallo",
+      "mooka",
+      "peperino",
+      "pogo",
+      "prima-donna",
+      "ritmo",
+      "stellina"
+    ]
+  }
+]

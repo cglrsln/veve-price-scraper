@@ -32,3 +32,9 @@ async function getData() {
 getData().then( data => {
   fs.writeFileSync(path.resolve(pathToData), JSON.stringify(data, null, 2));
 })
+
+
+fs.readdir(path.join(__dirname, '/data'), (err, files) => {
+  const mostRecentFileName = files.sort().pop()
+  console.log(mostRecentFileName);
+})
