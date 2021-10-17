@@ -2,6 +2,7 @@
   {
     "name": "Adventure Time S1",
     "season": 1,
+    "date": "2020-10-20T00:00:00.000Z",
     "slugs": [
       "finn-mertens",
       "ice-king",
@@ -12,6 +13,7 @@
   {
     "name": "Adventure Time S2",
     "season": 1,
+    "date": "2020-12-24T00:00:00.000Z",
     "slugs": [
       "bmo",
       "lady-rainicorn",
@@ -22,6 +24,7 @@
   {
     "name": "Batman Black & White S1",
     "season": 1,
+    "date": "2020-10-14T00:00:00.000Z",
     "slugs": [
       "01-eduardo-risso-batman",
       "100-todd-mcfarlane-batman",
@@ -32,6 +35,7 @@
   {
     "name": "Batman Black & White S2",
     "season": 1,
+    "date": "2020-11-04T00:00:00.000Z",
     "slugs": [
       "21-jim-lee-the-joker",
       "61-dick-sprang-the-joker",
@@ -42,6 +46,7 @@
   {
     "name": "Batman Black & White S3",
     "season": 1,
+    "date": "2020-12-24T00:00:00.000Z",
     "slugs": [
       "24-brian-bolland-penguin",
       "56-bruce-timm-harley-quinn",
@@ -52,6 +57,7 @@
   {
     "name": "Batman Black & White S4",
     "season": 1,
+    "date": "2021-03-11T00:00:00.000Z",
     "slugs": [
       "42-darwyn-cooke-batman",
       "55-gary-frank-batman",
@@ -62,6 +68,7 @@
   {
     "name": "Batman Black & White S5",
     "season": 2,
+    "date": "2021-05-20T00:00:00.000Z",
     "slugs": [
       "06-batman",
       "71-batman",
@@ -72,6 +79,7 @@
   {
     "name": "Big Barda ",
     "season": 1,
+    "date": "2020-12-09T00:00:00.000Z",
     "slugs": [
       "big-barda"
     ]
@@ -79,6 +87,7 @@
   {
     "name": "Bombshells - S2",
     "season": 2,
+    "date": "2021-06-24T00:00:00.000Z",
     "slugs": [
       "death",
       "harley-quinn-deluxe-2"
@@ -87,6 +96,7 @@
   {
     "name": "Captain America ",
     "season": 2,
+    "date": "2021-08-14T00:00:00.000Z",
     "slugs": [
       "bucky-barnes",
       "john-f.-walker",
@@ -98,6 +108,7 @@
   {
     "name": "Captain Carter",
     "season": 2,
+    "date": "2021-10-09T00:00:00.000Z",
     "slugs": [
       "captain-carter"
     ]
@@ -105,6 +116,7 @@
   {
     "name": "Cereal Killers - S1",
     "season": 2,
+    "date": "2021-06-10T00:00:00.000Z",
     "slugs": [
       "cap'n-cornstarch",
       "count-calorie",
@@ -115,6 +127,7 @@
   {
     "name": "Cereal Killers - S2",
     "season": 2,
+    "date": "2021-09-18T00:00:00.000Z",
     "slugs": [
       "franken-fat",
       "sugar-bear",
@@ -125,6 +138,7 @@
   {
     "name": "CHOICES - S1",
     "season": 2,
+    "date": "2021-07-23T00:00:00.000Z",
     "slugs": [
       "the-assassin",
       "the-hunter",
@@ -135,6 +149,7 @@
   {
     "name": "Cover Girls - S1",
     "season": 2,
+    "date": "2021-05-27T00:00:00.000Z",
     "slugs": [
       "batgirl",
       "catwoman",
@@ -145,6 +160,7 @@
   {
     "name": "Cryptkins - S1",
     "season": 1,
+    "date": "2021-05-06T00:00:00.000Z",
     "slugs": [
       "bigfoot",
       "chupacabra",
@@ -163,6 +179,7 @@
   {
     "name": "Cthulhu Idols",
     "season": 2,
+    "date": "2021-07-23T00:00:00.000Z",
     "slugs": [
       "cthulhu-idol-bronze",
       "cthulhu-idol-gold",
@@ -173,6 +190,7 @@
   {
     "name": "DeLorean Time Machine ",
     "season": 1,
+    "date": "2021-04-08T00:00:00.000Z",
     "slugs": [
       "1:1-delorean-time-machine-interactive",
       "1:1-delorean-time-machine-static",
@@ -182,6 +200,7 @@
   {
     "name": "Dragon Girl",
     "season": 1,
+    "date": "2021-05-13T00:00:00.000Z",
     "slugs": [
       "dragon-girl-gold-pink",
       "dragon-girl-silver",
@@ -192,6 +211,7 @@
   {
     "name": "Ecto-1",
     "season": 2,
+    "date": "2021-07-17T00:00:00.000Z",
     "slugs": [
       "1:1-ecto-1-interactive",
       "1:1-ecto-1-static",
@@ -201,6 +221,7 @@
   {
     "name": "Fantastic Four",
     "season": 2,
+    "date": "2021-08-28T00:00:00.000Z",
     "slugs": [
       "doctor-doom",
       "human-torch",
@@ -210,8 +231,9 @@
     ]
   },
   {
-    "name": "Ghostbusters i - S1",
+    "name": "Ghostbusters I - S1",
     "season": 1,
+    "date": "2021-01-28T00:00:00.000Z",
     "slugs": [
       "ghost-trap",
       "ghostbusters-i-logo",
@@ -221,8 +243,9 @@
     ]
   },
   {
-    "name": "GIVENCHY  + Rewind Collective",
+    "name": "GIVENCHY + Rewind Collective",
     "season": 2,
+    "date": "2021-06-21T00:00:00.000Z",
     "slugs": [
       "house-of-cards-amelia-earhart",
       "house-of-cards-cleopatra",
@@ -233,6 +256,7 @@
   {
     "name": "Harley Quinn: RWB - S1",
     "season": 1,
+    "date": "2021-02-11T00:00:00.000Z",
     "slugs": [
       "harley-quinn-06-terry-dodson",
       "harley-quinn-08-babs-tarr",
@@ -241,8 +265,20 @@
     ]
   },
   {
+    "name": "Harley Quinn: RWB - S2",
+    "season": 3,
+    "date": "2021-10-16T00:00:00.000Z",
+    "slugs": [
+      "13-harley-quinn",
+      "5-harley-quinn",
+      "11-harley-quinn",
+      "12-harley-quinn"
+    ]
+  },
+  {
     "name": "Hoverboards",
     "season": 2,
+    "date": "2021-07-21T00:00:00.000Z",
     "slugs": [
       "marty's-hoverboard",
       "no-tech-hoverboard",
@@ -254,6 +290,7 @@
   {
     "name": "Labbit - S1",
     "season": 2,
+    "date": "2021-07-01T00:00:00.000Z",
     "slugs": [
       "backstab-smorkin'-labbit",
       "happy-'stache-labbit",
@@ -266,6 +303,7 @@
   {
     "name": "Labbit - S2",
     "season": 2,
+    "date": "2021-10-02T00:00:00.000Z",
     "slugs": [
       "corpsman",
       "hooverville-labbit-rubberleg-colorway",
@@ -278,6 +316,7 @@
   {
     "name": "Marvel 1st's - Captain America - S1",
     "season": 2,
+    "date": "2021-08-31T00:00:00.000Z",
     "slugs": [
       "captain-america---animated",
       "captain-america---charging-into-battle",
@@ -289,6 +328,7 @@
   {
     "name": "Mermicorno - S1",
     "season": 1,
+    "date": "2021-04-06T00:00:00.000Z",
     "slugs": [
       "cora",
       "corsica",
@@ -302,8 +342,9 @@
     ]
   },
   {
-    "name": "Modern Marvel S1 - Spider-man",
+    "name": "Modern Marvel S1 - Spider-Man",
     "season": 2,
+    "date": "2021-08-07T00:00:00.000Z",
     "slugs": [
       "spider-man---hangin'-out",
       "spider-man---jump-into-action",
@@ -315,6 +356,7 @@
   {
     "name": "Mondo - S1",
     "season": 2,
+    "date": "2021-07-24T00:00:00.000Z",
     "slugs": [
       "back-to-the-future",
       "bill-and-ted's-bogus-journey",
@@ -323,8 +365,16 @@
     ]
   },
   {
+    "name": "Mondo - S2",
+    "season": 2,
+    "date": "2021-10-10T00:00:00.000Z",
+    "slugs": [
+    ]
+  },
+  {
     "name": "NTTD: Series 1",
     "season": 2,
+    "date": "2021-10-01T00:00:00.000Z",
     "slugs": [
       "1:1-glider-animated",
       "1:1-glider-static",
@@ -334,6 +384,7 @@
   {
     "name": "NTTD: Posters - Set 1",
     "season": 2,
+    "date": "2021-10-01T00:00:00.000Z",
     "slugs": [
       "coming-soon-poster",
       "marking-time"
@@ -342,6 +393,7 @@
   {
     "name": "NTTD: Posters - Set 2",
     "season": 2,
+    "date": "2021-10-03T00:00:00.000Z",
     "slugs": [
       "man-on-a-mission",
       "white-out"
@@ -350,6 +402,7 @@
   {
     "name": "NTTD: Posters - Set 3",
     "season": 2,
+    "date": "2021-10-07T00:00:00.000Z",
     "slugs": [
       "no-time",
       "to-die-for"
@@ -358,6 +411,7 @@
   {
     "name": "NTTD: Posters - Set 4",
     "season": 2,
+    "date": "2021-10-13T00:00:00.000Z",
     "slugs": [
       "safin's-lair",
       "twist"
@@ -366,6 +420,7 @@
   {
     "name": "Powerpuff Girls - Series 1",
     "season": 1,
+    "date": "2020-04-20T00:00:00.000Z",
     "slugs": [
       "blossom",
       "buttercup",
@@ -376,6 +431,7 @@
   {
     "name": "Powerpuff Girls - Series 2",
     "season": 1,
+    "date": "2021-01-07T00:00:00.000Z",
     "slugs": [
       "bubbles",
       "donny",
@@ -386,6 +442,7 @@
   {
     "name": "Spider-Man (Ben Reilly)",
     "season": 2,
+    "date": "2021-10-07T00:00:00.000Z",
     "slugs": [
       "ben-reilly-acrobatic-arachnid",
       "ben-reilly-beyond-spider-man"
@@ -394,6 +451,7 @@
   {
     "name": "Starfire",
     "season": 1,
+    "date": "2021-01-07T00:00:00.000Z",
     "slugs": [
       "starfire"
     ]
@@ -401,6 +459,7 @@
   {
     "name": "Starships - S1",
     "season": 2,
+    "date": "2021-09-08T00:00:00.000Z",
     "slugs": [
       "borg-cube-(1:1)",
       "borg-cube-(1:1000)",
@@ -411,13 +470,15 @@
   {
     "name": "Superman - S1",
     "season": 2,
+    "date": "2021-06-17T00:00:00.000Z",
     "slugs": [
       "superman"
     ]
   },
   {
-    "name": "THE RISE OF ULTRAMAN - S1",
+    "name": "The Rise of Ultraman - S1",
     "season": 1,
+    "date": "2020-04-29T00:00:00.000Z",
     "slugs": [
       "the-rise-of-ultraman-1-adi-granov",
       "the-rise-of-ultraman-1-alex-ross",
@@ -430,6 +491,7 @@
   {
     "name": "Throg",
     "season": 2,
+    "date": "2021-09-25T00:00:00.000Z",
     "slugs": [
       "throg---frog-of-thunder",
       "throg---lightning-leap",
@@ -439,6 +501,7 @@
   {
     "name": "Toy Tokyo - Lucky",
     "season": 2,
+    "date": "2021-07-25T00:00:00.000Z",
     "slugs": [
       "lucky"
     ]
@@ -446,13 +509,15 @@
   {
     "name": "Toy Tokyo - Mooglie",
     "season": 1,
+    "date": "2021-02-18T00:00:00.000Z",
     "slugs": [
       "ghostbusters-i-logo-gold"
     ]
   },
   {
-    "name": "Toy Tokyo Dragon Girl",
+    "name": "Toy Tokyo - Dragon Girl",
     "season": 2,
+    "date": "2021-10-09T00:00:00.000Z",
     "slugs": [
       "dragon-girl-gold"
     ]
@@ -460,15 +525,18 @@
   {
     "name": "Ultraman - S1",
     "season": 1,
+    "date": "2020-03-25T00:00:00.000Z",
     "slugs": [
       "ultraman",
       "ultraman-ace",
-      "ultraman-seven"
+      "ultraman-seven",
+      "edo"
     ]
   },
   {
     "name": "Unicorno - S1",
     "season": 1,
+    "date": "2021-01-14T00:00:00.000Z",
     "slugs": [
       "bellina",
       "dolce",
