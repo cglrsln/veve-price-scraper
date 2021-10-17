@@ -15,6 +15,10 @@ jobs:
       run: npm run scrape
       # env:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+    - name: Build
+      run: npm run build
+    - name: Deploy
+      run: npm run deploy
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you

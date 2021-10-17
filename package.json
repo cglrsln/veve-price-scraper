@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "scrape": "node ./scrape.js",
-    "build": "node ./build.js"
+    "build": "node ./build.js",
+    "deploy": "gh-pages -d build"
   },
   "author": "cmar",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.23.0"
+    "axios": "^0.23.0",
+    "gh-pages": "^3.2.3"
   }
 }
