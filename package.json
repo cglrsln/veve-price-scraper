@@ -6,6 +6,7 @@
   "scripts": {
     "scrape": "node ./scrape.js",
     "build": "node ./build.js",
+    "deploy": "gh-pages -d build"
   },
   "author": "cmar",
   "license": "ISC",
