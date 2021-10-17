@@ -1,0 +1,1479 @@
+[
+  {
+    "name": "Adventure Time S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Adventure Time",
+        "name": "Finn Mertens",
+        "id": "426396ef-3b30-4c84-aa70-06e932ddde6c",
+        "floorPrice": 49.89
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Ice King",
+        "id": "d066e432-247f-4ca1-8e43-671a67a3bbd9",
+        "floorPrice": 101
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Jake the Dog",
+        "id": "440badb6-242f-414a-bc86-db6f15f2cc8b",
+        "floorPrice": 62.5
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Marceline",
+        "id": "1a408aac-5fa7-4995-8244-c45fc1026f89",
+        "floorPrice": 748
+      }
+    ],
+    "total": 961.39
+  },
+  {
+    "name": "Adventure Time S2",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Adventure Time",
+        "name": "BMO",
+        "id": "ea0d07e7-6beb-4178-af18-8673c66d074f",
+        "floorPrice": 34.99
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Lady Rainicorn",
+        "id": "7f046b6a-22f0-43c7-901c-1544c39661f9",
+        "floorPrice": 697.95
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Lumpy Space Princess",
+        "id": "70dca326-5dc9-4e24-8c5c-1200d7409f45",
+        "floorPrice": 92
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Princess Bubblegum",
+        "id": "1d9b6785-9c6a-482b-9720-7bb9ba57acac",
+        "floorPrice": 52.5
+      }
+    ],
+    "total": 877.44
+  },
+  {
+    "name": "Batman Black & White S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#01 Eduardo Risso Batman",
+        "id": "5cd5b20e-02da-4be2-8060-b7d03b2383d5",
+        "floorPrice": 6009
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#100 Todd McFarlane Batman",
+        "id": "c3df7496-e8e7-4507-b80a-5c2b5d996645",
+        "floorPrice": 1799
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#86 - Becky Cloonan Batman",
+        "id": "aae6ca8f-ecdb-47e6-9ce9-d6ae87c82507",
+        "floorPrice": 669
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#97 Joe Madureira Batman",
+        "id": "a659bbc2-45cd-4f72-9ca2-7e92a245d05f",
+        "floorPrice": 365
+      }
+    ],
+    "total": 8842
+  },
+  {
+    "name": "Batman Black & White S2",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#21 Jim Lee The Joker ",
+        "id": "01d0a2d6-acf0-457d-9382-2705811f68d8",
+        "floorPrice": 300
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#61 Dick Sprang The Joker",
+        "id": "800bbeeb-bae9-43a4-96fd-ba42af86e14c",
+        "floorPrice": 340
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#72 Carmine Infantino Robin ",
+        "id": "6211625a-9004-4b34-9a45-fbdb0eaa8cbb",
+        "floorPrice": 1300
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#77 Jason Fabok Batman",
+        "id": "8b6f7901-07e9-40a7-ad50-2c95929f134d",
+        "floorPrice": 146
+      }
+    ],
+    "total": 2086
+  },
+  {
+    "name": "Batman Black & White S3",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#24 Brian Bolland Penguin",
+        "id": "cc9837df-83e2-4394-bac5-eda08eb0041e",
+        "floorPrice": 314
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#56 Bruce Timm Harley Quinn",
+        "id": "da4f0ab8-00be-498e-8784-bde7d0d105e2",
+        "floorPrice": 250
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#60 Dick Sprang Batman",
+        "id": "11f07bd6-7fc3-4516-897a-0da17d09abe5",
+        "floorPrice": 120
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#81 - Amanda Conner Batman",
+        "id": "d1950c68-0bd7-47c3-a183-aa950613de36",
+        "floorPrice": 1200
+      }
+    ],
+    "total": 1884
+  },
+  {
+    "name": "Batman Black & White S4",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#42 Darwyn Cooke Batman",
+        "id": "e2950e9a-9322-43ba-baba-a447d1861c8e",
+        "floorPrice": 52
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#55 Gary Frank Batman",
+        "id": "2ece2756-2e75-4d17-847a-45bbd9935e0f",
+        "floorPrice": 109.99
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#57 Jae Lee Batman",
+        "id": "2b0b5138-1455-4924-96f1-879d7be7bca3",
+        "floorPrice": 299
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#79 Jim Lee Nightwing",
+        "id": "1faf6762-b397-4ea7-881d-6f9b24776f2c",
+        "floorPrice": 1500
+      }
+    ],
+    "total": 1960.99
+  },
+  {
+    "name": "Batman Black & White S5",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#06 Batman",
+        "id": "a71212b1-46e9-4c0e-8953-8d1c7c88616f",
+        "floorPrice": 430
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#71 Batman",
+        "id": "8e9682fc-9d88-4dad-a61e-74d743da57e7",
+        "floorPrice": 99
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#76 Robin",
+        "id": "7384abab-ff07-4cf8-8d3e-2085e4945f75",
+        "floorPrice": 49.99
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#89 Batman",
+        "id": "2574a367-7ea1-4f57-be52-f226c2ed6e70",
+        "floorPrice": 49.89
+      }
+    ],
+    "total": 628.88
+  },
+  {
+    "name": "Big Barda ",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Bombshells",
+        "name": "Big Barda",
+        "id": "81f5212c-348a-48ea-b4da-f81a25b8376b",
+        "floorPrice": 1850
+      }
+    ],
+    "total": 1850
+  },
+  {
+    "name": "Bombshells - S2",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Bombshells",
+        "name": "Death",
+        "id": "20578f42-c47c-454a-bb1a-7f2d78b56905",
+        "floorPrice": 670
+      },
+      {
+        "brand": "Bombshells",
+        "name": "Harley Quinn Deluxe 2",
+        "id": "fc394894-444f-43ad-927b-19390c5eef03",
+        "floorPrice": 138
+      }
+    ],
+    "total": 808
+  },
+  {
+    "name": "Captain America ",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Marvel Mightys",
+        "name": "Bucky Barnes",
+        "id": "488697cf-fc29-478a-807b-99795f740790",
+        "floorPrice": 51
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "John F. Walker",
+        "id": "8854d1aa-b535-4a8d-9a7f-1392b8581136",
+        "floorPrice": 16.39
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Red Skull",
+        "id": "c6c4987d-df55-48bf-b727-655b73668c06",
+        "floorPrice": 460
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Sam Wilson",
+        "id": "def65f71-6b97-4cff-a72d-e346d091c582",
+        "floorPrice": 15
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Steve Rogers",
+        "id": "86a1c74b-4fff-4729-9cf9-57d92f29e053",
+        "floorPrice": 15.6
+      }
+    ],
+    "total": 557.99
+  },
+  {
+    "name": "Captain Carter",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Marvel Mightys",
+        "name": "Captain Carter ",
+        "id": "eb1a9ec3-d193-4956-bcb8-d16d5a4a68a7",
+        "floorPrice": 255.99
+      }
+    ],
+    "total": 255.99
+  },
+  {
+    "name": "Cereal Killers - S1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Cereal Killers",
+        "name": "Cap'n Cornstarch",
+        "id": "c9d59609-5b77-4acc-a73d-8a78141e7089",
+        "floorPrice": 90
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Count Calorie",
+        "id": "4ee198eb-1dd7-435c-9967-63297f2eb4e0",
+        "floorPrice": 718
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Fat Tony",
+        "id": "930d65c5-68db-4833-b585-ea9d47b26521",
+        "floorPrice": 69.99
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Honey Butt the Obese",
+        "id": "19861993-902b-4a5a-a7d7-bd90a8cc5849",
+        "floorPrice": 240
+      }
+    ],
+    "total": 1117.99
+  },
+  {
+    "name": "Cereal Killers - S2",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Cereal Killers",
+        "name": "Franken Fat",
+        "id": "b4dab570-ab46-4f42-bd42-3a8d3737dbcd",
+        "floorPrice": 71
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Sugar Bear",
+        "id": "20b33086-b896-4e06-afa4-66fd7f2ca96e",
+        "floorPrice": 155
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Two Ton Sam",
+        "id": "0e0313e5-e1bb-43be-bf73-e45bf130d86b",
+        "floorPrice": 49
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Yucky Charmer",
+        "id": "06289587-89e9-4317-bd5b-038fe1f2150e",
+        "floorPrice": 473
+      }
+    ],
+    "total": 748
+  },
+  {
+    "name": "CHOICES - S1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "CHOICES",
+        "name": "The Assassin",
+        "id": "7c472cd2-cab6-46f0-b837-d4ac17410860",
+        "floorPrice": 440
+      },
+      {
+        "brand": "CHOICES",
+        "name": "The Hunter",
+        "id": "d08cf3f5-f182-4de6-a540-2fbeb726561a",
+        "floorPrice": 1950
+      },
+      {
+        "brand": "CHOICES",
+        "name": "The Nightwatch",
+        "id": "a68f4b72-a24f-460f-b702-cee4cc6ebdf3",
+        "floorPrice": 649
+      },
+      {
+        "brand": "CHOICES",
+        "name": "The Protector",
+        "id": "2b187b2b-fa3d-440d-80c1-2389f864d051",
+        "floorPrice": 190
+      }
+    ],
+    "total": 3229
+  },
+  {
+    "name": "Cover Girls - S1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "DC Cover Girls ",
+        "name": "Batgirl",
+        "id": "bc50774d-b923-4a5c-8e5d-f25608e1e80e",
+        "floorPrice": 35.5
+      },
+      {
+        "brand": "DC Cover Girls ",
+        "name": "Catwoman",
+        "id": "b94e5d49-35f0-4bdc-9e41-d5c484df5ae7",
+        "floorPrice": 58
+      },
+      {
+        "brand": "DC Cover Girls ",
+        "name": "Mera",
+        "id": "112e7f6e-11a6-4f58-ad0a-2002bd823aa8",
+        "floorPrice": 97.9
+      },
+      {
+        "brand": "DC Cover Girls ",
+        "name": "Supergirl",
+        "id": "ae9b4b16-bc4e-4457-9c69-a3306c976ed7",
+        "floorPrice": 680.99
+      }
+    ],
+    "total": 872.39
+  },
+  {
+    "name": "Cryptkins - S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Cryptkins",
+        "name": "Bigfoot",
+        "id": "4a1211b1-0144-4827-8014-2120901a5b91",
+        "floorPrice": 18
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Chupacabra",
+        "id": "bfc830d9-4653-4599-b0ec-770a5d9d0bd6",
+        "floorPrice": 18.5
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Cosmic Cthulhu",
+        "id": "fbc02c5d-22e6-4138-a608-c2929be9d141",
+        "floorPrice": 460.99
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Cthulhu",
+        "id": "fa6174f5-8f13-48e2-88ed-d8af2e610c4a",
+        "floorPrice": 32
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Jersey Devil",
+        "id": "c9840620-e6cb-4265-8e45-40b4910c7948",
+        "floorPrice": 33.9
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Mothman",
+        "id": "cb193c14-f7ff-4530-82f4-69d9ee5f8604",
+        "floorPrice": 35
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Nessie",
+        "id": "8fc5ef65-80b8-4b61-9cad-3a8de0cc472a",
+        "floorPrice": 17.98
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Nightcrawler",
+        "id": "546d39b0-c7e7-4bef-b2ba-8bca695397a0",
+        "floorPrice": 90.5
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Ogopogo",
+        "id": "e8e8f443-c51f-409c-970b-026a7ec7ce20",
+        "floorPrice": 69.99
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Thunderbird",
+        "id": "7a892a43-f3b9-4542-ab17-7fd15022899a",
+        "floorPrice": 80.8
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Twilight Mothman",
+        "id": "34be3430-9c6d-4d66-bd10-4fdde8d16392",
+        "floorPrice": 28
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Yeti",
+        "id": "4d54ae43-aee0-4c77-98cb-0da25af253ee",
+        "floorPrice": 20
+      }
+    ],
+    "total": 905.66
+  },
+  {
+    "name": "Cthulhu Idols",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Call of Cthulhu",
+        "name": "Cthulhu Idol - Bronze",
+        "id": "210d1f92-1a57-47d4-aff0-965aff056b32",
+        "floorPrice": 137
+      },
+      {
+        "brand": "Call of Cthulhu",
+        "name": "Cthulhu Idol - Gold",
+        "id": "270dc2b6-b609-42e9-b074-7a3afc4c821a",
+        "floorPrice": 239.99
+      },
+      {
+        "brand": "Call of Cthulhu",
+        "name": "Cthulhu Idol - Jade",
+        "id": "ab958f89-ccd1-4b8f-a520-ae2fa638d138",
+        "floorPrice": 185
+      },
+      {
+        "brand": "Call of Cthulhu",
+        "name": "Necronomicon (Book of the Dead)",
+        "id": "1e30f14b-8d53-451c-a1e4-24ffdc99f44c",
+        "floorPrice": 389
+      }
+    ],
+    "total": 950.99
+  },
+  {
+    "name": "DeLorean Time Machine ",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Back to the Future",
+        "name": "1:1 DeLorean Time Machine - Interactive",
+        "id": "c898af60-be8a-490a-ac2b-537869c1892a",
+        "floorPrice": 380
+      },
+      {
+        "brand": "Back to the Future",
+        "name": "1:1 DeLorean Time Machine - Static",
+        "id": "a64c22fa-268e-4153-b31f-2b93d8c877eb",
+        "floorPrice": 61
+      },
+      {
+        "brand": "Back to the Future",
+        "name": "1:6 DeLorean Time Machine - Interactive",
+        "id": "30a9f14d-f5ef-4047-bf97-c2b047190f83",
+        "floorPrice": 28
+      }
+    ],
+    "total": 469
+  },
+  {
+    "name": "Dragon Girl",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Dragon Girl",
+        "name": "Dragon Girl - Gold / Pink",
+        "id": "1def2f37-8043-4aa8-a490-b4024db216ff",
+        "floorPrice": 90
+      },
+      {
+        "brand": "Dragon Girl",
+        "name": "Dragon Girl - Silver",
+        "id": "cc920654-08b2-4e7d-a8af-bef9b0fe3775",
+        "floorPrice": 640
+      },
+      {
+        "brand": "Dragon Girl",
+        "name": "Dragon Girl - Silver / Black",
+        "id": "fe5be1bb-4c44-4ca3-985a-0d5a2e2c4a30",
+        "floorPrice": 170
+      },
+      {
+        "brand": "Dragon Girl",
+        "name": "Dragon Girl - Silver / Gold",
+        "id": "5dbf436a-0525-4a8b-b374-89ea8468273b",
+        "floorPrice": 3599
+      }
+    ],
+    "total": 4499
+  },
+  {
+    "name": "Ecto-1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Ghostbusters I",
+        "name": "1:1 Ecto-1 Interactive",
+        "id": "2cb3a529-07d0-4a7f-a911-2aa392d652c1",
+        "floorPrice": 320
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "1:1 Ecto-1 Static",
+        "id": "fde25c18-f029-423b-a295-07de8a210cf9",
+        "floorPrice": 77.99
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "1:6 Ecto-1 Interactive",
+        "id": "e6c7fca7-2199-42e1-b12e-1b289821520b",
+        "floorPrice": 39
+      }
+    ],
+    "total": 436.99
+  },
+  {
+    "name": "Fantastic Four",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Marvel Mightys",
+        "name": "Doctor Doom",
+        "id": "f2ba3cb4-e1e6-41c0-a18c-28524b52f299",
+        "floorPrice": 410
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Human Torch",
+        "id": "15399c5e-7cd8-46c3-9240-9db5794ceea3",
+        "floorPrice": 42
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Invisible Woman",
+        "id": "4a8e584e-4cd0-47e8-8954-af74c52d90fe",
+        "floorPrice": 16.99
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Mister Fantastic",
+        "id": "2dc769f6-356f-4001-b568-8e7dcdbf624b",
+        "floorPrice": 12
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "The Thing",
+        "id": "ab37308f-a1f8-4c67-8664-2ed76b13f914",
+        "floorPrice": 11.95
+      }
+    ],
+    "total": 492.94
+  },
+  {
+    "name": "Ghostbusters i - S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Ghostbusters I",
+        "name": "Ghost Trap",
+        "id": "8d5e5124-9f63-4f31-b838-f13a510ea10d",
+        "floorPrice": 615
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "Ghostbusters I Logo",
+        "id": "2db7508c-bd14-4598-b6e3-108619c46c80",
+        "floorPrice": 293
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "Ghostbusters I Logo - Platinum",
+        "id": "16c33ccb-f980-45d1-b27a-9b1d64e5bd24",
+        "floorPrice": 33999
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "Slimer",
+        "id": "ab17502b-9e6d-4e72-8fdd-6ffa6c9ef22c",
+        "floorPrice": 80
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "Stay Puft Marshmallow Man",
+        "id": "9ab7ce3a-cdc7-4d0c-bd6c-9063a85f8271",
+        "floorPrice": 205
+      }
+    ],
+    "total": 35192
+  },
+  {
+    "name": "GIVENCHY  + Rewind Collective",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "GIVENCHY + Rewind Collective",
+        "name": "House of Cards - Amelia Earhart",
+        "id": "81aca877-c44a-4469-a8f5-32c9b26a4872",
+        "floorPrice": 3099
+      },
+      {
+        "brand": "GIVENCHY + Rewind Collective",
+        "name": "House of Cards - Cleopatra",
+        "id": "b020552b-10e3-46c8-9d99-986ed9f90c62",
+        "floorPrice": 3499
+      },
+      {
+        "brand": "GIVENCHY + Rewind Collective",
+        "name": "PRIDE: Givenchy Beauty",
+        "id": "44f34b03-80c8-4962-b24d-caf00dd052d0",
+        "floorPrice": 5399
+      },
+      {
+        "brand": "GIVENCHY + Rewind Collective",
+        "name": "Rewind Collective Logo",
+        "id": "4a49549d-9049-4a63-930e-d563e53fb9c2",
+        "floorPrice": 715
+      }
+    ],
+    "total": 12712
+  },
+  {
+    "name": "Harley Quinn: RWB - S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "Harley Quinn - #06 Terry Dodson",
+        "id": "74464753-0902-4b7b-b3a5-c345e981356f",
+        "floorPrice": 2052
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "Harley Quinn - #08  Babs Tarr",
+        "id": "fd6c3850-436f-4356-a399-ce4b973a0355",
+        "floorPrice": 495
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "Harley Quinn - #18 Guillem March",
+        "id": "e4508980-6ec1-4337-9535-c18a494c62d7",
+        "floorPrice": 315
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "Harley Quinn - #19 Steve Pugh",
+        "id": "9c635d40-5aea-484a-b0fb-03d819ba3885",
+        "floorPrice": 8994
+      }
+    ],
+    "total": 11856
+  },
+  {
+    "name": "Hoverboards",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Back to the Future II",
+        "name": "Marty’s Hoverboard",
+        "id": "160a236e-b8bd-4f20-ba0e-9d875310b5cf",
+        "floorPrice": 102.99
+      },
+      {
+        "brand": "Back to the Future II",
+        "name": "No Tech Hoverboard",
+        "id": "91628d4f-bf1a-454d-a213-424f34877bd2",
+        "floorPrice": 21.99
+      },
+      {
+        "brand": "Back to the Future II",
+        "name": "Pitbull Hoverboard",
+        "id": "36b25fe3-e907-4e0e-bcd8-aba4ef22a86a",
+        "floorPrice": 318.98
+      },
+      {
+        "brand": "Back to the Future II",
+        "name": "Question Mark Hoverboard",
+        "id": "87b0e695-6422-4005-a898-294b76ac64d1",
+        "floorPrice": 65
+      },
+      {
+        "brand": "Back to the Future II",
+        "name": "Rising Sun Hoverboard",
+        "id": "be660c37-ee7b-4da4-84ba-2138788889cd",
+        "floorPrice": 39.99
+      }
+    ],
+    "total": 548.95
+  },
+  {
+    "name": "Labbit - S1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Labbit",
+        "name": "Backstab Smorkin’ Labbit",
+        "id": "1b57b5d3-b008-431e-884d-4b647ad7a840",
+        "floorPrice": 2040
+      },
+      {
+        "brand": "Labbit",
+        "name": "Happy ‘Stache Labbit",
+        "id": "e7c892b7-f899-4466-9cf9-d1a3037a4125",
+        "floorPrice": 93
+      },
+      {
+        "brand": "Labbit",
+        "name": "Smorkin' Labbit - Choice Cuts",
+        "id": "0deb4d99-746c-463e-80f9-43c724334c8f",
+        "floorPrice": 98
+      },
+      {
+        "brand": "Labbit",
+        "name": "Smorkin’ Labbit - Red",
+        "id": "5789d5e0-4f21-4ee9-8872-827e22cafeed",
+        "floorPrice": 168
+      },
+      {
+        "brand": "Labbit",
+        "name": "The Visible Labbit",
+        "id": "b39fd90a-c0dc-40ab-83da-7f142cc2b450",
+        "floorPrice": 325
+      },
+      {
+        "brand": "Labbit",
+        "name": "The Visible Labbit - Neon Edition",
+        "id": "3d677e40-ac5d-4c53-83a2-892d8275524e",
+        "floorPrice": 465
+      }
+    ],
+    "total": 3189
+  },
+  {
+    "name": "Labbit - S2",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Labbit",
+        "name": "Corpsman",
+        "id": "f968a512-4d1a-4e18-8dd5-c43a6850245b",
+        "floorPrice": 109.74
+      },
+      {
+        "brand": "Labbit",
+        "name": "Hooverville Labbit - Rubberleg Colorway",
+        "id": "2d980362-7129-4c34-96e2-e939f5e89318",
+        "floorPrice": 509
+      },
+      {
+        "brand": "Labbit",
+        "name": "Hooverville Labbit - Sunny Side of the Street",
+        "id": "bf653adf-4386-497a-94ae-273e03b14d5f",
+        "floorPrice": 200
+      },
+      {
+        "brand": "Labbit",
+        "name": "Labbicorn",
+        "id": "8a03f0f9-49ef-476f-8597-c76736f7b5e6",
+        "floorPrice": 405
+      },
+      {
+        "brand": "Labbit",
+        "name": "Redrum",
+        "id": "dd3e18ed-b702-4173-81a9-85534f4003d4",
+        "floorPrice": 240
+      },
+      {
+        "brand": "Labbit",
+        "name": "White Backstab",
+        "id": "148b9255-4ea9-4a4e-b3f3-9b8a77f780b3",
+        "floorPrice": 1800
+      }
+    ],
+    "total": 3263.74
+  },
+  {
+    "name": "Marvel 1st's - Captain America - S1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Captain America",
+        "name": "Captain America – Animated",
+        "id": "08e30682-b725-430f-bdfd-36394fb1aa0e",
+        "floorPrice": 544
+      },
+      {
+        "brand": "Captain America",
+        "name": "Captain America – Charging Into Battle",
+        "id": "d8bf15a2-5c6c-46ea-97d4-1cbf112c35b5",
+        "floorPrice": 42
+      },
+      {
+        "brand": "Captain America",
+        "name": "Captain America – The First Avenger",
+        "id": "43f8507e-4ad6-420b-b6ca-1c1b86d9e275",
+        "floorPrice": 35
+      },
+      {
+        "brand": "Captain America",
+        "name": "Captain America – The Punch",
+        "id": "df8fec71-7e54-4dfb-b3e4-ea9c83aceca7",
+        "floorPrice": 96.99
+      },
+      {
+        "brand": "Captain America",
+        "name": "Captain America – Ultimate Animated",
+        "id": "c80fcf06-5894-4482-ad1f-e0b9389d3c77",
+        "floorPrice": 2200
+      }
+    ],
+    "total": 2917.99
+  },
+  {
+    "name": "Mermicorno - S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Mermicornos",
+        "name": "Cora",
+        "id": "d6188453-4f85-4b50-b20e-1c2e80efc5b0",
+        "floorPrice": 21.79
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Corsica",
+        "id": "df39672c-65a7-4146-af25-e5abeac76b0b",
+        "floorPrice": 313
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Gelatina",
+        "id": "03ac1002-6575-4474-bf58-6175aee35f97",
+        "floorPrice": 21.69
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Marea",
+        "id": "ad761d8b-81dd-4a57-a3ef-92de47c14f15",
+        "floorPrice": 27
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Marina",
+        "id": "0828162e-a0e2-44a7-8e00-f86bbde3fd86",
+        "floorPrice": 30.9
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Oceania",
+        "id": "bfce2c61-9279-4ba2-a27b-fedd5db3672e",
+        "floorPrice": 19.9
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Perla",
+        "id": "8e2d9ecb-33f4-411a-b106-737f61d1a76d",
+        "floorPrice": 30
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Sirena",
+        "id": "cbeeec13-aef9-4d30-a06b-6d429669b152",
+        "floorPrice": 17.99
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Tropicana",
+        "id": "6f7ce463-15ba-484f-939f-2ec6a87f4a5c",
+        "floorPrice": 76
+      }
+    ],
+    "total": 558.27
+  },
+  {
+    "name": "Modern Marvel S1 - Spider-man",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man – Hangin’ Out",
+        "id": "2e87137d-51b3-41ee-93e1-80e0e799d6ba",
+        "floorPrice": 71
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man – Jump into Action",
+        "id": "4b3b200b-8469-43a2-aa68-114a4d9e0306",
+        "floorPrice": 165
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man – The Amazing Spider-Man",
+        "id": "fc943f7c-7e87-4f6e-b38e-8bc02c6cf7a6",
+        "floorPrice": 65
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man – Ultimate Animated",
+        "id": "7c5eb748-9229-452d-9bfd-00c75c029499",
+        "floorPrice": 7500
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man - Animated",
+        "id": "d03f035e-fe59-40f6-9977-3cef76ee112b",
+        "floorPrice": 1500
+      }
+    ],
+    "total": 9301
+  },
+  {
+    "name": "Mondo - S1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Back to the Future",
+        "id": "bba0290e-1506-4702-a8fb-c1892b5bb638",
+        "floorPrice": 289
+      },
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Bill & Ted's Bogus Journey",
+        "id": "9fc00c0d-146d-4f67-8acc-8a8ad3ea2008",
+        "floorPrice": 134
+      },
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Bill & Ted's Excellent Adventure",
+        "id": "e30057f4-2b69-4e5f-9848-ae0a5c19170d",
+        "floorPrice": 168.69
+      },
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Jaws",
+        "id": "9d699038-aa8c-4037-b7f9-c91b3e8c57e5",
+        "floorPrice": 275
+      }
+    ],
+    "total": 866.69
+  },
+  {
+    "name": "NTTD: Series 1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "1:1 Glider - Animated",
+        "id": "68b32df0-5f80-4e31-8a4d-d0d5e8b3c436",
+        "floorPrice": 389
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "1:1 Glider - Static",
+        "id": "5073ba5e-ca2b-472d-be6e-21d306878469",
+        "floorPrice": 90
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "Safin’s Mask",
+        "id": "91ae052f-7496-48f1-a96d-0ece0dca200d",
+        "floorPrice": 68.99
+      }
+    ],
+    "total": 547.99
+  },
+  {
+    "name": "NTTD: Posters - Set 1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "Coming Soon Poster",
+        "id": "2036655b-f5dc-4187-9d2a-1380a3bed625",
+        "floorPrice": 280
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "Marking Time",
+        "id": "9395210b-5812-4519-87a5-144a701dd4b8",
+        "floorPrice": 89
+      }
+    ],
+    "total": 369
+  },
+  {
+    "name": "NTTD: Posters - Set 2",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "Man on a Mission",
+        "id": "083cd7a4-4f26-4c8a-983c-29dea38fad01",
+        "floorPrice": 230
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "White Out",
+        "id": "e76d8148-e4e3-48b8-9f90-d7e3501233a0",
+        "floorPrice": 85
+      }
+    ],
+    "total": 315
+  },
+  {
+    "name": "NTTD: Posters - Set 3",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "No Time",
+        "id": "a28dfa5f-1bcd-4448-baa6-dbf62dd828ae",
+        "floorPrice": 170
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "To Die For",
+        "id": "89bb6b19-83b8-4688-90a3-bdb642623015",
+        "floorPrice": 91
+      }
+    ],
+    "total": 261
+  },
+  {
+    "name": "NTTD: Posters - Set 4",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "Safin's Lair",
+        "id": "6deecf7a-a87b-4994-9c15-97c8b9e9c01c",
+        "floorPrice": 79.99
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "Twist",
+        "id": "1426a5b0-2a68-4487-9cd5-ec118b3c323f",
+        "floorPrice": 178
+      }
+    ],
+    "total": 257.99
+  },
+  {
+    "name": "Powerpuff Girls - Series 1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Blossom",
+        "id": "89b6d074-36ca-4b72-af67-3ac2e5648581",
+        "floorPrice": 94
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Buttercup",
+        "id": "882fd08e-05c8-44c4-97d1-98f907cd40b7",
+        "floorPrice": 129
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Mayor of Townsville",
+        "id": "4335c686-74e9-4ce2-91ca-7de7e40bb70f",
+        "floorPrice": 750
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Mojo Jojo",
+        "id": "c7ee25ad-cc35-4124-860b-778d53ad156c",
+        "floorPrice": 229
+      }
+    ],
+    "total": 1202
+  },
+  {
+    "name": "Powerpuff Girls - Series 2",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Bubbles",
+        "id": "77648516-37a8-4cd8-87f4-d0ea832ddb49",
+        "floorPrice": 5488
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Donny",
+        "id": "088c23fa-90b0-4bb4-93e2-f053abacf429",
+        "floorPrice": 79999
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "H.I.M.",
+        "id": "ac5bc2af-f67d-46da-bac1-1b404a3dd6d1",
+        "floorPrice": 6999
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Professor Utonium",
+        "id": "82ce36a6-ace4-4ce6-ba59-68307d0c217b",
+        "floorPrice": 3300
+      }
+    ],
+    "total": 95786
+  },
+  {
+    "name": "Spider-Man (Ben Reilly)",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Spider-Man",
+        "name": "Ben Reilly - Acrobatic Arachnid",
+        "id": "53057d99-ac36-4dd2-b28a-8aa22d9f0b51",
+        "floorPrice": 99
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Ben Reilly - Beyond Spider-Man",
+        "id": "65dab55c-40a4-4117-9a0e-96888f9028de",
+        "floorPrice": 3499
+      }
+    ],
+    "total": 3598
+  },
+  {
+    "name": "Starfire",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Bombshells",
+        "name": "Starfire",
+        "id": "75e96af3-d4c4-4823-91ed-ea5fe3b7dcf2",
+        "floorPrice": 2250
+      }
+    ],
+    "total": 2250
+  },
+  {
+    "name": "Starships - S1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Star Trek: The Next Generation",
+        "name": "Borg Cube (1:1)",
+        "id": "4b811efb-8cfa-45be-a85d-7a66848fa075",
+        "floorPrice": 98
+      },
+      {
+        "brand": "Star Trek: The Next Generation",
+        "name": "Borg Cube (1:1000)",
+        "id": "c93849cb-ce19-4448-876d-b37d7258c6c4",
+        "floorPrice": 36
+      },
+      {
+        "brand": "Star Trek: The Next Generation",
+        "name": "U.S.S. Enterprise-D (1:1)",
+        "id": "55876156-f6d4-4ca8-bb50-fd6c1f5f0fb8",
+        "floorPrice": 299
+      },
+      {
+        "brand": "Star Trek: The Next Generation",
+        "name": "U.S.S. Enterprise-D (1:1000)",
+        "id": "5f63b00e-88e9-4784-8600-856dd951e06d",
+        "floorPrice": 55.99
+      }
+    ],
+    "total": 488.99
+  },
+  {
+    "name": "Superman - S1",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Superman",
+        "name": "Superman",
+        "id": "900388bb-8847-4334-8d1a-508de81c4a4d",
+        "floorPrice": 880
+      }
+    ],
+    "total": 880
+  },
+  {
+    "name": "THE RISE OF ULTRAMAN - S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Adi Granov ",
+        "id": "a11a8cdb-2ed2-483e-bdea-7f657ff0b82a",
+        "floorPrice": 115
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Alex Ross",
+        "id": "125b902c-7c6e-4262-a58f-4f3e4ee8d195",
+        "floorPrice": 38.99
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Ed McGuinness ",
+        "id": "905d1ad2-a6fe-4a98-b199-0d5e6ad9d2dd",
+        "floorPrice": 35.9
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - John Tyler Christopher",
+        "id": "3174caf1-2da6-4196-9e4a-8965fcdabc49",
+        "floorPrice": 776.66
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Skottie Young ",
+        "id": "3c2149c7-0415-47f9-b5e8-c6f6d473951a",
+        "floorPrice": 54
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Yuji Kaida ",
+        "id": "f56c9594-2b98-4fa7-9617-3b0a884a6c32",
+        "floorPrice": 50
+      }
+    ],
+    "total": 1070.55
+  },
+  {
+    "name": "Throg",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Throg",
+        "name": "Throg – Frog Of Thunder",
+        "id": "0fddd6c6-e19b-4d90-9475-b0844f2ae883",
+        "floorPrice": 50
+      },
+      {
+        "brand": "Throg",
+        "name": "Throg – Lightning Leap",
+        "id": "3a8116de-e5e6-4eb8-bf71-db3b2c208bbb",
+        "floorPrice": 499.99
+      },
+      {
+        "brand": "Throg",
+        "name": "Throg – The Mighty Frogjolnir",
+        "id": "c780ae69-e498-4b3b-95fc-be6d8345f881",
+        "floorPrice": 98
+      }
+    ],
+    "total": 647.99
+  },
+  {
+    "name": "Toy Tokyo - Lucky",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Toy Tokyo x Jermaine Rogers",
+        "name": "Lucky",
+        "id": "e37ee580-892b-4db5-b6d7-3221eaee4960",
+        "floorPrice": 3399
+      }
+    ],
+    "total": 3399
+  },
+  {
+    "name": "Toy Tokyo - Mooglie",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Toy Tokyo x Ghostbusters",
+        "name": "Ghostbusters I logo - Gold",
+        "id": "fe5e090a-87dc-4be2-b15f-4217a4c855a6",
+        "floorPrice": 29990
+      }
+    ],
+    "total": 29990
+  },
+  {
+    "name": "Toy Tokyo Dragon Girl",
+    "season": 2,
+    "collectibles": [
+      {
+        "brand": "Toy Tokyo x Simone Legno",
+        "name": "Dragon Girl - Gold",
+        "id": "7a736163-6ff5-446d-9a74-c73fa1959e2c",
+        "floorPrice": 1900
+      }
+    ],
+    "total": 1900
+  },
+  {
+    "name": "Ultraman - S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "Ultraman",
+        "id": "1922070e-f955-48ff-b79d-99eb9181759d",
+        "floorPrice": 79
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "Ultraman Ace",
+        "id": "eeb7939b-babf-4b2d-a078-36a40321043a",
+        "floorPrice": 499
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "Ultraman Seven",
+        "id": "dfce2c78-6a36-42d6-9dab-53ae88a852e6",
+        "floorPrice": 102
+      }
+    ],
+    "total": 680
+  },
+  {
+    "name": "Unicorno - S1",
+    "season": 1,
+    "collectibles": [
+      {
+        "brand": "Unicornos",
+        "name": "Bellina",
+        "id": "b6d21cbe-d479-4daf-b6a6-fcb3188ec9fc",
+        "floorPrice": 115
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Dolce",
+        "id": "6fc97448-752d-42c7-9365-e535ff86073f",
+        "floorPrice": 29.99
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Fumo",
+        "id": "e2f54639-0860-41f2-8e74-d02e8659d7c3",
+        "floorPrice": 65
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Metallo",
+        "id": "df0af6e7-a1e6-4565-9e50-9b34b922a553",
+        "floorPrice": 229
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Mooka",
+        "id": "1ec30cf6-aa54-4577-8a1e-aca18b95b40a",
+        "floorPrice": 27.99
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Peperino",
+        "id": "fc2b0d45-fc44-40b7-bf30-7c3ba7ec4c78",
+        "floorPrice": 55
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Pogo",
+        "id": "6bed5e9b-bb3d-49f5-b7ba-33492ec891a0",
+        "floorPrice": 64.5
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Prima Donna",
+        "id": "47d33114-b974-4393-a3b7-3a66f8772844",
+        "floorPrice": 37
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Ritmo",
+        "id": "4d1972b6-b15f-4c98-ab98-cec603aa58de",
+        "floorPrice": 1395
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Stellina",
+        "id": "a92b2d75-4194-43c2-a82c-cfc1accf4eb8",
+        "floorPrice": 25
+      }
+    ],
+    "total": 2043.48
+  }
+]
