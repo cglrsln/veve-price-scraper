@@ -967,6 +967,19 @@
     "total": 0
   },
   {
+    "name": "NTTD - Movie Tickets",
+    "season": 2,
+    "date": "2021-10-06T00:00:00.000Z",
+    "collectibles": [
+      {
+        "brand": "No Time To Die - Cinemark",
+        "name": "NTTD - Movie Ticket",
+        "floorPrice": 300000
+      }
+    ],
+    "total": 300000
+  },
+  {
     "name": "NTTD: Series 1",
     "season": 2,
     "date": "2021-10-01T00:00:00.000Z",
