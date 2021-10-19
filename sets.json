@@ -365,10 +365,34 @@
     ]
   },
   {
-    "name": "Mondo - S2",
+    "name": "Mondo - S2 (out-of-date)",
     "season": 2,
     "date": "2021-10-10T00:00:00.000Z",
-    "slugs": [
+    "slugs": [],
+    "collectibles": [
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Back to the Future",
+        "floorPrice": 200
+      },
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Jaws",
+        "floorPrice": 170
+      }
+    ]
+  },
+  {
+    "name": "NTTD Movie Tickets (out-of-date)",
+    "season": 2,
+    "date": "2021-10-06T00:00:00.000Z",
+    "slugs": [],
+    "collectibles": [
+      {
+        "brand": "No Time To Die - Cinemark",
+        "name": "NTTD - Movie Ticket",
+        "floorPrice": 300000
+      }
     ]
   },
   {
