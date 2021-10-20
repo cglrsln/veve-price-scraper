@@ -365,7 +365,7 @@
     ]
   },
   {
-    "name": "Mondo - S2 (out-of-date)",
+    "name": "Mondo - S2 (not-live-pricing)",
     "season": 2,
     "date": "2021-10-10T00:00:00.000Z",
     "slugs": [],
@@ -383,7 +383,7 @@
     ]
   },
   {
-    "name": "NTTD Movie Tickets (out-of-date)",
+    "name": "NTTD Movie Tickets (not-live-pricing)",
     "season": 2,
     "date": "2021-10-06T00:00:00.000Z",
     "slugs": [],
