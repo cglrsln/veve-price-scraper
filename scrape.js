@@ -22,7 +22,7 @@ const pathToData = path.join(__dirname, dataFolder, fileString(now)) + '.json';
 
 async function getData() {
   try {
-    const response = await axios.get('https://ecomiwiki.com/api/metrics/marketplace')
+    const response = await axios.get('https://ecomiwiki.com/api/metrics/marketplace/collectibles')
     return response.data;
   } catch(error) {
     console.log(error)
