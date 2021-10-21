@@ -1250,16 +1250,12 @@
       {
         "brand": "Con Exclusive Prints",
         "name": "Back to the Future",
-        "floorPrice": 200,
-        "totalIssued": 1985,
-        "rarity": "rare"
+        "floorPrice": 200
       },
       {
         "brand": "Con Exclusive Prints",
         "name": "Jaws",
-        "floorPrice": 170,
-        "totalIssued": 1972,
-        "rarity": "rare"
+        "floorPrice": 170
       }
     ],
     "total": 370
@@ -1272,9 +1268,7 @@
       {
         "brand": "No Time To Die - Cinemark",
         "name": "NTTD - Movie Ticket",
-        "floorPrice": 300000,
-        "totalIssued": 7,
-        "rarity": "SECRET_RARE"
+        "floorPrice": 300000
       }
     ],
     "total": 300000
