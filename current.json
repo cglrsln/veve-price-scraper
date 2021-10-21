@@ -7,7 +7,7 @@
       {
         "brand": "Adventure Time",
         "name": "Finn Mertens",
-        "floorPrice": 63.99
+        "floorPrice": 65
       },
       {
         "brand": "Adventure Time",
@@ -25,7 +25,7 @@
         "floorPrice": 699.99
       }
     ],
-    "total": 938.98
+    "total": 939.99
   },
   {
     "name": "Adventure Time S2",
@@ -68,7 +68,7 @@
       {
         "brand": "Batman Black & White",
         "name": "#100 Todd McFarlane Batman",
-        "floorPrice": 1724
+        "floorPrice": 1850
       },
       {
         "brand": "Batman Black & White",
@@ -78,10 +78,10 @@
       {
         "brand": "Batman Black & White",
         "name": "#97 Joe Madureira Batman",
-        "floorPrice": 308.88
+        "floorPrice": 315
       }
     ],
-    "total": 8202.88
+    "total": 8335
   },
   {
     "name": "Batman Black & White S2",
@@ -91,7 +91,7 @@
       {
         "brand": "Batman Black & White",
         "name": "#21 Jim Lee The Joker ",
-        "floorPrice": 300
+        "floorPrice": 327
       },
       {
         "brand": "Batman Black & White",
@@ -106,10 +106,10 @@
       {
         "brand": "Batman Black & White",
         "name": "#77 Jason Fabok Batman",
-        "floorPrice": 143.5
+        "floorPrice": 139
       }
     ],
-    "total": 2041.38
+    "total": 2063.88
   },
   {
     "name": "Batman Black & White S3",
@@ -129,7 +129,7 @@
       {
         "brand": "Batman Black & White",
         "name": "#60 Dick Sprang Batman",
-        "floorPrice": 98.79
+        "floorPrice": 98
       },
       {
         "brand": "Batman Black & White",
@@ -137,7 +137,7 @@
         "floorPrice": 1120
       }
     ],
-    "total": 1862.79
+    "total": 1862
   },
   {
     "name": "Batman Black & White S4",
@@ -152,7 +152,7 @@
       {
         "brand": "Batman Black & White",
         "name": "#55 Gary Frank Batman",
-        "floorPrice": 107.99
+        "floorPrice": 107
       },
       {
         "brand": "Batman Black & White",
@@ -165,7 +165,7 @@
         "floorPrice": 1345
       }
     ],
-    "total": 1778.99
+    "total": 1778
   },
   {
     "name": "Batman Black & White S5",
@@ -190,10 +190,10 @@
       {
         "brand": "Batman Black & White",
         "name": "#89 Batman",
-        "floorPrice": 72
+        "floorPrice": 70
       }
     ],
-    "total": 751.8
+    "total": 749.8
   },
   {
     "name": "Big Barda ",
@@ -203,10 +203,10 @@
       {
         "brand": "Bombshells",
         "name": "Big Barda",
-        "floorPrice": 1725
+        "floorPrice": 1695
       }
     ],
-    "total": 1725
+    "total": 1695
   },
   {
     "name": "Bombshells - S2",
@@ -221,10 +221,10 @@
       {
         "brand": "Bombshells",
         "name": "Harley Quinn Deluxe 2",
-        "floorPrice": 155
+        "floorPrice": 150
       }
     ],
-    "total": 784
+    "total": 779
   },
   {
     "name": "Captain America ",
@@ -239,7 +239,7 @@
       {
         "brand": "Marvel Mightys",
         "name": "John F. Walker",
-        "floorPrice": 22.99
+        "floorPrice": 23.25
       },
       {
         "brand": "Marvel Mightys",
@@ -249,15 +249,15 @@
       {
         "brand": "Marvel Mightys",
         "name": "Sam Wilson",
-        "floorPrice": 19
+        "floorPrice": 18
       },
       {
         "brand": "Marvel Mightys",
         "name": "Steve Rogers",
-        "floorPrice": 23
+        "floorPrice": 22
       }
     ],
-    "total": 768.67
+    "total": 766.9300000000001
   },
   {
     "name": "Captain Carter",
@@ -280,7 +280,7 @@
       {
         "brand": "Cereal Killers",
         "name": "Cap'n Cornstarch",
-        "floorPrice": 119.99
+        "floorPrice": 119.98
       },
       {
         "brand": "Cereal Killers",
@@ -290,15 +290,15 @@
       {
         "brand": "Cereal Killers",
         "name": "Fat Tony",
-        "floorPrice": 73
+        "floorPrice": 72
       },
       {
         "brand": "Cereal Killers",
         "name": "Honey Butt the Obese",
-        "floorPrice": 290
+        "floorPrice": 287
       }
     ],
-    "total": 1267.99
+    "total": 1263.98
   },
   {
     "name": "Cereal Killers - S2",
@@ -313,20 +313,20 @@
       {
         "brand": "Cereal Killers",
         "name": "Sugar Bear",
-        "floorPrice": 192
+        "floorPrice": 191.5
       },
       {
         "brand": "Cereal Killers",
         "name": "Two Ton Sam",
-        "floorPrice": 51.5
+        "floorPrice": 52
       },
       {
         "brand": "Cereal Killers",
         "name": "Yucky Charmer",
-        "floorPrice": 480
+        "floorPrice": 475
       }
     ],
-    "total": 807.2
+    "total": 802.2
   },
   {
     "name": "CHOICES - S1",
@@ -374,7 +374,7 @@
       {
         "brand": "DC Cover Girls ",
         "name": "Mera",
-        "floorPrice": 112.67
+        "floorPrice": 109.5
       },
       {
         "brand": "DC Cover Girls ",
@@ -382,7 +382,7 @@
         "floorPrice": 728
       }
     ],
-    "total": 956.6600000000001
+    "total": 953.49
   },
   {
     "name": "Cryptkins - S1",
@@ -417,12 +417,12 @@
       {
         "brand": "Cryptkins",
         "name": "Mothman",
-        "floorPrice": 38.49
+        "floorPrice": 39.97
       },
       {
         "brand": "Cryptkins",
         "name": "Nessie",
-        "floorPrice": 23
+        "floorPrice": 22
       },
       {
         "brand": "Cryptkins",
@@ -442,7 +442,7 @@
       {
         "brand": "Cryptkins",
         "name": "Twilight Mothman",
-        "floorPrice": 31
+        "floorPrice": 31.99
       },
       {
         "brand": "Cryptkins",
@@ -450,7 +450,7 @@
         "floorPrice": 23.3
       }
     ],
-    "total": 1084.26
+    "total": 1085.73
   },
   {
     "name": "Cthulhu Idols",
@@ -475,10 +475,10 @@
       {
         "brand": "Call of Cthulhu",
         "name": "Necronomicon (Book of the Dead)",
-        "floorPrice": 595
+        "floorPrice": 594
       }
     ],
-    "total": 1154
+    "total": 1153
   },
   {
     "name": "DeLorean Time Machine ",
@@ -498,10 +498,10 @@
       {
         "brand": "Back to the Future",
         "name": "1:6 DeLorean Time Machine - Interactive",
-        "floorPrice": 30.5
+        "floorPrice": 30
       }
     ],
-    "total": 567.49
+    "total": 566.99
   },
   {
     "name": "Dragon Girl",
@@ -526,10 +526,10 @@
       {
         "brand": "Dragon Girl",
         "name": "Dragon Girl - Silver / Gold",
-        "floorPrice": 3798
+        "floorPrice": 3875
       }
     ],
-    "total": 4703
+    "total": 4780
   },
   {
     "name": "Ecto-1",
@@ -549,10 +549,10 @@
       {
         "brand": "Ghostbusters I",
         "name": "1:6 Ecto-1 Interactive",
-        "floorPrice": 41
+        "floorPrice": 38
       }
     ],
-    "total": 520.98
+    "total": 517.98
   },
   {
     "name": "Fantastic Four",
@@ -562,12 +562,12 @@
       {
         "brand": "Marvel Mightys",
         "name": "Doctor Doom",
-        "floorPrice": 559.99
+        "floorPrice": 560
       },
       {
         "brand": "Marvel Mightys",
         "name": "Human Torch",
-        "floorPrice": 61
+        "floorPrice": 61.5
       },
       {
         "brand": "Marvel Mightys",
@@ -577,15 +577,15 @@
       {
         "brand": "Marvel Mightys",
         "name": "Mister Fantastic",
-        "floorPrice": 15.69
+        "floorPrice": 15.49
       },
       {
         "brand": "Marvel Mightys",
         "name": "The Thing",
-        "floorPrice": 14.99
+        "floorPrice": 14.93
       }
     ],
-    "total": 676.6600000000001
+    "total": 676.91
   },
   {
     "name": "Ghostbusters I - S1",
@@ -610,7 +610,7 @@
       {
         "brand": "Ghostbusters I",
         "name": "Slimer",
-        "floorPrice": 101
+        "floorPrice": 102
       },
       {
         "brand": "Ghostbusters I",
@@ -618,7 +618,7 @@
         "floorPrice": 203
       }
     ],
-    "total": 35252
+    "total": 35253
   },
   {
     "name": "GIVENCHY + Rewind Collective",
@@ -684,17 +684,17 @@
       {
         "brand": "Harley Quinn Red, White & Black",
         "name": "#13 Harley Quinn",
-        "floorPrice": 598
+        "floorPrice": 589
       },
       {
         "brand": "Harley Quinn Red, White & Black",
         "name": "#5 Harley Quinn",
-        "floorPrice": 190
+        "floorPrice": 186
       },
       {
         "brand": "Harley Quinn Red, White & Black",
         "name": "#11 Harley Quinn",
-        "floorPrice": 59.75
+        "floorPrice": 59.5
       },
       {
         "brand": "Harley Quinn Red, White & Black",
@@ -702,7 +702,7 @@
         "floorPrice": 102
       }
     ],
-    "total": 949.75
+    "total": 936.5
   },
   {
     "name": "Hoverboards",
@@ -712,12 +712,12 @@
       {
         "brand": "Back to the Future II",
         "name": "Marty’s Hoverboard",
-        "floorPrice": 137
+        "floorPrice": 135
       },
       {
         "brand": "Back to the Future II",
         "name": "No Tech Hoverboard",
-        "floorPrice": 26
+        "floorPrice": 25.99
       },
       {
         "brand": "Back to the Future II",
@@ -732,10 +732,10 @@
       {
         "brand": "Back to the Future II",
         "name": "Rising Sun Hoverboard",
-        "floorPrice": 50
+        "floorPrice": 48
       }
     ],
-    "total": 787
+    "total": 782.99
   },
   {
     "name": "Labbit - S1",
@@ -770,10 +770,10 @@
       {
         "brand": "Labbit",
         "name": "The Visible Labbit - Neon Edition",
-        "floorPrice": 540
+        "floorPrice": 523
       }
     ],
-    "total": 3737.99
+    "total": 3720.99
   },
   {
     "name": "Labbit - S2",
@@ -783,12 +783,12 @@
       {
         "brand": "Labbit",
         "name": "Corpsman",
-        "floorPrice": 127.99
+        "floorPrice": 127
       },
       {
         "brand": "Labbit",
         "name": "Hooverville Labbit - Rubberleg Colorway",
-        "floorPrice": 879.99
+        "floorPrice": 865.02
       },
       {
         "brand": "Labbit",
@@ -798,12 +798,12 @@
       {
         "brand": "Labbit",
         "name": "Labbicorn",
-        "floorPrice": 398
+        "floorPrice": 400
       },
       {
         "brand": "Labbit",
         "name": "Redrum",
-        "floorPrice": 259
+        "floorPrice": 262
       },
       {
         "brand": "Labbit",
@@ -811,7 +811,7 @@
         "floorPrice": 2180
       }
     ],
-    "total": 4050.98
+    "total": 4040.02
   },
   {
     "name": "Marvel 1st's - Captain America - S1",
@@ -826,7 +826,7 @@
       {
         "brand": "Captain America",
         "name": "Captain America – Charging Into Battle",
-        "floorPrice": 51
+        "floorPrice": 49.99
       },
       {
         "brand": "Captain America",
@@ -844,7 +844,7 @@
         "floorPrice": 3149
       }
     ],
-    "total": 3919
+    "total": 3917.99
   },
   {
     "name": "Mermicorno - S1",
@@ -859,7 +859,7 @@
       {
         "brand": "Mermicornos",
         "name": "Corsica",
-        "floorPrice": 388
+        "floorPrice": 400
       },
       {
         "brand": "Mermicornos",
@@ -897,7 +897,7 @@
         "floorPrice": 84
       }
     ],
-    "total": 684.75
+    "total": 696.75
   },
   {
     "name": "Modern Marvel S1 - Spider-Man",
@@ -927,10 +927,10 @@
       {
         "brand": "Spider-Man",
         "name": "Spider-Man - Animated",
-        "floorPrice": 2074
+        "floorPrice": 2000
       }
     ],
-    "total": 14522.95
+    "total": 14448.95
   },
   {
     "name": "Mondo - S1",
@@ -999,12 +999,12 @@
       {
         "brand": "No Time To Die",
         "name": "1:1 Glider - Animated",
-        "floorPrice": 425
+        "floorPrice": 410
       },
       {
         "brand": "No Time To Die",
         "name": "1:1 Glider - Static",
-        "floorPrice": 97
+        "floorPrice": 96.69
       },
       {
         "brand": "No Time To Die",
@@ -1012,7 +1012,7 @@
         "floorPrice": 66
       }
     ],
-    "total": 588
+    "total": 572.69
   },
   {
     "name": "NTTD: Posters - Set 1",
@@ -1045,10 +1045,10 @@
       {
         "brand": "No Time To Die",
         "name": "White Out",
-        "floorPrice": 90
+        "floorPrice": 89.99
       }
     ],
-    "total": 360
+    "total": 359.99
   },
   {
     "name": "NTTD: Posters - Set 3",
@@ -1076,15 +1076,15 @@
       {
         "brand": "No Time To Die",
         "name": "Safin's Lair",
-        "floorPrice": 85
+        "floorPrice": 89.99
       },
       {
         "brand": "No Time To Die",
         "name": "Twist",
-        "floorPrice": 268
+        "floorPrice": 269
       }
     ],
-    "total": 353
+    "total": 358.99
   },
   {
     "name": "Powerpuff Girls - Series 1",
@@ -1099,20 +1099,20 @@
       {
         "brand": "Powerpuff Girls",
         "name": "Buttercup",
-        "floorPrice": 150
+        "floorPrice": 158
       },
       {
         "brand": "Powerpuff Girls",
         "name": "Mayor of Townsville",
-        "floorPrice": 665
+        "floorPrice": 658.99
       },
       {
         "brand": "Powerpuff Girls",
         "name": "Mojo Jojo",
-        "floorPrice": 219
+        "floorPrice": 218
       }
     ],
-    "total": 1154
+    "total": 1154.99
   },
   {
     "name": "Powerpuff Girls - Series 2",
@@ -1132,7 +1132,7 @@
       {
         "brand": "Powerpuff Girls",
         "name": "H.I.M.",
-        "floorPrice": 8499
+        "floorPrice": 7750
       },
       {
         "brand": "Powerpuff Girls",
@@ -1140,7 +1140,7 @@
         "floorPrice": 2599
       }
     ],
-    "total": 115295
+    "total": 114546
   },
   {
     "name": "Spider-Man (Ben Reilly)",
@@ -1150,7 +1150,7 @@
       {
         "brand": "Spider-Man",
         "name": "Ben Reilly - Acrobatic Arachnid",
-        "floorPrice": 145
+        "floorPrice": 138
       },
       {
         "brand": "Spider-Man",
@@ -1158,7 +1158,7 @@
         "floorPrice": 4988
       }
     ],
-    "total": 5133
+    "total": 5126
   },
   {
     "name": "Starfire",
@@ -1186,7 +1186,7 @@
       {
         "brand": "Star Trek: The Next Generation",
         "name": "Borg Cube (1:1000)",
-        "floorPrice": 36
+        "floorPrice": 37.5
       },
       {
         "brand": "Star Trek: The Next Generation",
@@ -1196,10 +1196,10 @@
       {
         "brand": "Star Trek: The Next Generation",
         "name": "U.S.S. Enterprise-D (1:1000)",
-        "floorPrice": 53
+        "floorPrice": 54
       }
     ],
-    "total": 527
+    "total": 529.5
   },
   {
     "name": "Superman - S1",
@@ -1209,10 +1209,10 @@
       {
         "brand": "Superman",
         "name": "Superman",
-        "floorPrice": 1000
+        "floorPrice": 1049.99
       }
     ],
-    "total": 1000
+    "total": 1049.99
   },
   {
     "name": "The Rise of Ultraman - S1",
@@ -1227,17 +1227,17 @@
       {
         "brand": "Anime ULTRAMAN",
         "name": "The Rise of Ultraman #1 - Alex Ross",
-        "floorPrice": 40.5
+        "floorPrice": 40.6
       },
       {
         "brand": "Anime ULTRAMAN",
         "name": "The Rise of Ultraman #1 - Ed McGuinness ",
-        "floorPrice": 38.99
+        "floorPrice": 37.5
       },
       {
         "brand": "Anime ULTRAMAN",
         "name": "The Rise of Ultraman #1 - John Tyler Christopher",
-        "floorPrice": 935
+        "floorPrice": 900
       },
       {
         "brand": "Anime ULTRAMAN",
@@ -1247,10 +1247,10 @@
       {
         "brand": "Anime ULTRAMAN",
         "name": "The Rise of Ultraman #1 - Yuji Kaida ",
-        "floorPrice": 54.99
+        "floorPrice": 55.69
       }
     ],
-    "total": 1224.43
+    "total": 1188.74
   },
   {
     "name": "Throg",
@@ -1332,15 +1332,15 @@
       {
         "brand": "Anime ULTRAMAN",
         "name": "Ultraman Seven",
-        "floorPrice": 104
+        "floorPrice": 102.5
       },
       {
         "brand": "Anime ULTRAMAN",
         "name": "Edo",
-        "floorPrice": 820
+        "floorPrice": 800
       }
     ],
-    "total": 1393
+    "total": 1371.5
   },
   {
     "name": "Unicorno - S1",
@@ -1350,7 +1350,7 @@
       {
         "brand": "Unicornos",
         "name": "Bellina",
-        "floorPrice": 116
+        "floorPrice": 117
       },
       {
         "brand": "Unicornos",
@@ -1398,6 +1398,6 @@
         "floorPrice": 35.9
       }
     ],
-    "total": 2202.96
+    "total": 2203.96
   }
 ]
