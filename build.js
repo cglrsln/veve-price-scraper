@@ -17,6 +17,8 @@ function buildCatalog() {
     catalog[item.slug] = {
       brand: item.brand.name,
       name: item.name,
+      rarity: item.rarity,
+      totalIssued: item.totalIssued,
       floorPrice: item.metrics.lowestPrice
     }
   })
