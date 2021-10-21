@@ -117,21 +117,21 @@
         "name": "#21 Jim Lee The Joker ",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 340
+        "floorPrice": 335
       },
       {
         "brand": "Batman Black & White",
         "name": "#61 Dick Sprang The Joker",
         "rarity": "RARE",
         "totalIssued": 3250,
-        "floorPrice": 310
+        "floorPrice": 300
       },
       {
         "brand": "Batman Black & White",
         "name": "#72 Carmine Infantino Robin ",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 1288.88
+        "floorPrice": 1199.99
       },
       {
         "brand": "Batman Black & White",
@@ -141,7 +141,7 @@
         "floorPrice": 138
       }
     ],
-    "total": 2076.88
+    "total": 1972.99
   },
   {
     "name": "Batman Black & White S3",
@@ -153,21 +153,21 @@
         "name": "#24 Brian Bolland Penguin",
         "rarity": "RARE",
         "totalIssued": 3250,
-        "floorPrice": 348
+        "floorPrice": 369
       },
       {
         "brand": "Batman Black & White",
         "name": "#56 Bruce Timm Harley Quinn",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 284
+        "floorPrice": 283
       },
       {
         "brand": "Batman Black & White",
         "name": "#60 Dick Sprang Batman",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 95
+        "floorPrice": 94.99
       },
       {
         "brand": "Batman Black & White",
@@ -177,7 +177,7 @@
         "floorPrice": 1120
       }
     ],
-    "total": 1847
+    "total": 1866.99
   },
   {
     "name": "Batman Black & White S4",
@@ -196,7 +196,7 @@
         "name": "#55 Gary Frank Batman",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 106
+        "floorPrice": 104
       },
       {
         "brand": "Batman Black & White",
@@ -213,7 +213,7 @@
         "floorPrice": 1345
       }
     ],
-    "total": 1775
+    "total": 1773
   },
   {
     "name": "Batman Black & White S5",
@@ -225,14 +225,14 @@
         "name": "#06 Batman",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3800,
-        "floorPrice": 515
+        "floorPrice": 500
       },
       {
         "brand": "Batman Black & White",
         "name": "#71 Batman",
         "rarity": "RARE",
         "totalIssued": 6800,
-        "floorPrice": 110
+        "floorPrice": 114
       },
       {
         "brand": "Batman Black & White",
@@ -249,7 +249,7 @@
         "floorPrice": 75
       }
     ],
-    "total": 755.99
+    "total": 744.99
   },
   {
     "name": "Big Barda ",
@@ -283,10 +283,10 @@
         "name": "Harley Quinn Deluxe 2",
         "rarity": "RARE",
         "totalIssued": 6666,
-        "floorPrice": 149
+        "floorPrice": 150
       }
     ],
-    "total": 839
+    "total": 840
   },
   {
     "name": "Captain America ",
@@ -312,24 +312,24 @@
         "name": "Red Skull",
         "rarity": "ULTRA_RARE",
         "totalIssued": 4888,
-        "floorPrice": 628
+        "floorPrice": 625
       },
       {
         "brand": "Marvel Mightys",
         "name": "Sam Wilson",
         "rarity": "COMMON",
         "totalIssued": 28888,
-        "floorPrice": 17.99
+        "floorPrice": 19
       },
       {
         "brand": "Marvel Mightys",
         "name": "Steve Rogers",
         "rarity": "COMMON",
         "totalIssued": 28888,
-        "floorPrice": 22
+        "floorPrice": 21.49
       }
     ],
-    "total": 765.48
+    "total": 762.98
   },
   {
     "name": "Captain Carter",
@@ -341,10 +341,10 @@
         "name": "Captain Carter ",
         "rarity": "RARE",
         "totalIssued": 6000,
-        "floorPrice": 437.16
+        "floorPrice": 429
       }
     ],
-    "total": 437.16
+    "total": 429
   },
   {
     "name": "Cereal Killers - S1",
@@ -356,7 +356,7 @@
         "name": "Cap'n Cornstarch",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 117
+        "floorPrice": 118
       },
       {
         "brand": "Cereal Killers",
@@ -370,17 +370,17 @@
         "name": "Fat Tony",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 70
+        "floorPrice": 74
       },
       {
         "brand": "Cereal Killers",
         "name": "Honey Butt the Obese",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 287
+        "floorPrice": 277.77
       }
     ],
-    "total": 1264
+    "total": 1259.77
   },
   {
     "name": "Cereal Killers - S2",
@@ -392,14 +392,14 @@
         "name": "Franken Fat",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 83
+        "floorPrice": 79
       },
       {
         "brand": "Cereal Killers",
         "name": "Sugar Bear",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 191.5
+        "floorPrice": 193
       },
       {
         "brand": "Cereal Killers",
@@ -413,10 +413,10 @@
         "name": "Yucky Charmer",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 529
+        "floorPrice": 514.99
       }
     ],
-    "total": 855
+    "total": 838.49
   },
   {
     "name": "CHOICES - S1",
@@ -435,7 +435,7 @@
         "name": "The Hunter",
         "rarity": "ULTRA_RARE",
         "totalIssued": 888,
-        "floorPrice": 1600
+        "floorPrice": 1770
       },
       {
         "brand": "CHOICES",
@@ -452,7 +452,7 @@
         "floorPrice": 194.99
       }
     ],
-    "total": 2928.99
+    "total": 3098.99
   },
   {
     "name": "Cover Girls - S1",
@@ -471,7 +471,7 @@
         "name": "Catwoman",
         "rarity": "UNCOMMON",
         "totalIssued": 10800,
-        "floorPrice": 74.99
+        "floorPrice": 76
       },
       {
         "brand": "DC Cover Girls ",
@@ -488,7 +488,7 @@
         "floorPrice": 689
       }
     ],
-    "total": 912.99
+    "total": 914
   },
   {
     "name": "Cryptkins - S1",
@@ -500,28 +500,28 @@
         "name": "Bigfoot",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 22.49
+        "floorPrice": 22.48
       },
       {
         "brand": "Cryptkins",
         "name": "Chupacabra",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 23.99
+        "floorPrice": 21.99
       },
       {
         "brand": "Cryptkins",
         "name": "Cosmic Cthulhu",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2800,
-        "floorPrice": 540
+        "floorPrice": 535
       },
       {
         "brand": "Cryptkins",
         "name": "Cthulhu",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 38.48
+        "floorPrice": 38
       },
       {
         "brand": "Cryptkins",
@@ -535,28 +535,28 @@
         "name": "Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 39
+        "floorPrice": 37
       },
       {
         "brand": "Cryptkins",
         "name": "Nessie",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 20.99
+        "floorPrice": 19.99
       },
       {
         "brand": "Cryptkins",
         "name": "Nightcrawler",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 107.99
+        "floorPrice": 107
       },
       {
         "brand": "Cryptkins",
         "name": "Ogopogo",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 95.99
+        "floorPrice": 94
       },
       {
         "brand": "Cryptkins",
@@ -570,7 +570,7 @@
         "name": "Twilight Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 32.5
+        "floorPrice": 32
       },
       {
         "brand": "Cryptkins",
@@ -580,7 +580,7 @@
         "floorPrice": 23.3
       }
     ],
-    "total": 1080.72
+    "total": 1066.75
   },
   {
     "name": "Cthulhu Idols",
@@ -606,7 +606,7 @@
         "name": "Cthulhu Idol - Jade",
         "rarity": "RARE",
         "totalIssued": 1975,
-        "floorPrice": 182
+        "floorPrice": 179
       },
       {
         "brand": "Call of Cthulhu",
@@ -616,7 +616,7 @@
         "floorPrice": 592
       }
     ],
-    "total": 1152
+    "total": 1149
   },
   {
     "name": "DeLorean Time Machine ",
@@ -628,24 +628,24 @@
         "name": "1:1 DeLorean Time Machine - Interactive",
         "rarity": "ULTRA_RARE",
         "totalIssued": 12500,
-        "floorPrice": 449
+        "floorPrice": 447
       },
       {
         "brand": "Back to the Future",
         "name": "1:1 DeLorean Time Machine - Static",
         "rarity": "RARE",
         "totalIssued": 25000,
-        "floorPrice": 68
+        "floorPrice": 67
       },
       {
         "brand": "Back to the Future",
         "name": "1:6 DeLorean Time Machine - Interactive",
         "rarity": "COMMON",
         "totalIssued": 50000,
-        "floorPrice": 29.98
+        "floorPrice": 27.99
       }
     ],
-    "total": 546.98
+    "total": 541.99
   },
   {
     "name": "Dragon Girl",
@@ -700,7 +700,7 @@
         "name": "1:1 Ecto-1 Static",
         "rarity": "RARE",
         "totalIssued": 6666,
-        "floorPrice": 83.5
+        "floorPrice": 82.5
       },
       {
         "brand": "Ghostbusters I",
@@ -710,7 +710,7 @@
         "floorPrice": 41.9
       }
     ],
-    "total": 523.4
+    "total": 522.4
   },
   {
     "name": "Fantastic Four",
@@ -729,31 +729,31 @@
         "name": "Human Torch",
         "rarity": "RARE",
         "totalIssued": 14999,
-        "floorPrice": 60
+        "floorPrice": 58.5
       },
       {
         "brand": "Marvel Mightys",
         "name": "Invisible Woman",
         "rarity": "UNCOMMON",
         "totalIssued": 19999,
-        "floorPrice": 27.95
+        "floorPrice": 27.39
       },
       {
         "brand": "Marvel Mightys",
         "name": "Mister Fantastic",
         "rarity": "COMMON",
         "totalIssued": 28999,
-        "floorPrice": 15
+        "floorPrice": 14
       },
       {
         "brand": "Marvel Mightys",
         "name": "The Thing",
         "rarity": "COMMON",
         "totalIssued": 28999,
-        "floorPrice": 14.9
+        "floorPrice": 14.25
       }
     ],
-    "total": 710.85
+    "total": 707.14
   },
   {
     "name": "Ghostbusters I - S1",
@@ -772,7 +772,7 @@
         "name": "Ghostbusters I Logo",
         "rarity": "RARE",
         "totalIssued": 2400,
-        "floorPrice": 273
+        "floorPrice": 265
       },
       {
         "brand": "Ghostbusters I",
@@ -796,7 +796,7 @@
         "floorPrice": 203
       }
     ],
-    "total": 35247.9
+    "total": 35239.9
   },
   {
     "name": "GIVENCHY + Rewind Collective",
@@ -822,17 +822,17 @@
         "name": "PRIDE: Givenchy Beauty",
         "rarity": "RARE",
         "totalIssued": 1952,
-        "floorPrice": 7850
+        "floorPrice": 7830
       },
       {
         "brand": "GIVENCHY + Rewind Collective",
         "name": "Rewind Collective Logo",
         "rarity": "UNCOMMON",
         "totalIssued": 1978,
-        "floorPrice": 749.5
+        "floorPrice": 748
       }
     ],
-    "total": 16897.5
+    "total": 16876
   },
   {
     "name": "Harley Quinn: RWB - S1",
@@ -880,7 +880,7 @@
         "name": "#13 Harley Quinn",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 585
+        "floorPrice": 595
       },
       {
         "brand": "Harley Quinn Red, White & Black",
@@ -894,17 +894,17 @@
         "name": "#11 Harley Quinn",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 56.95
+        "floorPrice": 56.8
       },
       {
         "brand": "Harley Quinn Red, White & Black",
         "name": "#12 Harley Quinn",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 104
+        "floorPrice": 101
       }
     ],
-    "total": 933.95
+    "total": 940.8
   },
   {
     "name": "Hoverboards",
@@ -916,14 +916,14 @@
         "name": "Marty’s Hoverboard",
         "rarity": "COMMON",
         "totalIssued": 7777,
-        "floorPrice": 125.99
+        "floorPrice": 124
       },
       {
         "brand": "Back to the Future II",
         "name": "No Tech Hoverboard",
         "rarity": "COMMON",
         "totalIssued": 7777,
-        "floorPrice": 24.99
+        "floorPrice": 24.75
       },
       {
         "brand": "Back to the Future II",
@@ -937,17 +937,17 @@
         "name": "Question Mark Hoverboard",
         "rarity": "RARE",
         "totalIssued": 4444,
-        "floorPrice": 95
+        "floorPrice": 94
       },
       {
         "brand": "Back to the Future II",
         "name": "Rising Sun Hoverboard",
         "rarity": "UNCOMMON",
         "totalIssued": 5555,
-        "floorPrice": 50
+        "floorPrice": 49
       }
     ],
-    "total": 749.98
+    "total": 745.75
   },
   {
     "name": "Labbit - S1",
@@ -966,28 +966,28 @@
         "name": "Happy ‘Stache Labbit",
         "rarity": "COMMON",
         "totalIssued": 3888,
-        "floorPrice": 91.99
+        "floorPrice": 90
       },
       {
         "brand": "Labbit",
         "name": "Smorkin' Labbit - Choice Cuts",
         "rarity": "COMMON",
         "totalIssued": 3888,
-        "floorPrice": 91.9
+        "floorPrice": 90
       },
       {
         "brand": "Labbit",
         "name": "Smorkin’ Labbit - Red",
         "rarity": "UNCOMMON",
         "totalIssued": 2888,
-        "floorPrice": 190
+        "floorPrice": 182
       },
       {
         "brand": "Labbit",
         "name": "The Visible Labbit",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 329.9
+        "floorPrice": 324.9
       },
       {
         "brand": "Labbit",
@@ -997,7 +997,7 @@
         "floorPrice": 523
       }
     ],
-    "total": 3595.79
+    "total": 3578.9
   },
   {
     "name": "Labbit - S2",
@@ -1023,7 +1023,7 @@
         "name": "Hooverville Labbit - Sunny Side of the Street",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 199
+        "floorPrice": 200
       },
       {
         "brand": "Labbit",
@@ -1047,7 +1047,7 @@
         "floorPrice": 2099
       }
     ],
-    "total": 3986
+    "total": 3987
   },
   {
     "name": "Marvel 1st's - Captain America - S1",
@@ -1066,7 +1066,7 @@
         "name": "Captain America – Charging Into Battle",
         "rarity": "UNCOMMON",
         "totalIssued": 12000,
-        "floorPrice": 49
+        "floorPrice": 47.99
       },
       {
         "brand": "Captain America",
@@ -1080,17 +1080,17 @@
         "name": "Captain America – The Punch",
         "rarity": "RARE",
         "totalIssued": 8000,
-        "floorPrice": 106.5
+        "floorPrice": 107
       },
       {
         "brand": "Captain America",
         "name": "Captain America – Ultimate Animated",
         "rarity": "SECRET_RARE",
         "totalIssued": 1000,
-        "floorPrice": 3289
+        "floorPrice": 3290
       }
     ],
-    "total": 4112.48
+    "total": 4112.97
   },
   {
     "name": "Mermicorno - S1",
@@ -1123,7 +1123,7 @@
         "name": "Marea",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 37.5
+        "floorPrice": 35.99
       },
       {
         "brand": "Mermicornos",
@@ -1151,17 +1151,17 @@
         "name": "Sirena",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 20.98
+        "floorPrice": 22
       },
       {
         "brand": "Mermicornos",
         "name": "Tropicana",
         "rarity": "RARE",
         "totalIssued": 5000,
-        "floorPrice": 85.75
+        "floorPrice": 82.5
       }
     ],
-    "total": 691.07
+    "total": 687.33
   },
   {
     "name": "Modern Marvel S1 - Spider-Man",
@@ -1173,7 +1173,7 @@
         "name": "Spider-Man – Hangin’ Out",
         "rarity": "UNCOMMON",
         "totalIssued": 16000,
-        "floorPrice": 104.5
+        "floorPrice": 104.89
       },
       {
         "brand": "Spider-Man",
@@ -1187,7 +1187,7 @@
         "name": "Spider-Man – The Amazing Spider-Man",
         "rarity": "COMMON",
         "totalIssued": 32000,
-        "floorPrice": 109
+        "floorPrice": 105
       },
       {
         "brand": "Spider-Man",
@@ -1204,7 +1204,7 @@
         "floorPrice": 2125
       }
     ],
-    "total": 15571.5
+    "total": 15567.89
   },
   {
     "name": "Mondo - S1",
@@ -1319,10 +1319,10 @@
         "name": "Marking Time",
         "rarity": "RARE",
         "totalIssued": 4007,
-        "floorPrice": 95
+        "floorPrice": 96
       }
     ],
-    "total": 380
+    "total": 381
   },
   {
     "name": "NTTD: Posters - Set 2",
@@ -1334,7 +1334,7 @@
         "name": "Man on a Mission",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 288
+        "floorPrice": 289
       },
       {
         "brand": "No Time To Die",
@@ -1344,7 +1344,7 @@
         "floorPrice": 93
       }
     ],
-    "total": 381
+    "total": 382
   },
   {
     "name": "NTTD: Posters - Set 3",
@@ -1356,17 +1356,17 @@
         "name": "No Time",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 267
+        "floorPrice": 266
       },
       {
         "brand": "No Time To Die",
         "name": "To Die For",
         "rarity": "RARE",
         "totalIssued": 4007,
-        "floorPrice": 89
+        "floorPrice": 88
       }
     ],
-    "total": 356
+    "total": 354
   },
   {
     "name": "NTTD: Posters - Set 4",
@@ -1378,7 +1378,7 @@
         "name": "Safin's Lair",
         "rarity": "RARE",
         "totalIssued": 4007,
-        "floorPrice": 86.99
+        "floorPrice": 85.75
       },
       {
         "brand": "No Time To Die",
@@ -1388,7 +1388,7 @@
         "floorPrice": 275
       }
     ],
-    "total": 361.99
+    "total": 360.75
   },
   {
     "name": "Powerpuff Girls - Series 1",
@@ -1472,17 +1472,17 @@
         "name": "Ben Reilly - Acrobatic Arachnid",
         "rarity": "UNCOMMON",
         "totalIssued": 5384,
-        "floorPrice": 145
+        "floorPrice": 148
       },
       {
         "brand": "Spider-Man",
         "name": "Ben Reilly - Beyond Spider-Man",
         "rarity": "ULTRA_RARE",
         "totalIssued": 616,
-        "floorPrice": 5999
+        "floorPrice": 5850
       }
     ],
-    "total": 6144
+    "total": 5998
   },
   {
     "name": "Starfire",
@@ -1509,7 +1509,7 @@
         "name": "Borg Cube (1:1)",
         "rarity": "RARE",
         "totalIssued": 6888,
-        "floorPrice": 107.5
+        "floorPrice": 105
       },
       {
         "brand": "Star Trek: The Next Generation",
@@ -1530,10 +1530,10 @@
         "name": "U.S.S. Enterprise-D (1:1000)",
         "rarity": "UNCOMMON",
         "totalIssued": 8888,
-        "floorPrice": 54.89
+        "floorPrice": 54.7
       }
     ],
-    "total": 513.39
+    "total": 510.7
   },
   {
     "name": "Superman - S1",
@@ -1545,10 +1545,10 @@
         "name": "Superman",
         "rarity": "UNCOMMON",
         "totalIssued": 8888,
-        "floorPrice": 1112.99
+        "floorPrice": 1110
       }
     ],
-    "total": 1112.99
+    "total": 1110
   },
   {
     "name": "The Rise of Ultraman - S1",
@@ -1610,7 +1610,7 @@
         "name": "Throg – Frog Of Thunder",
         "rarity": "UNCOMMON",
         "totalIssued": 6630,
-        "floorPrice": 53
+        "floorPrice": 54.5
       },
       {
         "brand": "Throg",
@@ -1627,7 +1627,7 @@
         "floorPrice": 107
       }
     ],
-    "total": 743
+    "total": 744.5
   },
   {
     "name": "Toy Tokyo - Lucky",
@@ -1691,7 +1691,7 @@
         "name": "Ultraman Ace",
         "rarity": "RARE",
         "totalIssued": 3500,
-        "floorPrice": 398
+        "floorPrice": 399
       },
       {
         "brand": "Anime ULTRAMAN",
@@ -1705,10 +1705,10 @@
         "name": "Edo",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1950,
-        "floorPrice": 850
+        "floorPrice": 826
       }
     ],
-    "total": 1417
+    "total": 1394
   },
   {
     "name": "Unicorno - S1",
@@ -1720,14 +1720,14 @@
         "name": "Bellina",
         "rarity": "RARE",
         "totalIssued": 2500,
-        "floorPrice": 112
+        "floorPrice": 109
       },
       {
         "brand": "Unicornos",
         "name": "Dolce",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 34
+        "floorPrice": 35.9
       },
       {
         "brand": "Unicornos",
@@ -1755,7 +1755,7 @@
         "name": "Peperino",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 59.33
+        "floorPrice": 59
       },
       {
         "brand": "Unicornos",
@@ -1786,6 +1786,6 @@
         "floorPrice": 34
       }
     ],
-    "total": 2182.28
+    "total": 2180.85
   }
 ]
