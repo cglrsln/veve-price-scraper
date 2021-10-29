@@ -529,77 +529,77 @@
         "name": "Bigfoot",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 38
+        "floorPrice": 36
       },
       {
         "brand": "Cryptkins",
         "name": "Chupacabra",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 35
+        "floorPrice": 33.95
       },
       {
         "brand": "Cryptkins",
         "name": "Cosmic Cthulhu",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2800,
-        "floorPrice": 849.99
+        "floorPrice": 878.99
       },
       {
         "brand": "Cryptkins",
         "name": "Cthulhu",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 45.99
+        "floorPrice": 47.2
       },
       {
         "brand": "Cryptkins",
         "name": "Jersey Devil",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 42.99
+        "floorPrice": 44.99
       },
       {
         "brand": "Cryptkins",
         "name": "Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 46.89
+        "floorPrice": 48
       },
       {
         "brand": "Cryptkins",
         "name": "Nessie",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 29
+        "floorPrice": 31.79
       },
       {
         "brand": "Cryptkins",
         "name": "Nightcrawler",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 175
+        "floorPrice": 170
       },
       {
         "brand": "Cryptkins",
         "name": "Ogopogo",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 146.88
+        "floorPrice": 137
       },
       {
         "brand": "Cryptkins",
         "name": "Thunderbird",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 146
+        "floorPrice": 146.89
       },
       {
         "brand": "Cryptkins",
         "name": "Twilight Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 47.69
+        "floorPrice": 47.7
       },
       {
         "brand": "Cryptkins",
@@ -609,7 +609,7 @@
         "floorPrice": 34
       }
     ],
-    "total": 1637.4300000000003
+    "total": 1656.51
   },
   {
     "name": "Cthulhu Idols",
