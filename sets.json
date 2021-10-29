@@ -784,6 +784,28 @@
     ]
   },
   {
+    "name": "Zombie Captain America",
+    "season": 3,
+    "date": "2021-10-30T00:00:00.000Z",
+    "slugs": [],
+    "collectibles": [
+      {
+        "brand": "Modern Marvel",
+        "name": "Zombie Captain America #1",
+        "floorPrice": 50.00,
+        "totalIssued": 18200,
+        "rarity": "COMMON"
+      },
+      {
+        "brand": "Modern Marvel",
+        "name": "Zombie Captain America #2",
+        "floorPrice": 50,
+        "totalIssued": 3800,
+        "rarity": "ULTRA_RARE"
+      }
+    ]
+  },
+  {
     "name": "Zombie Hunter Spider-Man",
     "season": 3,
     "date": "2021-10-30T00:00:00.000Z",
