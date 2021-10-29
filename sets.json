@@ -172,18 +172,92 @@
     "season": 1,
     "date": "2021-05-06T00:00:00.000Z",
     "slugs": [
-      "bigfoot",
-      "chupacabra",
-      "cosmic-cthulhu",
-      "cthulhu",
-      "jersey-devil",
-      "mothman",
-      "nessie",
-      "nightcrawler",
-      "ogopogo",
-      "thunderbird",
-      "twilight-mothman",
-      "yeti"
+    ],
+    "collectibles": [
+      {
+        "brand": "Cryptkins",
+        "name": "Bigfoot",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 36.00
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Chupacabra",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 33.95
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Cosmic Cthulhu",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2800,
+        "floorPrice": 878.99
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Cthulhu",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 47.20
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Jersey Devil",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 44.99
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Mothman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 48.00
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Nessie",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 31.79
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Nightcrawler",
+        "rarity": "RARE",
+        "totalIssued": 4000,
+        "floorPrice": 170.00
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Ogopogo",
+        "rarity": "RARE",
+        "totalIssued": 4000,
+        "floorPrice": 137.00
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Thunderbird",
+        "rarity": "RARE",
+        "totalIssued": 4000,
+        "floorPrice": 146.89
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Twilight Mothman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 47.70
+      },
+      {
+        "brand": "Cryptkins",
+        "name": "Yeti",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 34.00
+      }
     ]
   },
   {
@@ -340,15 +414,71 @@
     "season": 1,
     "date": "2021-04-06T00:00:00.000Z",
     "slugs": [
-      "cora",
-      "corsica",
-      "gelatina",
-      "marea",
-      "marina",
-      "oceania",
-      "perla",
-      "sirena",
-      "tropicana"
+    ],
+    "collectibles": [
+      {
+        "brand": "Mermicornos",
+        "name": "Cora",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 32.50
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Corsica",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 3500,
+        "floorPrice": 578
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Gelatina",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 33
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Marea",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 54.78
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Marina",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 57.90
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Oceania",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 29.99
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Perla",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 50
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Sirena",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 28
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Tropicana",
+        "rarity": "RARE",
+        "totalIssued": 5000,
+        "floorPrice": 120
+      }
     ]
   },
   {
@@ -579,16 +709,78 @@
     "season": 1,
     "date": "2021-01-14T00:00:00.000Z",
     "slugs": [
-      "bellina",
-      "dolce",
-      "fumo",
-      "metallo",
-      "mooka",
-      "peperino",
-      "pogo",
-      "prima-donna",
-      "ritmo",
-      "stellina"
+    ],
+    "collectibles": [
+      {
+        "brand": "Unicornos",
+        "name": "Bellina",
+        "rarity": "RARE",
+        "totalIssued": 2500,
+        "floorPrice": 125.00
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Dolce",
+        "rarity": "COMMON",
+        "totalIssued": 5500,
+        "floorPrice": 41.98
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Fumo",
+        "rarity": "UNCOMMON",
+        "totalIssued": 3500,
+        "floorPrice": 75
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Metallo",
+        "rarity": "RARE",
+        "totalIssued": 2500,
+        "floorPrice": 280
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Mooka",
+        "rarity": "COMMON",
+        "totalIssued": 5500,
+        "floorPrice": 38
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Peperino",
+        "rarity": "UNCOMMON",
+        "totalIssued": 3500,
+        "floorPrice": 69.99
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Pogo",
+        "rarity": "UNCOMMON",
+        "totalIssued": 3500,
+        "floorPrice": 69.95
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Prima Donna",
+        "rarity": "COMMON",
+        "totalIssued": 5500,
+        "floorPrice": 49
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Ritmo",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1500,
+        "floorPrice": 1900
+      },
+      {
+        "brand": "Unicornos",
+        "name": "Stellina",
+        "rarity": "COMMON",
+        "totalIssued": 5500,
+        "floorPrice": 43
+      }
     ]
   }
 ]
