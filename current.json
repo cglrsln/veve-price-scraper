@@ -529,77 +529,77 @@
         "name": "Bigfoot",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 38
+        "floorPrice": 36
       },
       {
         "brand": "Cryptkins",
         "name": "Chupacabra",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 35
+        "floorPrice": 33.95
       },
       {
         "brand": "Cryptkins",
         "name": "Cosmic Cthulhu",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2800,
-        "floorPrice": 849.99
+        "floorPrice": 878.99
       },
       {
         "brand": "Cryptkins",
         "name": "Cthulhu",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 45.99
+        "floorPrice": 47.2
       },
       {
         "brand": "Cryptkins",
         "name": "Jersey Devil",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 42.99
+        "floorPrice": 44.99
       },
       {
         "brand": "Cryptkins",
         "name": "Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 46.89
+        "floorPrice": 48
       },
       {
         "brand": "Cryptkins",
         "name": "Nessie",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 29
+        "floorPrice": 31.79
       },
       {
         "brand": "Cryptkins",
         "name": "Nightcrawler",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 175
+        "floorPrice": 170
       },
       {
         "brand": "Cryptkins",
         "name": "Ogopogo",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 146.88
+        "floorPrice": 137
       },
       {
         "brand": "Cryptkins",
         "name": "Thunderbird",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 146
+        "floorPrice": 146.89
       },
       {
         "brand": "Cryptkins",
         "name": "Twilight Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 47.69
+        "floorPrice": 47.7
       },
       {
         "brand": "Cryptkins",
@@ -609,7 +609,7 @@
         "floorPrice": 34
       }
     ],
-    "total": 1637.4300000000003
+    "total": 1656.51
   },
   {
     "name": "Cthulhu Idols",
@@ -1131,42 +1131,42 @@
         "name": "Cora",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 32
+        "floorPrice": 32.5
       },
       {
         "brand": "Mermicornos",
         "name": "Corsica",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3500,
-        "floorPrice": 580
+        "floorPrice": 578
       },
       {
         "brand": "Mermicornos",
         "name": "Gelatina",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 34
+        "floorPrice": 33
       },
       {
         "brand": "Mermicornos",
         "name": "Marea",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 54.8
+        "floorPrice": 54.78
       },
       {
         "brand": "Mermicornos",
         "name": "Marina",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 58.49
+        "floorPrice": 57.9
       },
       {
         "brand": "Mermicornos",
         "name": "Oceania",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 29.2
+        "floorPrice": 29.99
       },
       {
         "brand": "Mermicornos",
@@ -1180,17 +1180,17 @@
         "name": "Sirena",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 27.9
+        "floorPrice": 28
       },
       {
         "brand": "Mermicornos",
         "name": "Tropicana",
         "rarity": "RARE",
         "totalIssued": 5000,
-        "floorPrice": 129
+        "floorPrice": 120
       }
     ],
-    "total": 995.39
+    "total": 984.17
   },
   {
     "name": "Modern Marvel S1 - Spider-Man",
@@ -1755,49 +1755,49 @@
         "name": "Bellina",
         "rarity": "RARE",
         "totalIssued": 2500,
-        "floorPrice": 120
+        "floorPrice": 125
       },
       {
         "brand": "Unicornos",
         "name": "Dolce",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 45
+        "floorPrice": 41.98
       },
       {
         "brand": "Unicornos",
         "name": "Fumo",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 77.88
+        "floorPrice": 75
       },
       {
         "brand": "Unicornos",
         "name": "Metallo",
         "rarity": "RARE",
         "totalIssued": 2500,
-        "floorPrice": 277.99
+        "floorPrice": 280
       },
       {
         "brand": "Unicornos",
         "name": "Mooka",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 39.49
+        "floorPrice": 38
       },
       {
         "brand": "Unicornos",
         "name": "Peperino",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 72
+        "floorPrice": 69.99
       },
       {
         "brand": "Unicornos",
         "name": "Pogo",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 69.2
+        "floorPrice": 69.95
       },
       {
         "brand": "Unicornos",
@@ -1811,16 +1811,16 @@
         "name": "Ritmo",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1500,
-        "floorPrice": 2000
+        "floorPrice": 1900
       },
       {
         "brand": "Unicornos",
         "name": "Stellina",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 44.87
+        "floorPrice": 43
       }
     ],
-    "total": 2795.43
+    "total": 2691.92
   }
 ]
