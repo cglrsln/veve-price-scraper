@@ -505,7 +505,7 @@
     ]
   },
   {
-    "name": "Mondo - S2 (not-live-pricing)",
+    "name": "Mondo - S2",
     "season": 2,
     "date": "2021-10-10T00:00:00.000Z",
     "slugs": [],
@@ -527,7 +527,7 @@
     ]
   },
   {
-    "name": "NTTD Movie Tickets (not-live-pricing)",
+    "name": "NTTD Movie Tickets",
     "season": 2,
     "date": "2021-10-06T00:00:00.000Z",
     "slugs": [],
@@ -792,14 +792,14 @@
       {
         "brand": "Modern Marvel",
         "name": "Zombie Captain America #1",
-        "floorPrice": 50.00,
+        "floorPrice": 43.49,
         "totalIssued": 18200,
         "rarity": "COMMON"
       },
       {
         "brand": "Modern Marvel",
         "name": "Zombie Captain America #2",
-        "floorPrice": 50,
+        "floorPrice": 277,
         "totalIssued": 3800,
         "rarity": "ULTRA_RARE"
       }
@@ -814,14 +814,14 @@
       {
         "brand": "Modern Marvel",
         "name": "Zombie Hunter Spider-Man #1",
-        "floorPrice": 50.00,
+        "floorPrice": 47.00,
         "totalIssued": 18200,
         "rarity": "COMMON"
       },
       {
         "brand": "Modern Marvel",
         "name": "Zombie Hunter Spider-Man #2",
-        "floorPrice": 50,
+        "floorPrice": 419,
         "totalIssued": 3800,
         "rarity": "ULTRA_RARE"
       }

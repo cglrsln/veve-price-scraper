@@ -9,6 +9,12 @@ function buildPrices() {
   return JSON.parse(rawdata)
 }
 
+function readOverrides() {
+  const setsFileName = './overrides.json'
+  const setsRawdata = fs.readFileSync(setsFileName);
+  return JSON.parse(setsRawdata);
+}
+
 function buildCatalog() {
   const prices = buildPrices()
   const catalog = {}
@@ -32,6 +38,8 @@ function buildSets() {
   const setsRawdata = fs.readFileSync(setsFileName);
   const sets = JSON.parse(setsRawdata);
 
+  const overrides = readOverrides()
+
   sets.forEach(set => {
     // replace slugs with collectibles
     set.slugs.forEach(slug => {
@@ -47,6 +55,13 @@ function buildSets() {
     } else {
       set.total = 0
     }
+
+    // Apply Overrides
+    set.collectibles.forEach(c => {
+      const found = overrides.find(el => el.name === c.name)
+      if (found) { c.floorPrice = found.price}
+    })
+
   })
 
   return sets
