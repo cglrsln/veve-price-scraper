@@ -784,6 +784,42 @@
     ]
   },
   {
+    "name": "USPS Series 1",
+    "season": 3,
+    "date": "2021-11-02T00:00:00.000Z",
+    "slugs": [],
+    "collectibles": [
+      {
+        "brand": "Day of the Dead",
+        "name": "Day of the Dead: Child",
+        "floorPrice": 6.00,
+        "totalIssued": 7666,
+        "rarity": "COMMON"
+      },
+      {
+        "brand": "Day of the Dead",
+        "name": "Day of the Dead: Child with Hair Bow",
+        "floorPrice": 6.00,
+        "totalIssued": 6666,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "brand": "Day of the Dead",
+        "name": "Day of the Dead: Father",
+        "floorPrice": 6.00,
+        "totalIssued": 5666,
+        "rarity": "RARE"
+      },
+      {
+        "brand": "Day of the Dead",
+        "name": "Day of the Dead: Mother",
+        "floorPrice": 6.00,
+        "totalIssued": 4666,
+        "rarity": "ULTRA_RARE"
+      }
+    ]
+  },
+  {
     "name": "Zombie Captain America",
     "season": 3,
     "date": "2021-10-30T00:00:00.000Z",
