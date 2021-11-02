@@ -174,5 +174,21 @@
 {
         "name": "Zombie Hunter Spider-Man #2",
         "price": 399.99
+},
+{
+        "name": "Day of the Dead: Child",
+        "price": 64
+},
+{
+        "name": "Day of the Dead: Child with Hair Bow",
+        "price": 87.55
+},
+{
+        "name": "Day of the Dead: Father",
+        "price": 140
+},
+{
+        "name": "Day of the Dead: Mother",
+        "price": 370
 }
 ]
