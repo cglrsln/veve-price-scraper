@@ -1824,6 +1824,43 @@
     "total": 2691.92
   },
   {
+    "name": "USPS Series 1",
+    "season": 3,
+    "date": "2021-11-02T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/usps-series-1-day-of-the-dead-b5891e0d0baa",
+    "collectibles": [
+      {
+        "brand": "Day of the Dead",
+        "name": "Day of the Dead: Child",
+        "floorPrice": 6,
+        "totalIssued": 7666,
+        "rarity": "COMMON"
+      },
+      {
+        "brand": "Day of the Dead",
+        "name": "Day of the Dead: Child with Hair Bow",
+        "floorPrice": 6,
+        "totalIssued": 6666,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "brand": "Day of the Dead",
+        "name": "Day of the Dead: Father",
+        "floorPrice": 6,
+        "totalIssued": 5666,
+        "rarity": "RARE"
+      },
+      {
+        "brand": "Day of the Dead",
+        "name": "Day of the Dead: Mother",
+        "floorPrice": 6,
+        "totalIssued": 4666,
+        "rarity": "ULTRA_RARE"
+      }
+    ],
+    "total": 24
+  },
+  {
     "name": "Zombie Captain America",
     "season": 3,
     "date": "2021-10-30T00:00:00.000Z",
