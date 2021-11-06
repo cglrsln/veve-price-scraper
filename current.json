@@ -1132,56 +1132,56 @@
         "name": "Sersi",
         "rarity": "COMMON",
         "totalIssued": 18000,
-        "floorPrice": 13
+        "floorPrice": 9
       },
       {
         "brand": "Marvel Mightys",
         "name": "Ikaris",
         "rarity": "COMMON",
         "totalIssued": 18000,
-        "floorPrice": 13
+        "floorPrice": 9.75
       },
       {
         "brand": "Marvel Mightys",
         "name": "Kingo",
         "rarity": "COMMON",
         "totalIssued": 18000,
-        "floorPrice": 13
+        "floorPrice": 9.1
       },
       {
         "brand": "Marvel Mightys",
         "name": "Phastos",
         "rarity": "COMMON",
         "totalIssued": 18000,
-        "floorPrice": 13
+        "floorPrice": 9.74
       },
       {
         "brand": "Marvel Mightys",
         "name": "Makkari",
         "rarity": "UNCOMMON",
         "totalIssued": 9000,
-        "floorPrice": 13
+        "floorPrice": 16
       },
       {
         "brand": "Marvel Mightys",
         "name": "Druig",
         "rarity": "UNCOMMON",
         "totalIssued": 9000,
-        "floorPrice": 13
+        "floorPrice": 15.99
       },
       {
         "brand": "Marvel Mightys",
         "name": "Sprite",
         "rarity": "RARE",
         "totalIssued": 6000,
-        "floorPrice": 13
+        "floorPrice": 35
       },
       {
         "brand": "Marvel Mightys",
         "name": "Ajak",
         "rarity": "RARE",
         "totalIssued": 6000,
-        "floorPrice": 13
+        "floorPrice": 35
       },
       {
         "brand": "Marvel Mightys",
@@ -1198,7 +1198,7 @@
         "floorPrice": 13
       }
     ],
-    "total": 130
+    "total": 165.57999999999998
   },
   {
     "name": "Mermicorno - S1",
