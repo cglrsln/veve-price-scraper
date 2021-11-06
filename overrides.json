@@ -1,83 +1,95 @@
 [
 {
         "name": "#01 Eduardo Risso Batman",
-        "price": 4700
+        "price": 4600
 },
 {
         "name": "#06 Batman",
-        "price": 520
+        "price": 419.95
 },
 {
         "name": "#13 Harley Quinn",
-        "price": 650
+        "price": 560
 },
 {
         "name": "#72 Carmine Infantino Robin ",
-        "price": 1100
+        "price": 999
 },
 {
         "name": "#79 Jim Lee Nightwing",
-        "price": 1300
+        "price": 999.99
 },
 {
         "name": "#81 - Amanda Conner Batman",
-        "price": 1000
+        "price": 924
 },
 {
         "name": "1:1 DeLorean Time Machine - Interactive",
-        "price": 439
+        "price": 370
 },
 {
         "name": "1:1 Ecto-1 Interactive",
-        "price": 382
+        "price": 330
 },
 {
         "name": "1:1 Glider - Animated",
-        "price": 359
+        "price": 349
 },
 {
         "name": "Alligator Loki - Animated",
-        "price": 188
+        "price": 154
 },
 {
         "name": "Backstab Smorkin’ Labbit",
-        "price": 1900
+        "price": 1800
 },
 {
         "name": "Ben Reilly - Beyond Spider-Man",
-        "price": 4000
+        "price": 3400
 },
 {
         "name": "Captain America – Animated",
-        "price": 510
+        "price": 515
+},
+{
+        "name": "Captain America – Ultimate Animated",
+        "price": 2300
 },
 {
         "name": "Coming Soon Poster",
-        "price": 255
+        "price": 188
 },
 {
         "name": "Corsica",
-        "price": 495
+        "price": 394
 },
 {
         "name": "Cosmic Cthulhu",
-        "price": 700
+        "price": 584.99
 },
 {
         "name": "Count Calorie",
-        "price": 700
+        "price": 579.99
+},
+{
+        "name": "Day of the Dead: Mother",
+        "price": 286
 },
 {
         "name": "Death",
-        "price": 620
+        "price": 495
 },
 {
         "name": "Doctor Doom",
-        "price": 625
+        "price": 500
 },
 {
         "name": "Donny",
         "price": 99900
+},
+{
+        "name": "Dragon Girl - Gold",
+        "price": 1200
 },
 {
         "name": "Dragon Girl - Silver / Gold",
@@ -85,19 +97,35 @@
 },
 {
         "name": "Edo",
-        "price": 780
+        "price": 575
 },
 {
         "name": "Ghost Trap",
-        "price": 685
+        "price": 680
+},
+{
+        "name": "Ghostbusters I Logo - Gold",
+        "price": 27000
+},
+{
+        "name": "Ghostbusters I Logo - Platinum",
+        "price": 29900
+},
+{
+        "name": "Gilgamesh",
+        "price": 13
 },
 {
         "name": "Harley Quinn - #19 Steve Pugh",
-        "price": 11300
+        "price": 10800
+},
+{
+        "name": "Hooverville Labbit - Rubberleg Colorway",
+        "price": 475
 },
 {
         "name": "House of Cards - Amelia Earhart",
-        "price": 2500
+        "price": 2100
 },
 {
         "name": "House of Cards - Cleopatra",
@@ -105,67 +133,83 @@
 },
 {
         "name": "Lady Rainicorn",
-        "price": 795
+        "price": 749
+},
+{
+        "name": "Toy Tokyo x Jermaine Rogers",
+        "price": 2700
 },
 {
         "name": "Man on a Mission",
-        "price": 265
+        "price": 190
 },
 {
         "name": "Marceline",
-        "price": 745
+        "price": 695
 },
 {
         "name": "Mayor of Townsville",
-        "price": 710
+        "price": 666
 },
 {
         "name": "No Time",
-        "price": 235
+        "price": 170
+},
+{
+        "name": "No Time To Die - Cinemark",
+        "price": 300000
 },
 {
         "name": "Pitbull Hoverboard",
-        "price": 410
+        "price": 345
 },
 {
         "name": "Red Skull",
-        "price": 570
+        "price": 515
 },
 {
         "name": "Ritmo",
-        "price": 1700
+        "price": 1600
 },
 {
         "name": "Spider-Man - Animated",
-        "price": 1900
+        "price": 1600
+},
+{
+        "name": "Spider-Man – Ultimate Animated",
+        "price": 12900
 },
 {
         "name": "Supergirl",
-        "price": 620
+        "price": 599
 },
 {
         "name": "The Hunter",
-        "price": 1500
+        "price": 1200
+},
+{
+        "name": "Thena",
+        "price": 13
 },
 {
         "name": "Throg – Lightning Leap",
-        "price": 585
+        "price": 380
 },
 {
         "name": "Twist",
-        "price": 247
+        "price": 173
 },
 {
         "name": "U.S.S. Enterprise-D (1:1)",
-        "price": 320
+        "price": 290
 },
 {
         "name": "White Backstab",
-        "price": 1700
+        "price": 1600
 },
 {
         "name": "Yucky Charmer",
-        "price": 450
+        "price": 348
 },
 {
         "name": "Zombie Captain America #2",
@@ -173,22 +217,6 @@
 },
 {
         "name": "Zombie Hunter Spider-Man #2",
-        "price": 399.99
-},
-{
-        "name": "Day of the Dead: Child",
-        "price": 54
-},
-{
-        "name": "Day of the Dead: Child with Hair Bow",
-        "price": 65
-},
-{
-        "name": "Day of the Dead: Father",
-        "price": 119
-},
-{
-        "name": "Day of the Dead: Mother",
-        "price": 359
+        "price": 179.99
 }
 ]
