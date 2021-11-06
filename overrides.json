@@ -113,7 +113,7 @@
     },
     {
         "name": "Gilgamesh",
-        "price": 13
+        "price": 194
     },
     {
         "name": "Harley Quinn - #19 Steve Pugh",
@@ -189,7 +189,7 @@
     },
     {
         "name": "Thena",
-        "price": 13
+        "price": 192.99
     },
     {
         "name": "Throg – Lightning Leap",
@@ -222,13 +222,5 @@
     {
         "name": "The Rise of Ultraman #1 - John Tyler Christopher",
         "price": 600
-    },
-    {
-        "name": "Gilgamesh",
-        "price": 194
-    },
-    {
-        "name": "Thena",
-        "price": 192.99
     }
 ]

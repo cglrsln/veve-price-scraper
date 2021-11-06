@@ -414,78 +414,77 @@
     "season": 3,
     "date": "2021-11-06T00:00:00.000Z",
     "url": "https://medium.com/veve-collectibles/marvel-mightys-series-4-eternals-d5c57f03503c",
-    "slugs": [
-    ],
+    "slugs": [],
     "collectibles": [
       {
         "brand": "Marvel Mightys",
         "name": "Sersi",
         "rarity": "COMMON",
         "totalIssued": 18000,
-        "floorPrice": 13.00
+        "floorPrice": 9
       },
       {
         "brand": "Marvel Mightys",
         "name": "Ikaris",
         "rarity": "COMMON",
         "totalIssued": 18000,
-        "floorPrice": 13.00
+        "floorPrice": 9.75
       },
       {
         "brand": "Marvel Mightys",
         "name": "Kingo",
         "rarity": "COMMON",
         "totalIssued": 18000,
-        "floorPrice": 13.00
+        "floorPrice": 9.10
       },
       {
         "brand": "Marvel Mightys",
         "name": "Phastos",
         "rarity": "COMMON",
         "totalIssued": 18000,
-        "floorPrice": 13.00
+        "floorPrice": 9.74
       },
       {
         "brand": "Marvel Mightys",
         "name": "Makkari",
         "rarity": "UNCOMMON",
         "totalIssued": 9000,
-        "floorPrice": 13.00
+        "floorPrice": 16
       },
       {
         "brand": "Marvel Mightys",
         "name": "Druig",
         "rarity": "UNCOMMON",
         "totalIssued": 9000,
-        "floorPrice": 13.00
+        "floorPrice": 15.99
       },
       {
         "brand": "Marvel Mightys",
         "name": "Sprite",
         "rarity": "RARE",
         "totalIssued": 6000,
-        "floorPrice": 13.00
+        "floorPrice": 35
       },
       {
         "brand": "Marvel Mightys",
         "name": "Ajak",
         "rarity": "RARE",
         "totalIssued": 6000,
-        "floorPrice": 13.00
+        "floorPrice": 35
       },
       {
         "brand": "Marvel Mightys",
         "name": "Gilgamesh",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3500,
-        "floorPrice": 13.00
+        "floorPrice": 194
       },
       {
         "brand": "Marvel Mightys",
         "name": "Thena",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3500,
-        "floorPrice": 13.00
+        "floorPrice": 192.99
       }
     ]
   },
