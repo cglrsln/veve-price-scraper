@@ -3,6 +3,7 @@
     "name": "Adventure Time S1",
     "season": 1,
     "date": "2020-10-20T00:00:00.000Z",
+    "brand": "Adventure Time",
     "collectibles": [
       {
         "brand": "Adventure Time",
@@ -39,6 +40,7 @@
     "name": "Adventure Time S2",
     "season": 1,
     "date": "2020-12-24T00:00:00.000Z",
+    "brand": "Adventure Time",
     "collectibles": [
       {
         "brand": "Adventure Time",
@@ -75,6 +77,7 @@
     "name": "Alligator Loki",
     "season": 3,
     "date": "2021-10-23T00:00:00.000Z",
+    "brand": "Loki",
     "collectibles": [
       {
         "brand": "Loki",
@@ -104,6 +107,7 @@
     "name": "Batman Black & White S1",
     "season": 1,
     "date": "2020-10-14T00:00:00.000Z",
+    "brand": "Batman Black & White",
     "collectibles": [
       {
         "brand": "Batman Black & White",
@@ -140,6 +144,7 @@
     "name": "Batman Black & White S2",
     "season": 1,
     "date": "2020-11-04T00:00:00.000Z",
+    "brand": "Batman Black & White",
     "collectibles": [
       {
         "brand": "Batman Black & White",
@@ -176,6 +181,7 @@
     "name": "Batman Black & White S3",
     "season": 1,
     "date": "2020-12-24T00:00:00.000Z",
+    "brand": "Batman Black & White",
     "collectibles": [
       {
         "brand": "Batman Black & White",
@@ -212,6 +218,7 @@
     "name": "Batman Black & White S4",
     "season": 1,
     "date": "2021-03-11T00:00:00.000Z",
+    "brand": "Batman Black & White",
     "collectibles": [
       {
         "brand": "Batman Black & White",
@@ -248,6 +255,7 @@
     "name": "Batman Black & White S5",
     "season": 2,
     "date": "2021-05-20T00:00:00.000Z",
+    "brand": "Batman Black & White",
     "collectibles": [
       {
         "brand": "Batman Black & White",
@@ -284,6 +292,7 @@
     "name": "Big Barda ",
     "season": 1,
     "date": "2020-12-09T00:00:00.000Z",
+    "brand": "Bombshells",
     "collectibles": [
       {
         "brand": "Bombshells",
@@ -299,6 +308,7 @@
     "name": "Bombshells - S2",
     "season": 2,
     "date": "2021-06-24T00:00:00.000Z",
+    "brand": "Bombshells",
     "collectibles": [
       {
         "brand": "Bombshells",
@@ -321,6 +331,7 @@
     "name": "Captain America ",
     "season": 2,
     "date": "2021-08-14T00:00:00.000Z",
+    "brand": "Marvel Mightys",
     "collectibles": [
       {
         "brand": "Marvel Mightys",
@@ -364,6 +375,7 @@
     "name": "Captain Carter",
     "season": 2,
     "date": "2021-10-09T00:00:00.000Z",
+    "brand": "Marvel Mightys",
     "collectibles": [
       {
         "brand": "Marvel Mightys",
@@ -379,6 +391,7 @@
     "name": "Cereal Killers - S1",
     "season": 2,
     "date": "2021-06-10T00:00:00.000Z",
+    "brand": "Cereal Killers",
     "collectibles": [
       {
         "brand": "Cereal Killers",
@@ -415,6 +428,7 @@
     "name": "Cereal Killers - S2",
     "season": 2,
     "date": "2021-09-18T00:00:00.000Z",
+    "brand": "Cereal Killers",
     "collectibles": [
       {
         "brand": "Cereal Killers",
@@ -451,6 +465,7 @@
     "name": "CHOICES - S1",
     "season": 2,
     "date": "2021-07-23T00:00:00.000Z",
+    "brand": "CHOICES",
     "collectibles": [
       {
         "brand": "CHOICES",
@@ -487,6 +502,7 @@
     "name": "Cover Girls - S1",
     "season": 2,
     "date": "2021-05-27T00:00:00.000Z",
+    "brand": "DC Cover Girls ",
     "collectibles": [
       {
         "brand": "DC Cover Girls ",
@@ -609,12 +625,14 @@
         "floorPrice": 34
       }
     ],
+    "brand": "Cryptkins",
     "total": 1362.51
   },
   {
     "name": "Cthulhu Idols",
     "season": 2,
     "date": "2021-07-23T00:00:00.000Z",
+    "brand": "Call of Cthulhu",
     "collectibles": [
       {
         "brand": "Call of Cthulhu",
@@ -651,6 +669,7 @@
     "name": "DeLorean Time Machine ",
     "season": 1,
     "date": "2021-04-08T00:00:00.000Z",
+    "brand": "Back to the Future",
     "collectibles": [
       {
         "brand": "Back to the Future",
@@ -680,6 +699,7 @@
     "name": "Dragon Girl",
     "season": 1,
     "date": "2021-05-13T00:00:00.000Z",
+    "brand": "Dragon Girl",
     "collectibles": [
       {
         "brand": "Dragon Girl",
@@ -716,6 +736,7 @@
     "name": "Ecto-1",
     "season": 2,
     "date": "2021-07-17T00:00:00.000Z",
+    "brand": "Ghostbusters I",
     "collectibles": [
       {
         "brand": "Ghostbusters I",
@@ -745,6 +766,7 @@
     "name": "Fantastic Four",
     "season": 2,
     "date": "2021-08-28T00:00:00.000Z",
+    "brand": "Marvel Mightys",
     "collectibles": [
       {
         "brand": "Marvel Mightys",
@@ -788,6 +810,7 @@
     "name": "Ghostbusters I - S1",
     "season": 1,
     "date": "2021-01-28T00:00:00.000Z",
+    "brand": "Ghostbusters I",
     "collectibles": [
       {
         "brand": "Ghostbusters I",
@@ -831,6 +854,7 @@
     "name": "GIVENCHY + Rewind Collective",
     "season": 2,
     "date": "2021-06-21T00:00:00.000Z",
+    "brand": "GIVENCHY + Rewind Collective",
     "collectibles": [
       {
         "brand": "GIVENCHY + Rewind Collective",
@@ -867,6 +891,7 @@
     "name": "Harley Quinn: RWB - S1",
     "season": 1,
     "date": "2021-02-11T00:00:00.000Z",
+    "brand": "Harley Quinn Red, White & Black",
     "collectibles": [
       {
         "brand": "Harley Quinn Red, White & Black",
@@ -903,6 +928,7 @@
     "name": "Harley Quinn: RWB - S2",
     "season": 3,
     "date": "2021-10-16T00:00:00.000Z",
+    "brand": "Harley Quinn Red, White & Black",
     "collectibles": [
       {
         "brand": "Harley Quinn Red, White & Black",
@@ -939,6 +965,7 @@
     "name": "Hoverboards",
     "season": 2,
     "date": "2021-07-21T00:00:00.000Z",
+    "brand": "Back to the Future II",
     "collectibles": [
       {
         "brand": "Back to the Future II",
@@ -982,6 +1009,7 @@
     "name": "Labbit - S1",
     "season": 2,
     "date": "2021-07-01T00:00:00.000Z",
+    "brand": "Labbit",
     "collectibles": [
       {
         "brand": "Labbit",
@@ -1032,6 +1060,7 @@
     "name": "Labbit - S2",
     "season": 2,
     "date": "2021-10-02T00:00:00.000Z",
+    "brand": "Labbit",
     "collectibles": [
       {
         "brand": "Labbit",
@@ -1082,6 +1111,7 @@
     "name": "Marvel 1st's - Captain America - S1",
     "season": 2,
     "date": "2021-08-31T00:00:00.000Z",
+    "brand": "Captain America",
     "collectibles": [
       {
         "brand": "Captain America",
@@ -1198,6 +1228,7 @@
         "floorPrice": 192.99
       }
     ],
+    "brand": "Marvel Mightys",
     "total": 526.5699999999999
   },
   {
@@ -1269,12 +1300,14 @@
         "floorPrice": 120
       }
     ],
+    "brand": "Mermicornos",
     "total": 800.17
   },
   {
     "name": "Modern Marvel S1 - Spider-Man",
     "season": 2,
     "date": "2021-08-07T00:00:00.000Z",
+    "brand": "Spider-Man",
     "collectibles": [
       {
         "brand": "Spider-Man",
@@ -1318,6 +1351,7 @@
     "name": "Mondo - S1",
     "season": 2,
     "date": "2021-07-24T00:00:00.000Z",
+    "brand": "Con Exclusive Prints",
     "collectibles": [
       {
         "brand": "Con Exclusive Prints",
@@ -1370,6 +1404,7 @@
         "rarity": "rare"
       }
     ],
+    "brand": "Con Exclusive Prints",
     "total": 449.99
   },
   {
@@ -1385,12 +1420,14 @@
         "rarity": "SECRET_RARE"
       }
     ],
+    "brand": "No Time To Die - Cinemark",
     "total": 300000
   },
   {
     "name": "NTTD: Series 1",
     "season": 2,
     "date": "2021-10-01T00:00:00.000Z",
+    "brand": "No Time To Die",
     "collectibles": [
       {
         "brand": "No Time To Die",
@@ -1420,6 +1457,7 @@
     "name": "NTTD: Posters - Set 1",
     "season": 2,
     "date": "2021-10-01T00:00:00.000Z",
+    "brand": "No Time To Die",
     "collectibles": [
       {
         "brand": "No Time To Die",
@@ -1442,6 +1480,7 @@
     "name": "NTTD: Posters - Set 2",
     "season": 2,
     "date": "2021-10-03T00:00:00.000Z",
+    "brand": "No Time To Die",
     "collectibles": [
       {
         "brand": "No Time To Die",
@@ -1464,6 +1503,7 @@
     "name": "NTTD: Posters - Set 3",
     "season": 2,
     "date": "2021-10-07T00:00:00.000Z",
+    "brand": "No Time To Die",
     "collectibles": [
       {
         "brand": "No Time To Die",
@@ -1486,6 +1526,7 @@
     "name": "NTTD: Posters - Set 4",
     "season": 2,
     "date": "2021-10-13T00:00:00.000Z",
+    "brand": "No Time To Die",
     "collectibles": [
       {
         "brand": "No Time To Die",
@@ -1508,6 +1549,7 @@
     "name": "Powerpuff Girls - Series 1",
     "season": 1,
     "date": "2020-11-04T00:00:00.000Z",
+    "brand": "Powerpuff Girls",
     "collectibles": [
       {
         "brand": "Powerpuff Girls",
@@ -1544,6 +1586,7 @@
     "name": "Powerpuff Girls - Series 2",
     "season": 1,
     "date": "2021-01-07T00:00:00.000Z",
+    "brand": "Powerpuff Girls",
     "collectibles": [
       {
         "brand": "Powerpuff Girls",
@@ -1580,6 +1623,7 @@
     "name": "Spider-Man (Ben Reilly)",
     "season": 2,
     "date": "2021-10-07T00:00:00.000Z",
+    "brand": "Spider-Man",
     "collectibles": [
       {
         "brand": "Spider-Man",
@@ -1602,6 +1646,7 @@
     "name": "Starfire",
     "season": 1,
     "date": "2021-01-07T00:00:00.000Z",
+    "brand": "Bombshells",
     "collectibles": [
       {
         "brand": "Bombshells",
@@ -1617,6 +1662,7 @@
     "name": "Starships - S1",
     "season": 2,
     "date": "2021-09-08T00:00:00.000Z",
+    "brand": "Star Trek: The Next Generation",
     "collectibles": [
       {
         "brand": "Star Trek: The Next Generation",
@@ -1653,6 +1699,7 @@
     "name": "Superman - S1",
     "season": 2,
     "date": "2021-06-17T00:00:00.000Z",
+    "brand": "Superman",
     "collectibles": [
       {
         "brand": "Superman",
@@ -1668,6 +1715,7 @@
     "name": "The Rise of Ultraman - S1",
     "season": 1,
     "date": "2021-04-29T00:00:00.000Z",
+    "brand": "Anime ULTRAMAN",
     "collectibles": [
       {
         "brand": "Anime ULTRAMAN",
@@ -1718,6 +1766,7 @@
     "name": "Throg",
     "season": 2,
     "date": "2021-09-25T00:00:00.000Z",
+    "brand": "Throg",
     "collectibles": [
       {
         "brand": "Throg",
@@ -1747,6 +1796,7 @@
     "name": "Toy Tokyo - Lucky",
     "season": 2,
     "date": "2021-07-25T00:00:00.000Z",
+    "brand": "Toy Tokyo x Jermaine Rogers",
     "collectibles": [
       {
         "brand": "Toy Tokyo x Jermaine Rogers",
@@ -1762,6 +1812,7 @@
     "name": "Toy Tokyo - Mooglie",
     "season": 1,
     "date": "2021-02-18T00:00:00.000Z",
+    "brand": "Toy Tokyo x Ghostbusters",
     "collectibles": [
       {
         "brand": "Toy Tokyo x Ghostbusters",
@@ -1777,6 +1828,7 @@
     "name": "Toy Tokyo - Dragon Girl",
     "season": 2,
     "date": "2021-10-09T00:00:00.000Z",
+    "brand": "Toy Tokyo x Simone Legno",
     "collectibles": [
       {
         "brand": "Toy Tokyo x Simone Legno",
@@ -1792,6 +1844,7 @@
     "name": "Ultraman - S1",
     "season": 1,
     "date": "2021-03-25T00:00:00.000Z",
+    "brand": "Anime ULTRAMAN",
     "collectibles": [
       {
         "brand": "Anime ULTRAMAN",
@@ -1900,6 +1953,7 @@
         "floorPrice": 43
       }
     ],
+    "brand": "Unicornos",
     "total": 2391.92
   },
   {
@@ -1937,6 +1991,7 @@
         "rarity": "ULTRA_RARE"
       }
     ],
+    "brand": "Day of the Dead",
     "total": 420.99
   },
   {
@@ -1959,6 +2014,7 @@
         "rarity": "ULTRA_RARE"
       }
     ],
+    "brand": "Modern Marvel",
     "total": 329.49
   },
   {
@@ -1981,6 +2037,7 @@
         "rarity": "ULTRA_RARE"
       }
     ],
+    "brand": "Modern Marvel",
     "total": 226.99
   },
   {
@@ -1990,20 +2047,69 @@
     "url": "https://medium.com/veve-collectibles/disney-golden-moments-the-simpsons-a27a84adef27",
     "collectibles": [
       {
-        "brand": "Golden Moments",
+        "brand": "Disney+ Golden Moments",
         "name": "Homer & Bart",
+        "floorPrice": 187,
+        "totalIssued": 12333,
+        "rarity": "COMMON"
+      },
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "Skateboard",
+        "floorPrice": 306.99,
+        "totalIssued": 6333,
+        "rarity": "RARE"
+      }
+    ],
+    "brand": "Disney+ Golden Moments",
+    "total": 493.99
+  },
+  {
+    "name": "Walt Disney Animation Studios",
+    "season": 3,
+    "date": "2021-11-08T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/disney-golden-moments-walt-disney-animation-studios-2efe910b9929",
+    "collectibles": [
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "Elsa",
         "floorPrice": 60,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
-        "brand": "Golden Moments",
-        "name": "Skateboard",
+        "brand": "Disney+ Golden Moments",
+        "name": "Mickey Sorcerer's Hat",
         "floorPrice": 60,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
+    "brand": "Disney+ Golden Moments",
+    "total": 120
+  },
+  {
+    "name": "Pixar",
+    "season": 3,
+    "date": "2021-11-09T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/disney-golden-moments-pixar-607784585bcc",
+    "collectibles": [
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "WALL•E",
+        "floorPrice": 60,
+        "totalIssued": 10333,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "Pizza Planet Truck",
+        "floorPrice": 60,
+        "totalIssued": 6333,
+        "rarity": "RARE"
+      }
+    ],
+    "brand": "Disney+ Golden Moments",
     "total": 120
   }
 ]
