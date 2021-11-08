@@ -1992,59 +1992,13 @@
       {
         "brand": "Golden Moments",
         "name": "Homer & Bart",
-        "floorPrice": 187,
+        "floorPrice": 60,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Golden Moments",
         "name": "Skateboard",
-        "floorPrice": 306.99,
-        "totalIssued": 6333,
-        "rarity": "RARE"
-      }
-    ],
-    "total": 493.99
-  },
-  {
-    "name": "Disney — Golden Moments",
-    "season": 3,
-    "date": "2021-11-08T00:00:00.000Z",
-    "url": "https://medium.com/veve-collectibles/disney-golden-moments-walt-disney-animation-studios-2efe910b9929",
-    "collectibles": [
-      {
-        "brand": "Disney",
-        "name": "Elsa",
-        "floorPrice": 60,
-        "totalIssued": 12333,
-        "rarity": "COMMON"
-      },
-      {
-        "brand": "Disney",
-        "name": "Mickey Sorcerer's Hat",
-        "floorPrice": 60,
-        "totalIssued": 6333,
-        "rarity": "RARE"
-      }
-    ],
-    "total": 120
-  },
-  {
-    "name": "Pixar",
-    "season": 3,
-    "date": "2021-11-09T00:00:00.000Z",
-    "url": "https://medium.com/veve-collectibles/disney-golden-moments-pixar-607784585bcc",
-    "collectibles": [
-      {
-        "brand": "Golden Moments",
-        "name": "WALL•E",
-        "floorPrice": 60,
-        "totalIssued": 10333,
-        "rarity": "UNCOMMON"
-      },
-      {
-        "brand": "Golden Moments",
-        "name": "Pizza Planet Truck",
         "floorPrice": 60,
         "totalIssued": 6333,
         "rarity": "RARE"
