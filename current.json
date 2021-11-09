@@ -2049,20 +2049,20 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Homer & Bart",
-        "floorPrice": 187,
+        "floorPrice": 440,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Skateboard",
-        "floorPrice": 306.99,
+        "floorPrice": 428,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 493.99
+    "total": 868
   },
   {
     "name": "Walt Disney Animation Studios",
@@ -2073,20 +2073,20 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Elsa",
-        "floorPrice": 60,
+        "floorPrice": 293,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Mickey Sorcerer's Hat",
-        "floorPrice": 60,
+        "floorPrice": 660,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 120
+    "total": 953
   },
   {
     "name": "Pixar",
@@ -2110,6 +2110,30 @@
       }
     ],
     "brand": "Disney+ Golden Moments",
+    "total": 120
+  },
+  {
+    "name": "Marvel",
+    "brand": "Disney+ Golden Moments",
+    "season": 3,
+    "date": "2021-11-10T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/disney-golden-moments-marvel-6bfa3bda6bd5",
+    "collectibles": [
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "Iron Man",
+        "floorPrice": 60,
+        "totalIssued": 12333,
+        "rarity": "COMMON"
+      },
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "Avengers Icon",
+        "floorPrice": 60,
+        "totalIssued": 6333,
+        "rarity": "RARE"
+      }
+    ],
     "total": 120
   }
 ]
