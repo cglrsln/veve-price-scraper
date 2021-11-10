@@ -1081,7 +1081,7 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Skateboard",
-        "floorPrice": 428,
+        "floorPrice": 431,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1100,14 +1100,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Elsa",
-        "floorPrice": 293,
+        "floorPrice": 334,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Mickey Sorcerer's Hat",
-        "floorPrice": 660,
+        "floorPrice": 1100,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1126,14 +1126,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "WALL•E",
-        "floorPrice": 60,
+        "floorPrice": 280,
         "totalIssued": 10333,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Pizza Planet Truck",
-        "floorPrice": 60,
+        "floorPrice": 367,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1163,6 +1163,32 @@
         "floorPrice": 60,
         "totalIssued": 6333,
         "rarity": "RARE"
+      }
+    ]
+  },
+  {
+    "name": "Star Wars",
+    "brand": "Disney+ Golden Moments",
+    "season": 3,
+    "date": "2021-11-11T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/disney-golden-moments-star-wars-96dc5baba88b",
+    "slugs":
+    [],
+    "collectibles":
+    [
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "C-3PO",
+        "floorPrice": 60,
+        "totalIssued": 12333,
+        "rarity": "COMMON"
+      },
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "R2-D2",
+        "floorPrice": 60,
+        "totalIssued": 8333,
+        "rarity": "UNCOMMON"
       }
     ]
   }
