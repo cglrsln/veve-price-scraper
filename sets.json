@@ -1223,28 +1223,28 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "Classic Cartoon Edition",
+        "name": "DCon Mascot Classic Cartoon Edition",
         "floorPrice": 25,
         "totalIssued": 6666,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Rock N Roll Edition",
+        "name": "DCon Mascot Rock N Roll Edition",
         "floorPrice": 25,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "90s Edition",
+        "name": "DCon Mascot 90s Edition",
         "floorPrice": 25,
         "totalIssued": 2666,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Heroes Edition",
+        "name": "DCon Mascot Heroes Edition",
         "floorPrice": 25,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
