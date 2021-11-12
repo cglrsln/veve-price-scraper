@@ -1191,5 +1191,109 @@
         "rarity": "UNCOMMON"
       }
     ]
+  },
+  {
+    "name": "Disney",
+    "brand": "Disney+ Golden Moments",
+    "season": 3,
+    "date": "2021-11-12T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/disney-golden-moments-walt-disney-mickey-mouse-9821fb07fdd7",
+    "slugs":
+    [],
+    "collectibles":
+    [
+      {
+        "brand": "Disney+ Golden Moments",
+        "name": "Partners Statue",
+        "floorPrice": 333,
+        "totalIssued": 4333,
+        "rarity": "ULTRA_RARE"
+      }
+    ]
+  },
+  {
+    "name": "Scott Tolleson",
+    "brand": "DesignerCon 2021",
+    "season": 3,
+    "date": "2021-11-12T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/veve-at-designercon-friday-233ef9d6cf2a",
+    "slugs":
+    [],
+    "collectibles":
+    [
+      {
+        "brand": "DesignerCon 2021",
+        "name": "Classic Cartoon Edition",
+        "floorPrice": 25,
+        "totalIssued": 6666,
+        "rarity": "COMMON"
+      },
+      {
+        "brand": "DesignerCon 2021",
+        "name": "Rock N Roll Edition",
+        "floorPrice": 25,
+        "totalIssued": 3666,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "brand": "DesignerCon 2021",
+        "name": "90s Edition",
+        "floorPrice": 25,
+        "totalIssued": 2666,
+        "rarity": "RARE"
+      },
+      {
+        "brand": "DesignerCon 2021",
+        "name": "Heroes Edition",
+        "floorPrice": 25,
+        "totalIssued": 666,
+        "rarity": "ULTRA_RARE"
+      }
+    ]
+  },
+  {
+    "name": "Sket One",
+    "brand": "DesignerCon 2021",
+    "season": 3,
+    "date": "2021-11-12T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/veve-at-designercon-friday-233ef9d6cf2a",
+    "slugs":
+    [],
+    "collectibles":
+    [
+      {
+        "brand": "DesignerCon 2021",
+        "name": "Neapolitan Ting!",
+        "floorPrice": 77,
+        "totalIssued": 888,
+        "rarity": "ULTRA_RARE"
+      }
+    ]
+  },
+  {
+    "name": "kozyndan",
+    "brand": "DesignerCon 2021",
+    "season": 3,
+    "date": "2021-11-12T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/veve-at-designercon-friday-233ef9d6cf2a",
+    "slugs":
+    [],
+    "collectibles":
+    [
+      {
+        "brand": "DesignerCon 2021",
+        "name": "Uprisings",
+        "floorPrice": 45,
+        "totalIssued": 3666,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "brand": "DesignerCon 2021",
+        "name": "Bunny Blossom",
+        "floorPrice": 45,
+        "totalIssued": 1266,
+        "rarity": "RARE"
+      }
+    ]
   }
 ]
