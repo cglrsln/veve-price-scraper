@@ -1316,7 +1316,7 @@
     ]
   },
   {
-    "name": "Brian M. Viveros",
+    "name": "Brian Viveros - Just-Us",
     "brand": "DesignerCon 2021",
     "season": 3,
     "date": "2021-11-13T00:00:00.000Z",
@@ -1327,28 +1327,40 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "Cat Trooper Color",
+        "name": "Just-Us (Color)",
         "floorPrice": 45,
         "totalIssued": 1266,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Cat Trooper B/W",
+        "name": "Just-Us (Black/White)",
         "floorPrice": 45,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Brian Viveros - Cat Trooper",
+    "brand": "DesignerCon 2021",
+    "season": 3,
+    "date": "2021-11-13T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
+    "slugs":
+    [],
+    "collectibles":
+    [
       {
         "brand": "DesignerCon 2021",
-        "name": "Just-Us Color",
+        "name": "Cat Trooper (Color)",
         "floorPrice": 45,
         "totalIssued": 1266,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Just-Us B/W",
+        "name": "Cat Trooper (Black/White)",
         "floorPrice": 45,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
