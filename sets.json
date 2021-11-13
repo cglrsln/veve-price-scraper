@@ -1074,14 +1074,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Homer & Bart",
-        "floorPrice": 440,
+        "floorPrice": 447,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Skateboard",
-        "floorPrice": 431,
+        "floorPrice": 465,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1100,14 +1100,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Elsa",
-        "floorPrice": 334,
+        "floorPrice": 579,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Mickey Sorcerer's Hat",
-        "floorPrice": 1100,
+        "floorPrice": 1200,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1126,14 +1126,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "WALL•E",
-        "floorPrice": 280,
+        "floorPrice": 330,
         "totalIssued": 10333,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Pizza Planet Truck",
-        "floorPrice": 367,
+        "floorPrice": 399,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1153,14 +1153,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Iron Man",
-        "floorPrice": 60,
+        "floorPrice": 440,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Avengers Icon",
-        "floorPrice": 60,
+        "floorPrice": 479,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1179,14 +1179,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "C-3PO",
-        "floorPrice": 60,
+        "floorPrice": 530,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "R2-D2",
-        "floorPrice": 60,
+        "floorPrice": 950,
         "totalIssued": 8333,
         "rarity": "UNCOMMON"
       }
@@ -1205,7 +1205,7 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Partners Statue",
-        "floorPrice": 333,
+        "floorPrice": 3200,
         "totalIssued": 4333,
         "rarity": "ULTRA_RARE"
       }
@@ -1224,28 +1224,28 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Classic Cartoon Edition",
-        "floorPrice": 25,
+        "floorPrice": 24.62,
         "totalIssued": 6666,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Rock N Roll Edition",
-        "floorPrice": 25,
+        "floorPrice": 37,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "90s Edition",
-        "floorPrice": 25,
+        "floorPrice": 63.99,
         "totalIssued": 2666,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Heroes Edition",
-        "floorPrice": 25,
+        "floorPrice": 560,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
@@ -1264,7 +1264,7 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Neapolitan Ting",
-        "floorPrice": 77,
+        "floorPrice": 620,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
@@ -1283,14 +1283,14 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Uprisings",
-        "floorPrice": 45,
+        "floorPrice": 90,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Bunny Blossom",
-        "floorPrice": 45,
+        "floorPrice": 260,
         "totalIssued": 1266,
         "rarity": "RARE"
       }
