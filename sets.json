@@ -1193,7 +1193,7 @@
     ]
   },
   {
-    "name": "Disney",
+    "name": "Walt Disney & Mickey Mouse",
     "brand": "Disney+ Golden Moments",
     "season": 3,
     "date": "2021-11-12T00:00:00.000Z",
@@ -1212,7 +1212,7 @@
     ]
   },
   {
-    "name": "Scott Tolleson",
+    "name": "Scott Tolleson (DCon Mascot)",
     "brand": "DesignerCon 2021",
     "season": 3,
     "date": "2021-11-12T00:00:00.000Z",
@@ -1223,28 +1223,28 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "DCon Mascot Classic Cartoon Edition",
+        "name": "Classic Cartoon Edition",
         "floorPrice": 25,
         "totalIssued": 6666,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "DCon Mascot Rock N Roll Edition",
+        "name": "Rock N Roll Edition",
         "floorPrice": 25,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "DCon Mascot 90s Edition",
+        "name": "90s Edition",
         "floorPrice": 25,
         "totalIssued": 2666,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "DCon Mascot Heroes Edition",
+        "name": "Heroes Edition",
         "floorPrice": 25,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
@@ -1263,7 +1263,7 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "Neapolitan Ting!",
+        "name": "Neapolitan Ting",
         "floorPrice": 77,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
@@ -1407,7 +1407,7 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "Pop Life",
+        "name": "Pop Life Print",
         "floorPrice": 50,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
@@ -1415,8 +1415,8 @@
     ]
   },
   {
-    "name": "Creeping DERO",
-    "brand": "DERO",
+    "name": "Jermaine Rogers",
+    "brand": "DesignerCon 2021",
     "season": 3,
     "date": "2021-11-13T00:00:00.000Z",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
@@ -1425,7 +1425,7 @@
     "collectibles":
     [
       {
-        "brand": "DERO",
+        "brand": "DesignerCon 2021",
         "name": "Creeping DERO",
         "floorPrice": 70,
         "totalIssued": 1111,
