@@ -4,11 +4,36 @@
     "season": 1,
     "date": "2020-10-20T00:00:00.000Z",
     "slugs":
-    [
-      "finn-mertens",
-      "ice-king",
-      "jake-the-dog",
-      "marceline"
+    [],
+    "collectibles": [
+      {
+        "brand": "Adventure Time",
+        "name": "Finn Mertens",
+        "rarity": "COMMON",
+        "totalIssued": 7500,
+        "floorPrice": 73
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Ice King",
+        "rarity": "RARE",
+        "totalIssued": 3250,
+        "floorPrice": 145
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Jake the Dog",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5500,
+        "floorPrice": 120
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Marceline",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1750,
+        "floorPrice": 675
+      }
     ],
     "brand": "Adventure Time"
   },
@@ -17,11 +42,36 @@
     "season": 1,
     "date": "2020-12-24T00:00:00.000Z",
     "slugs":
-    [
-      "bmo",
-      "lady-rainicorn",
-      "lumpy-space-princess",
-      "princess-bubblegum"
+    [],
+    "collectibles": [
+      {
+        "brand": "Adventure Time",
+        "name": "BMO",
+        "rarity": "COMMON",
+        "totalIssued": 7500,
+        "floorPrice": 66
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Lady Rainicorn",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1750,
+        "floorPrice": 650
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Lumpy Space Princess",
+        "rarity": "RARE",
+        "totalIssued": 3250,
+        "floorPrice": 102
+      },
+      {
+        "brand": "Adventure Time",
+        "name": "Princess Bubblegum",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5500,
+        "floorPrice": 64
+      }
     ],
     "brand": "Adventure Time"
   },
@@ -42,11 +92,36 @@
     "season": 1,
     "date": "2020-10-14T00:00:00.000Z",
     "slugs":
-    [
-      "01-eduardo-risso-batman",
-      "100-todd-mcfarlane-batman",
-      "86-becky-cloonan-batman",
-      "97-joe-madureira-batman"
+    [],
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#01 Eduardo Risso Batman",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1750,
+        "floorPrice": 4299
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#100 Todd McFarlane Batman",
+        "rarity": "COMMON",
+        "totalIssued": 7500,
+        "floorPrice": 1694
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#86 - Becky Cloonan Batman",
+        "rarity": "RARE",
+        "totalIssued": 3250,
+        "floorPrice": 555
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#97 Joe Madureira Batman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5500,
+        "floorPrice": 285
+      }
     ],
     "brand": "Batman Black & White"
   },
@@ -55,11 +130,36 @@
     "season": 1,
     "date": "2020-11-04T00:00:00.000Z",
     "slugs":
-    [
-      "21-jim-lee-the-joker",
-      "61-dick-sprang-the-joker",
-      "72-carmine-infantino-robin",
-      "77-jason-fabok-batman"
+    [],
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#21 Jim Lee The Joker ",
+        "rarity": "COMMON",
+        "totalIssued": 7500,
+        "floorPrice": 288
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#61 Dick Sprang The Joker",
+        "rarity": "RARE",
+        "totalIssued": 3250,
+        "floorPrice": 260
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#72 Carmine Infantino Robin ",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1750,
+        "floorPrice": 910
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#77 Jason Fabok Batman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5500,
+        "floorPrice": 160
+      }
     ],
     "brand": "Batman Black & White"
   },
@@ -68,11 +168,36 @@
     "season": 1,
     "date": "2020-12-24T00:00:00.000Z",
     "slugs":
-    [
-      "24-brian-bolland-penguin",
-      "56-bruce-timm-harley-quinn",
-      "60-dick-sprang-batman",
-      "81-amanda-conner-batman"
+    [],
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#24 Brian Bolland Penguin",
+        "rarity": "RARE",
+        "totalIssued": 3250,
+        "floorPrice": 319
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#56 Bruce Timm Harley Quinn",
+        "rarity": "COMMON",
+        "totalIssued": 7500,
+        "floorPrice": 230
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#60 Dick Sprang Batman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5500,
+        "floorPrice": 88
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#81 - Amanda Conner Batman",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1750,
+        "floorPrice": 949
+      }
     ],
     "brand": "Batman Black & White"
   },
@@ -81,11 +206,36 @@
     "season": 1,
     "date": "2021-03-11T00:00:00.000Z",
     "slugs":
-    [
-      "42-darwyn-cooke-batman",
-      "55-gary-frank-batman",
-      "57-jae-lee-batman",
-      "79-jim-lee-nightwing"
+    [],
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#42 Darwyn Cooke Batman",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 59
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#55 Gary Frank Batman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5500,
+        "floorPrice": 138
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#57 Jae Lee Batman",
+        "rarity": "RARE",
+        "totalIssued": 3250,
+        "floorPrice": 260
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#79 Jim Lee Nightwing",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1850,
+        "floorPrice": 1025
+      }
     ],
     "brand": "Batman Black & White"
   },
@@ -94,11 +244,36 @@
     "season": 2,
     "date": "2021-05-20T00:00:00.000Z",
     "slugs":
-    [
-      "06-batman",
-      "71-batman",
-      "76-robin",
-      "89-batman"
+    [],
+    "collectibles": [
+      {
+        "brand": "Batman Black & White",
+        "name": "#06 Batman",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 3800,
+        "floorPrice": 440
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#71 Batman",
+        "rarity": "RARE",
+        "totalIssued": 6800,
+        "floorPrice": 119
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#76 Robin",
+        "rarity": "UNCOMMON",
+        "totalIssued": 12800,
+        "floorPrice": 58
+      },
+      {
+        "brand": "Batman Black & White",
+        "name": "#89 Batman",
+        "rarity": "COMMON",
+        "totalIssued": 16800,
+        "floorPrice": 64
+      }
     ],
     "brand": "Batman Black & White"
   },
@@ -107,8 +282,15 @@
     "season": 1,
     "date": "2020-12-09T00:00:00.000Z",
     "slugs":
-    [
-      "big-barda"
+    [],
+    "collectibles": [
+      {
+        "brand": "Bombshells",
+        "name": "Big Barda",
+        "rarity": "RARE",
+        "totalIssued": 1044,
+        "floorPrice": 1000
+      }
     ],
     "brand": "Bombshells"
   },
@@ -117,9 +299,22 @@
     "season": 2,
     "date": "2021-06-24T00:00:00.000Z",
     "slugs":
-    [
-      "death",
-      "harley-quinn-deluxe-2"
+    [],
+    "collectibles": [
+      {
+        "brand": "Bombshells",
+        "name": "Death",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2666,
+        "floorPrice": 460
+      },
+      {
+        "brand": "Bombshells",
+        "name": "Harley Quinn Deluxe 2",
+        "rarity": "RARE",
+        "totalIssued": 6666,
+        "floorPrice": 123
+      }
     ],
     "brand": "Bombshells"
   },
@@ -128,12 +323,43 @@
     "season": 2,
     "date": "2021-08-14T00:00:00.000Z",
     "slugs":
-    [
-      "bucky-barnes",
-      "john-f.-walker",
-      "red-skull",
-      "sam-wilson",
-      "steve-rogers"
+    [],
+    "collectibles": [
+      {
+        "brand": "Marvel Mightys",
+        "name": "Bucky Barnes",
+        "rarity": "RARE",
+        "totalIssued": 11888,
+        "floorPrice": 78
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "John F. Walker",
+        "rarity": "UNCOMMON",
+        "totalIssued": 18888,
+        "floorPrice": 21
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Red Skull",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 4888,
+        "floorPrice": 420
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Sam Wilson",
+        "rarity": "COMMON",
+        "totalIssued": 28888,
+        "floorPrice": 18
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Steve Rogers",
+        "rarity": "COMMON",
+        "totalIssued": 28888,
+        "floorPrice": 28
+      }
     ],
     "brand": "Marvel Mightys"
   },
@@ -152,11 +378,36 @@
     "season": 2,
     "date": "2021-06-10T00:00:00.000Z",
     "slugs":
-    [
-      "cap'n-cornstarch",
-      "count-calorie",
-      "fat-tony",
-      "honey-butt-the-obese"
+    [],
+    "collectibles": [
+      {
+        "brand": "Cereal Killers",
+        "name": "Cap'n Cornstarch",
+        "rarity": "UNCOMMON",
+        "totalIssued": 3333,
+        "floorPrice": 114
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Count Calorie",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1888,
+        "floorPrice": 675
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Fat Tony",
+        "rarity": "COMMON",
+        "totalIssued": 4444,
+        "floorPrice": 115
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Honey Butt the Obese",
+        "rarity": "RARE",
+        "totalIssued": 2222,
+        "floorPrice": 235
+      }
     ],
     "brand": "Cereal Killers"
   },
@@ -165,11 +416,36 @@
     "season": 2,
     "date": "2021-09-18T00:00:00.000Z",
     "slugs":
-    [
-      "franken-fat",
-      "sugar-bear",
-      "two-ton-sam",
-      "yucky-charmer"
+    [],
+    "collectibles": [
+      {
+        "brand": "Cereal Killers",
+        "name": "Franken Fat",
+        "rarity": "UNCOMMON",
+        "totalIssued": 3333,
+        "floorPrice": 60
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Sugar Bear",
+        "rarity": "RARE",
+        "totalIssued": 2222,
+        "floorPrice": 137
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Two Ton Sam",
+        "rarity": "COMMON",
+        "totalIssued": 4444,
+        "floorPrice": 50
+      },
+      {
+        "brand": "Cereal Killers",
+        "name": "Yucky Charmer",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1888,
+        "floorPrice": 396
+      }
     ],
     "brand": "Cereal Killers"
   },
@@ -178,11 +454,36 @@
     "season": 2,
     "date": "2021-07-23T00:00:00.000Z",
     "slugs":
-    [
-      "the-assassin",
-      "the-hunter",
-      "the-nightwatch",
-      "the-protector"
+    [],
+    "collectibles": [
+      {
+        "brand": "CHOICES",
+        "name": "The Assassin",
+        "rarity": "UNCOMMON",
+        "totalIssued": 1666,
+        "floorPrice": 380
+      },
+      {
+        "brand": "CHOICES",
+        "name": "The Hunter",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 888,
+        "floorPrice": 1250
+      },
+      {
+        "brand": "CHOICES",
+        "name": "The Nightwatch",
+        "rarity": "RARE",
+        "totalIssued": 1111,
+        "floorPrice": 500
+      },
+      {
+        "brand": "CHOICES",
+        "name": "The Protector",
+        "rarity": "COMMON",
+        "totalIssued": 2222,
+        "floorPrice": 174
+      }
     ],
     "brand": "CHOICES"
   },
@@ -191,11 +492,36 @@
     "season": 2,
     "date": "2021-05-27T00:00:00.000Z",
     "slugs":
-    [
-      "batgirl",
-      "catwoman",
-      "mera",
-      "supergirl"
+    [],
+    "collectibles": [
+      {
+        "brand": "DC Cover Girls ",
+        "name": "Batgirl",
+        "rarity": "COMMON",
+        "totalIssued": 13800,
+        "floorPrice": 40
+      },
+      {
+        "brand": "DC Cover Girls ",
+        "name": "Catwoman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 10800,
+        "floorPrice": 62
+      },
+      {
+        "brand": "DC Cover Girls ",
+        "name": "Mera",
+        "rarity": "RARE",
+        "totalIssued": 6800,
+        "floorPrice": 100
+      },
+      {
+        "brand": "DC Cover Girls ",
+        "name": "Supergirl",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 3800,
+        "floorPrice": 545
+      }
     ],
     "brand": "DC Cover Girls "
   },
@@ -212,21 +538,21 @@
         "name": "Bigfoot",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 36
+        "floorPrice": 39
       },
       {
         "brand": "Cryptkins",
         "name": "Chupacabra",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 33.95
+        "floorPrice": 34
       },
       {
         "brand": "Cryptkins",
         "name": "Cosmic Cthulhu",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2800,
-        "floorPrice": 878.99
+        "floorPrice": 574
       },
       {
         "brand": "Cryptkins",
@@ -240,49 +566,49 @@
         "name": "Jersey Devil",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 44.99
+        "floorPrice": 39
       },
       {
         "brand": "Cryptkins",
         "name": "Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 48
+        "floorPrice": 44
       },
       {
         "brand": "Cryptkins",
         "name": "Nessie",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 31.79
+        "floorPrice": 28
       },
       {
         "brand": "Cryptkins",
         "name": "Nightcrawler",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 170
+        "floorPrice": 90
       },
       {
         "brand": "Cryptkins",
         "name": "Ogopogo",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 137
+        "floorPrice": 90
       },
       {
         "brand": "Cryptkins",
         "name": "Thunderbird",
         "rarity": "RARE",
         "totalIssued": 4000,
-        "floorPrice": 146.89
+        "floorPrice": 105
       },
       {
         "brand": "Cryptkins",
         "name": "Twilight Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 47.7
+        "floorPrice": 39
       },
       {
         "brand": "Cryptkins",
@@ -299,11 +625,36 @@
     "season": 2,
     "date": "2021-07-23T00:00:00.000Z",
     "slugs":
-    [
-      "cthulhu-idol-bronze",
-      "cthulhu-idol-gold",
-      "cthulhu-idol-jade",
-      "necronomicon-(book-of-the-dead)"
+    [],
+    "collectibles": [
+      {
+        "brand": "Call of Cthulhu",
+        "name": "Cthulhu Idol - Bronze",
+        "rarity": "RARE",
+        "totalIssued": 1975,
+        "floorPrice": 115
+      },
+      {
+        "brand": "Call of Cthulhu",
+        "name": "Cthulhu Idol - Gold",
+        "rarity": "RARE",
+        "totalIssued": 1975,
+        "floorPrice": 200
+      },
+      {
+        "brand": "Call of Cthulhu",
+        "name": "Cthulhu Idol - Jade",
+        "rarity": "RARE",
+        "totalIssued": 1975,
+        "floorPrice": 150
+      },
+      {
+        "brand": "Call of Cthulhu",
+        "name": "Necronomicon (Book of the Dead)",
+        "rarity": "RARE",
+        "totalIssued": 1924,
+        "floorPrice": 398
+      }
     ],
     "brand": "Call of Cthulhu"
   },
@@ -312,10 +663,29 @@
     "season": 1,
     "date": "2021-04-08T00:00:00.000Z",
     "slugs":
-    [
-      "1:1-delorean-time-machine-interactive",
-      "1:1-delorean-time-machine-static",
-      "1:6-delorean-time-machine-interactive"
+    [],
+    "collectibles": [
+      {
+        "brand": "Back to the Future",
+        "name": "1:1 DeLorean Time Machine - Interactive",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 12500,
+        "floorPrice": 520
+      },
+      {
+        "brand": "Back to the Future",
+        "name": "1:1 DeLorean Time Machine - Static",
+        "rarity": "RARE",
+        "totalIssued": 25000,
+        "floorPrice": 105
+      },
+      {
+        "brand": "Back to the Future",
+        "name": "1:6 DeLorean Time Machine - Interactive",
+        "rarity": "COMMON",
+        "totalIssued": 50000,
+        "floorPrice": 55
+      }
     ],
     "brand": "Back to the Future"
   },
@@ -324,11 +694,36 @@
     "season": 1,
     "date": "2021-05-13T00:00:00.000Z",
     "slugs":
-    [
-      "dragon-girl-gold-pink",
-      "dragon-girl-silver",
-      "dragon-girl-silver-black",
-      "dragon-girl-silver-gold"
+    [],
+    "collectibles": [
+      {
+        "brand": "Dragon Girl",
+        "name": "Dragon Girl - Gold / Pink",
+        "rarity": "COMMON",
+        "totalIssued": 6888,
+        "floorPrice": 113
+      },
+      {
+        "brand": "Dragon Girl",
+        "name": "Dragon Girl - Silver",
+        "rarity": "RARE",
+        "totalIssued": 1888,
+        "floorPrice": 470
+      },
+      {
+        "brand": "Dragon Girl",
+        "name": "Dragon Girl - Silver / Black",
+        "rarity": "UNCOMMON",
+        "totalIssued": 4888,
+        "floorPrice": 185
+      },
+      {
+        "brand": "Dragon Girl",
+        "name": "Dragon Girl - Silver / Gold",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 888,
+        "floorPrice": 3100
+      }
     ],
     "brand": "Dragon Girl"
   },
@@ -337,10 +732,29 @@
     "season": 2,
     "date": "2021-07-17T00:00:00.000Z",
     "slugs":
-    [
-      "1:1-ecto-1-interactive",
-      "1:1-ecto-1-static",
-      "1:6-ecto-1-interactive"
+    [],
+    "collectibles": [
+      {
+        "brand": "Ghostbusters I",
+        "name": "1:1 Ecto-1 Interactive",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 4444,
+        "floorPrice": 390
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "1:1 Ecto-1 Static",
+        "rarity": "RARE",
+        "totalIssued": 6666,
+        "floorPrice": 120
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "1:6 Ecto-1 Interactive",
+        "rarity": "COMMON",
+        "totalIssued": 9999,
+        "floorPrice": 40
+      }
     ],
     "brand": "Ghostbusters I"
   },
@@ -363,12 +777,43 @@
     "season": 1,
     "date": "2021-01-28T00:00:00.000Z",
     "slugs":
-    [
-      "ghost-trap",
-      "ghostbusters-i-logo",
-      "ghostbusters-i-logo-platinum",
-      "slimer",
-      "stay-puft-marshmallow-man"
+    [],
+    "collectibles": [
+      {
+        "brand": "Ghostbusters I",
+        "name": "Ghost Trap",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1750,
+        "floorPrice": 759
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "Ghostbusters I Logo",
+        "rarity": "RARE",
+        "totalIssued": 2400,
+        "floorPrice": 300
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "Ghostbusters I Logo - Platinum",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 200,
+        "floorPrice": 27000
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "Slimer",
+        "rarity": "COMMON",
+        "totalIssued": 5500,
+        "floorPrice": 134
+      },
+      {
+        "brand": "Ghostbusters I",
+        "name": "Stay Puft Marshmallow Man",
+        "rarity": "UNCOMMON",
+        "totalIssued": 3750,
+        "floorPrice": 278
+      }
     ],
     "brand": "Ghostbusters I"
   },
@@ -377,11 +822,36 @@
     "season": 2,
     "date": "2021-06-21T00:00:00.000Z",
     "slugs":
-    [
-      "house-of-cards-amelia-earhart",
-      "house-of-cards-cleopatra",
-      "pride:-givenchy-beauty",
-      "rewind-collective-logo"
+    [],
+    "collectibles": [
+      {
+        "brand": "GIVENCHY + Rewind Collective",
+        "name": "House of Cards - Amelia Earhart",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 999,
+        "floorPrice": 1840
+      },
+      {
+        "brand": "GIVENCHY + Rewind Collective",
+        "name": "House of Cards - Cleopatra",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 999,
+        "floorPrice": 2599
+      },
+      {
+        "brand": "GIVENCHY + Rewind Collective",
+        "name": "PRIDE: Givenchy Beauty",
+        "rarity": "RARE",
+        "totalIssued": 1952,
+        "floorPrice": 4300
+      },
+      {
+        "brand": "GIVENCHY + Rewind Collective",
+        "name": "Rewind Collective Logo",
+        "rarity": "UNCOMMON",
+        "totalIssued": 1978,
+        "floorPrice": 500
+      }
     ],
     "brand": "GIVENCHY + Rewind Collective"
   },
@@ -390,11 +860,36 @@
     "season": 1,
     "date": "2021-02-11T00:00:00.000Z",
     "slugs":
-    [
-      "harley-quinn-06-terry-dodson",
-      "harley-quinn-08-babs-tarr",
-      "harley-quinn-18-guillem-march",
-      "harley-quinn-19-steve-pugh"
+    [],
+    "collectibles": [
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "Harley Quinn - #06 Terry Dodson",
+        "rarity": "RARE",
+        "totalIssued": 750,
+        "floorPrice": 1600
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "Harley Quinn - #08  Babs Tarr",
+        "rarity": "UNCOMMON",
+        "totalIssued": 2500,
+        "floorPrice": 315
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "Harley Quinn - #18 Guillem March",
+        "rarity": "UNCOMMON",
+        "totalIssued": 2500,
+        "floorPrice": 229
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "Harley Quinn - #19 Steve Pugh",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 500,
+        "floorPrice": 10999
+      }
     ],
     "brand": "Harley Quinn Red, White & Black"
   },
@@ -403,11 +898,36 @@
     "season": 3,
     "date": "2021-10-16T00:00:00.000Z",
     "slugs":
-    [
-      "13-harley-quinn",
-      "5-harley-quinn",
-      "11-harley-quinn",
-      "12-harley-quinn"
+    [],
+    "collectibles": [
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "#13 Harley Quinn",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1750,
+        "floorPrice": 500
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "#5 Harley Quinn",
+        "rarity": "RARE",
+        "totalIssued": 3250,
+        "floorPrice": 160
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "#11 Harley Quinn",
+        "rarity": "COMMON",
+        "totalIssued": 7500,
+        "floorPrice": 49
+      },
+      {
+        "brand": "Harley Quinn Red, White & Black",
+        "name": "#12 Harley Quinn",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5500,
+        "floorPrice": 79
+      }
     ],
     "brand": "Harley Quinn Red, White & Black"
   },
@@ -416,12 +936,43 @@
     "season": 2,
     "date": "2021-07-21T00:00:00.000Z",
     "slugs":
-    [
-      "marty's-hoverboard",
-      "no-tech-hoverboard",
-      "pitbull-hoverboard",
-      "question-mark-hoverboard",
-      "rising-sun-hoverboard"
+    [],
+    "collectibles": [
+      {
+        "brand": "Back to the Future II",
+        "name": "Marty’s Hoverboard",
+        "rarity": "COMMON",
+        "totalIssued": 7777,
+        "floorPrice": 130
+      },
+      {
+        "brand": "Back to the Future II",
+        "name": "No Tech Hoverboard",
+        "rarity": "COMMON",
+        "totalIssued": 7777,
+        "floorPrice": 32
+      },
+      {
+        "brand": "Back to the Future II",
+        "name": "Pitbull Hoverboard",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 3333,
+        "floorPrice": 329
+      },
+      {
+        "brand": "Back to the Future II",
+        "name": "Question Mark Hoverboard",
+        "rarity": "RARE",
+        "totalIssued": 4444,
+        "floorPrice": 85
+      },
+      {
+        "brand": "Back to the Future II",
+        "name": "Rising Sun Hoverboard",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5555,
+        "floorPrice": 49
+      }
     ],
     "brand": "Back to the Future II"
   },
@@ -430,13 +981,50 @@
     "season": 2,
     "date": "2021-07-01T00:00:00.000Z",
     "slugs":
-    [
-      "backstab-smorkin'-labbit",
-      "happy-'stache-labbit",
-      "smorkin'-labbit-choice-cuts",
-      "smorkin'-labbit-red",
-      "the-visible-labbit",
-      "the-visible-labbit-neon-edition"
+    [],
+    "collectibles": [
+      {
+        "brand": "Labbit",
+        "name": "Backstab Smorkin’ Labbit",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 888,
+        "floorPrice": 1388
+      },
+      {
+        "brand": "Labbit",
+        "name": "Happy ‘Stache Labbit",
+        "rarity": "COMMON",
+        "totalIssued": 3888,
+        "floorPrice": 75
+      },
+      {
+        "brand": "Labbit",
+        "name": "Smorkin' Labbit - Choice Cuts",
+        "rarity": "COMMON",
+        "totalIssued": 3888,
+        "floorPrice": 72
+      },
+      {
+        "brand": "Labbit",
+        "name": "Smorkin’ Labbit - Red",
+        "rarity": "UNCOMMON",
+        "totalIssued": 2888,
+        "floorPrice": 138
+      },
+      {
+        "brand": "Labbit",
+        "name": "The Visible Labbit",
+        "rarity": "RARE",
+        "totalIssued": 1888,
+        "floorPrice": 250
+      },
+      {
+        "brand": "Labbit",
+        "name": "The Visible Labbit - Neon Edition",
+        "rarity": "RARE",
+        "totalIssued": 1888,
+        "floorPrice": 372
+      }
     ],
     "brand": "Labbit"
   },
@@ -445,13 +1033,50 @@
     "season": 2,
     "date": "2021-10-02T00:00:00.000Z",
     "slugs":
-    [
-      "corpsman",
-      "hooverville-labbit-rubberleg-colorway",
-      "hooverville-labbit-sunny-side-of-the-street",
-      "labbicorn",
-      "redrum",
-      "white-backstab"
+    [],
+    "collectibles": [
+      {
+        "brand": "Labbit",
+        "name": "Corpsman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 2888,
+        "floorPrice": 100
+      },
+      {
+        "brand": "Labbit",
+        "name": "Hooverville Labbit - Rubberleg Colorway",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 3333,
+        "floorPrice": 390
+      },
+      {
+        "brand": "Labbit",
+        "name": "Hooverville Labbit - Sunny Side of the Street",
+        "rarity": "RARE",
+        "totalIssued": 1888,
+        "floorPrice": 140
+      },
+      {
+        "brand": "Labbit",
+        "name": "Labbicorn",
+        "rarity": "COMMON",
+        "totalIssued": 3888,
+        "floorPrice": 318
+      },
+      {
+        "brand": "Labbit",
+        "name": "Redrum",
+        "rarity": "RARE",
+        "totalIssued": 1888,
+        "floorPrice": 179
+      },
+      {
+        "brand": "Labbit",
+        "name": "White Backstab",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 888,
+        "floorPrice": 1400
+      }
     ],
     "brand": "Labbit"
   },
@@ -557,70 +1182,69 @@
     "date": "2021-04-06T00:00:00.000Z",
     "slugs":
     [],
-    "collectibles":
-    [
+    "collectibles": [
       {
         "brand": "Mermicornos",
         "name": "Cora",
-        "rarity": "COMMON",
-        "totalIssued": 9000,
-        "floorPrice": 32.5
-      },
-      {
-        "brand": "Mermicornos",
-        "name": "Corsica",
-        "rarity": "ULTRA_RARE",
-        "totalIssued": 3500,
-        "floorPrice": 578
-      },
-      {
-        "brand": "Mermicornos",
-        "name": "Gelatina",
-        "rarity": "COMMON",
-        "totalIssued": 9000,
-        "floorPrice": 33
-      },
-      {
-        "brand": "Mermicornos",
-        "name": "Marea",
-        "rarity": "UNCOMMON",
-        "totalIssued": 6000,
-        "floorPrice": 54.78
-      },
-      {
-        "brand": "Mermicornos",
-        "name": "Marina",
-        "rarity": "UNCOMMON",
-        "totalIssued": 6000,
-        "floorPrice": 57.9
-      },
-      {
-        "brand": "Mermicornos",
-        "name": "Oceania",
-        "rarity": "COMMON",
-        "totalIssued": 9000,
-        "floorPrice": 29.99
-      },
-      {
-        "brand": "Mermicornos",
-        "name": "Perla",
-        "rarity": "UNCOMMON",
-        "totalIssued": 6000,
-        "floorPrice": 50
-      },
-      {
-        "brand": "Mermicornos",
-        "name": "Sirena",
         "rarity": "COMMON",
         "totalIssued": 9000,
         "floorPrice": 28
       },
       {
         "brand": "Mermicornos",
+        "name": "Corsica",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 3500,
+        "floorPrice": 350
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Gelatina",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 31
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Marea",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 39
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Marina",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 39
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Oceania",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 27
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Perla",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "floorPrice": 34
+      },
+      {
+        "brand": "Mermicornos",
+        "name": "Sirena",
+        "rarity": "COMMON",
+        "totalIssued": 9000,
+        "floorPrice": 29
+      },
+      {
+        "brand": "Mermicornos",
         "name": "Tropicana",
         "rarity": "RARE",
         "totalIssued": 5000,
-        "floorPrice": 120
+        "floorPrice": 90
       }
     ],
     "brand": "Mermicornos"
@@ -630,12 +1254,43 @@
     "season": 2,
     "date": "2021-08-07T00:00:00.000Z",
     "slugs":
-    [
-      "spider-man---hangin'-out",
-      "spider-man---jump-into-action",
-      "spider-man---the-amazing-spider-man",
-      "spider-man---ultimate-animated",
-      "spider-man-animated"
+    [],
+    "collectibles": [
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man – Hangin’ Out",
+        "rarity": "UNCOMMON",
+        "totalIssued": 16000,
+        "floorPrice": 145
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man – Jump into Action",
+        "rarity": "RARE",
+        "totalIssued": 9000,
+        "floorPrice": 333
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man – The Amazing Spider-Man",
+        "rarity": "COMMON",
+        "totalIssued": 32000,
+        "floorPrice": 98
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man – Ultimate Animated",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 1000,
+        "floorPrice": 15899
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Spider-Man - Animated",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2500,
+        "floorPrice": 1880
+      }
     ],
     "brand": "Spider-Man"
   },
@@ -644,11 +1299,36 @@
     "season": 2,
     "date": "2021-07-24T00:00:00.000Z",
     "slugs":
-    [
-      "back-to-the-future",
-      "bill-and-ted's-bogus-journey",
-      "bill-and-ted's-excellent-adventure",
-      "jaws"
+    [],
+    "collectibles": [
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Back to the Future",
+        "rarity": "RARE",
+        "totalIssued": 1985,
+        "floorPrice": 260
+      },
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Bill & Ted's Bogus Journey",
+        "rarity": "RARE",
+        "totalIssued": 1991,
+        "floorPrice": 140
+      },
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Bill & Ted's Excellent Adventure",
+        "rarity": "RARE",
+        "totalIssued": 1989,
+        "floorPrice": 138
+      },
+      {
+        "brand": "Con Exclusive Prints",
+        "name": "Jaws",
+        "rarity": "RARE",
+        "totalIssued": 1975,
+        "floorPrice": 222
+      }
     ],
     "brand": "Con Exclusive Prints"
   },
@@ -663,14 +1343,14 @@
       {
         "brand": "Con Exclusive Prints",
         "name": "Back to the Future",
-        "floorPrice": 235.99,
+        "floorPrice": 199,
         "totalIssued": 1985,
         "rarity": "rare"
       },
       {
         "brand": "Con Exclusive Prints",
         "name": "Jaws",
-        "floorPrice": 214,
+        "floorPrice": 175,
         "totalIssued": 1972,
         "rarity": "rare"
       }
@@ -756,11 +1436,36 @@
     "season": 1,
     "date": "2020-11-04T00:00:00.000Z",
     "slugs":
-    [
-      "blossom",
-      "buttercup",
-      "mayor-of-townsville",
-      "mojo-jojo"
+    [],
+    "collectibles": [
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Blossom",
+        "rarity": "COMMON",
+        "totalIssued": 5000,
+        "floorPrice": 127
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Buttercup",
+        "rarity": "UNCOMMON",
+        "totalIssued": 4000,
+        "floorPrice": 270
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Mayor of Townsville",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1750,
+        "floorPrice": 606
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Mojo Jojo",
+        "rarity": "RARE",
+        "totalIssued": 3000,
+        "floorPrice": 257
+      }
     ],
     "brand": "Powerpuff Girls"
   },
@@ -769,11 +1474,36 @@
     "season": 1,
     "date": "2021-01-07T00:00:00.000Z",
     "slugs":
-    [
-      "bubbles",
-      "donny",
-      "h.i.m.",
-      "professor-utonium"
+    [],
+    "collectibles": [
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Bubbles",
+        "rarity": "COMMON",
+        "totalIssued": 600,
+        "floorPrice": 2700
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Donny",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 150,
+        "floorPrice": 83333
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "H.I.M.",
+        "rarity": "RARE",
+        "totalIssued": 300,
+        "floorPrice": 5000
+      },
+      {
+        "brand": "Powerpuff Girls",
+        "name": "Professor Utonium",
+        "rarity": "UNCOMMON",
+        "totalIssued": 450,
+        "floorPrice": 1899
+      }
     ],
     "brand": "Powerpuff Girls"
   },
@@ -782,9 +1512,22 @@
     "season": 2,
     "date": "2021-10-07T00:00:00.000Z",
     "slugs":
-    [
-      "ben-reilly-acrobatic-arachnid",
-      "ben-reilly-beyond-spider-man"
+    [],
+    "collectibles": [
+      {
+        "brand": "Spider-Man",
+        "name": "Ben Reilly - Acrobatic Arachnid",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5384,
+        "floorPrice": 117
+      },
+      {
+        "brand": "Spider-Man",
+        "name": "Ben Reilly - Beyond Spider-Man",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 616,
+        "floorPrice": 3699
+      }
     ],
     "brand": "Spider-Man"
   },
@@ -793,8 +1536,15 @@
     "season": 1,
     "date": "2021-01-07T00:00:00.000Z",
     "slugs":
-    [
-      "starfire"
+    [],
+    "collectibles": [
+      {
+        "brand": "Bombshells",
+        "name": "Starfire",
+        "rarity": "RARE",
+        "totalIssued": 1052,
+        "floorPrice": 1200
+      }
     ],
     "brand": "Bombshells"
   },
@@ -816,8 +1566,15 @@
     "season": 2,
     "date": "2021-06-17T00:00:00.000Z",
     "slugs":
-    [
-      "superman"
+    [],
+    "collectibles": [
+      {
+        "brand": "Superman",
+        "name": "Superman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 8888,
+        "floorPrice": 850
+      }
     ],
     "brand": "Superman"
   },
@@ -826,13 +1583,50 @@
     "season": 1,
     "date": "2021-04-29T00:00:00.000Z",
     "slugs":
-    [
-      "the-rise-of-ultraman-1-adi-granov",
-      "the-rise-of-ultraman-1-alex-ross",
-      "the-rise-of-ultraman-1-ed-mcguinness",
-      "the-rise-of-ultraman-1-john-tyler-christopher",
-      "the-rise-of-ultraman-1-skottie-young",
-      "the-rise-of-ultraman-1-yuji-kaida"
+    [],
+    "collectibles": [
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Adi Granov ",
+        "rarity": "RARE",
+        "totalIssued": 4800,
+        "floorPrice": 102
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Alex Ross",
+        "rarity": "COMMON",
+        "totalIssued": 7800,
+        "floorPrice": 40
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Ed McGuinness ",
+        "rarity": "COMMON",
+        "totalIssued": 7800,
+        "floorPrice": 37
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - John Tyler Christopher",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 3800,
+        "floorPrice": 549
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Skottie Young ",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5800,
+        "floorPrice": 49
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "The Rise of Ultraman #1 - Yuji Kaida ",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5800,
+        "floorPrice": 47
+      }
     ],
     "brand": "Anime ULTRAMAN"
   },
@@ -853,8 +1647,15 @@
     "season": 2,
     "date": "2021-07-25T00:00:00.000Z",
     "slugs":
-    [
-      "lucky"
+    [],
+    "collectibles": [
+      {
+        "brand": "Toy Tokyo x Jermaine Rogers",
+        "name": "Lucky",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 999,
+        "floorPrice": 2199
+      }
     ],
     "brand": "Toy Tokyo x Jermaine Rogers"
   },
@@ -873,8 +1674,15 @@
     "season": 2,
     "date": "2021-10-09T00:00:00.000Z",
     "slugs":
-    [
-      "dragon-girl-gold"
+    [],
+    "collectibles": [
+      {
+        "brand": "Toy Tokyo x Simone Legno",
+        "name": "Dragon Girl - Gold",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 2222,
+        "floorPrice": 1199
+      }
     ],
     "brand": "Toy Tokyo x Simone Legno"
   },
@@ -883,11 +1691,36 @@
     "season": 1,
     "date": "2021-03-25T00:00:00.000Z",
     "slugs":
-    [
-      "ultraman",
-      "ultraman-ace",
-      "ultraman-seven",
-      "edo"
+    [],
+    "collectibles": [
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "Ultraman",
+        "rarity": "COMMON",
+        "totalIssued": 9500,
+        "floorPrice": 70
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "Ultraman Ace",
+        "rarity": "RARE",
+        "totalIssued": 3500,
+        "floorPrice": 300
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "Ultraman Seven",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6500,
+        "floorPrice": 90
+      },
+      {
+        "brand": "Anime ULTRAMAN",
+        "name": "Edo",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1950,
+        "floorPrice": 585
+      }
     ],
     "brand": "Anime ULTRAMAN"
   },
@@ -897,77 +1730,76 @@
     "date": "2021-01-14T00:00:00.000Z",
     "slugs":
     [],
-    "collectibles":
-    [
+    "collectibles": [
       {
         "brand": "Unicornos",
         "name": "Bellina",
         "rarity": "RARE",
         "totalIssued": 2500,
-        "floorPrice": 125
+        "floorPrice": 175
       },
       {
         "brand": "Unicornos",
         "name": "Dolce",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 41.98
+        "floorPrice": 38
       },
       {
         "brand": "Unicornos",
         "name": "Fumo",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 75
+        "floorPrice": 73
       },
       {
         "brand": "Unicornos",
         "name": "Metallo",
         "rarity": "RARE",
         "totalIssued": 2500,
-        "floorPrice": 280
+        "floorPrice": 248
       },
       {
         "brand": "Unicornos",
         "name": "Mooka",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 38
+        "floorPrice": 30
       },
       {
         "brand": "Unicornos",
         "name": "Peperino",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 69.99
+        "floorPrice": 65
       },
       {
         "brand": "Unicornos",
         "name": "Pogo",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 69.95
+        "floorPrice": 61
       },
       {
         "brand": "Unicornos",
         "name": "Prima Donna",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 49
+        "floorPrice": 40
       },
       {
         "brand": "Unicornos",
         "name": "Ritmo",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1500,
-        "floorPrice": 1900
+        "floorPrice": 1400
       },
       {
         "brand": "Unicornos",
         "name": "Stellina",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 43
+        "floorPrice": 38
       }
     ],
     "brand": "Unicornos"
