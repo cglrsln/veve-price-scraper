@@ -81,9 +81,29 @@
     "date": "2021-10-23T00:00:00.000Z",
     "slugs":
     [
-      "alligator-loki-animated",
-      "alligator-loki-ultimate-animated",
-      "alligator-loki"
+    ],
+    "collectibles": [
+      {
+        "brand": "Loki",
+        "name": "Alligator Loki - Animated",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 3400,
+        "floorPrice": 179
+      },
+      {
+        "brand": "Loki",
+        "name": "Alligator Loki - Ultimate Animated",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 800,
+        "floorPrice": 1499
+      },
+      {
+        "brand": "Loki",
+        "name": "Alligator Loki",
+        "rarity": "COMMON",
+        "totalIssued": 9800,
+        "floorPrice": 34.97
+      }
     ],
     "brand": "Loki"
   },
@@ -369,7 +389,15 @@
     "date": "2021-10-09T00:00:00.000Z",
     "slugs":
     [
-      "captain-carter"
+    ],
+    "collectibles": [
+      {
+        "brand": "Marvel Mightys",
+        "name": "Captain Carter ",
+        "rarity": "RARE",
+        "totalIssued": 6000,
+        "floorPrice": 390
+      }
     ],
     "brand": "Marvel Mightys"
   },
@@ -764,11 +792,43 @@
     "date": "2021-08-28T00:00:00.000Z",
     "slugs":
     [
-      "doctor-doom",
-      "human-torch",
-      "invisible-woman",
-      "mister-fantastic",
-      "the-thing"
+    ],
+    "collectibles": [
+      {
+        "brand": "Marvel Mightys",
+        "name": "Doctor Doom",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 4999,
+        "floorPrice": 640
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Human Torch",
+        "rarity": "RARE",
+        "totalIssued": 14999,
+        "floorPrice": 61.99
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Invisible Woman",
+        "rarity": "UNCOMMON",
+        "totalIssued": 19999,
+        "floorPrice": 22.5
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "Mister Fantastic",
+        "rarity": "COMMON",
+        "totalIssued": 28999,
+        "floorPrice": 15.99
+      },
+      {
+        "brand": "Marvel Mightys",
+        "name": "The Thing",
+        "rarity": "COMMON",
+        "totalIssued": 28999,
+        "floorPrice": 16
+      }
     ],
     "brand": "Marvel Mightys"
   },
@@ -1075,7 +1135,7 @@
         "name": "White Backstab",
         "rarity": "ULTRA_RARE",
         "totalIssued": 888,
-        "floorPrice": 1400
+        "floorPrice": 1500
       }
     ],
     "brand": "Labbit"
@@ -1086,11 +1146,43 @@
     "date": "2021-08-31T00:00:00.000Z",
     "slugs":
     [
-      "captain-america---animated",
-      "captain-america---charging-into-battle",
-      "captain-america---the-first-avenger",
-      "captain-america---the-punch",
-      "captain-america---ultimate-animated"
+    ],
+    "collectibles": [
+      {
+        "brand": "Captain America",
+        "name": "Captain America – Animated",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2500,
+        "floorPrice": 539.99
+      },
+      {
+        "brand": "Captain America",
+        "name": "Captain America – Charging Into Battle",
+        "rarity": "UNCOMMON",
+        "totalIssued": 12000,
+        "floorPrice": 47
+      },
+      {
+        "brand": "Captain America",
+        "name": "Captain America – The First Avenger",
+        "rarity": "COMMON",
+        "totalIssued": 22000,
+        "floorPrice": 41.97
+      },
+      {
+        "brand": "Captain America",
+        "name": "Captain America – The Punch",
+        "rarity": "RARE",
+        "totalIssued": 8000,
+        "floorPrice": 100
+      },
+      {
+        "brand": "Captain America",
+        "name": "Captain America – Ultimate Animated",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 1000,
+        "floorPrice": 2935
+      }
     ],
     "brand": "Captain America"
   },
@@ -1381,9 +1473,29 @@
     "date": "2021-10-01T00:00:00.000Z",
     "slugs":
     [
-      "1:1-glider-animated",
-      "1:1-glider-static",
-      "safin's-mask"
+    ],
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "1:1 Glider - Animated",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 3007,
+        "floorPrice": 389.9
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "1:1 Glider - Static",
+        "rarity": "RARE",
+        "totalIssued": 5007,
+        "floorPrice": 99
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "Safin’s Mask",
+        "rarity": "RARE",
+        "totalIssued": 7007,
+        "floorPrice": 63
+      }
     ],
     "brand": "No Time To Die"
   },
@@ -1393,8 +1505,22 @@
     "date": "2021-10-01T00:00:00.000Z",
     "slugs":
     [
-      "coming-soon-poster",
-      "marking-time"
+    ],
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "Coming Soon Poster",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2507,
+        "floorPrice": 329
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "Marking Time",
+        "rarity": "RARE",
+        "totalIssued": 4007,
+        "floorPrice": 94
+      }
     ],
     "brand": "No Time To Die"
   },
@@ -1404,8 +1530,22 @@
     "date": "2021-10-03T00:00:00.000Z",
     "slugs":
     [
-      "man-on-a-mission",
-      "white-out"
+    ],
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "Man on a Mission",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2507,
+        "floorPrice": 307
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "White Out",
+        "rarity": "RARE",
+        "totalIssued": 4007,
+        "floorPrice": 93
+      }
     ],
     "brand": "No Time To Die"
   },
@@ -1415,8 +1555,22 @@
     "date": "2021-10-07T00:00:00.000Z",
     "slugs":
     [
-      "no-time",
-      "to-die-for"
+    ],
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "No Time",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2507,
+        "floorPrice": 269.77
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "To Die For",
+        "rarity": "RARE",
+        "totalIssued": 4007,
+        "floorPrice": 93
+      }
     ],
     "brand": "No Time To Die"
   },
@@ -1426,8 +1580,22 @@
     "date": "2021-10-13T00:00:00.000Z",
     "slugs":
     [
-      "safin's-lair",
-      "twist"
+    ],
+    "collectibles": [
+      {
+        "brand": "No Time To Die",
+        "name": "Safin's Lair",
+        "rarity": "RARE",
+        "totalIssued": 4007,
+        "floorPrice": 86.66
+      },
+      {
+        "brand": "No Time To Die",
+        "name": "Twist",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2507,
+        "floorPrice": 270
+      }
     ],
     "brand": "No Time To Die"
   },
@@ -1554,10 +1722,36 @@
     "date": "2021-09-08T00:00:00.000Z",
     "slugs":
     [
-      "borg-cube-(1:1)",
-      "borg-cube-(1:1000)",
-      "u.s.s.-enterprise-d-(1:1)",
-      "u.s.s.-enterprise-d-(1:1000)"
+    ],
+    "collectibles": [
+      {
+        "brand": "Star Trek: The Next Generation",
+        "name": "Borg Cube (1:1)",
+        "rarity": "RARE",
+        "totalIssued": 6888,
+        "floorPrice": 114
+      },
+      {
+        "brand": "Star Trek: The Next Generation",
+        "name": "Borg Cube (1:1000)",
+        "rarity": "COMMON",
+        "totalIssued": 9888,
+        "floorPrice": 39.2
+      },
+      {
+        "brand": "Star Trek: The Next Generation",
+        "name": "U.S.S. Enterprise-D (1:1)",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 5888,
+        "floorPrice": 373
+      },
+      {
+        "brand": "Star Trek: The Next Generation",
+        "name": "U.S.S. Enterprise-D (1:1000)",
+        "rarity": "UNCOMMON",
+        "totalIssued": 8888,
+        "floorPrice": 58
+      }
     ],
     "brand": "Star Trek: The Next Generation"
   },
@@ -1636,9 +1830,29 @@
     "date": "2021-09-25T00:00:00.000Z",
     "slugs":
     [
-      "throg---frog-of-thunder",
-      "throg---lightning-leap",
-      "throg---the-mighty-frogjolnir"
+    ],
+    "collectibles": [
+      {
+        "brand": "Throg",
+        "name": "Throg – Frog Of Thunder",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6630,
+        "floorPrice": 53.49
+      },
+      {
+        "brand": "Throg",
+        "name": "Throg – Lightning Leap",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2080,
+        "floorPrice": 591
+      },
+      {
+        "brand": "Throg",
+        "name": "Throg – The Mighty Frogjolnir",
+        "rarity": "RARE",
+        "totalIssued": 4225,
+        "floorPrice": 105
+      }
     ],
     "brand": "Throg"
   },
@@ -1665,7 +1879,15 @@
     "date": "2021-02-18T00:00:00.000Z",
     "slugs":
     [
-      "ghostbusters-i-logo-gold"
+    ],
+    "collectibles": [
+      {
+        "brand": "Toy Tokyo x Ghostbusters",
+        "name": "Ghostbusters I logo - Gold",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 188,
+        "floorPrice": 25444
+      }
     ],
     "brand": "Toy Tokyo x Ghostbusters"
   },
@@ -1862,7 +2084,7 @@
       {
         "brand": "Modern Marvel",
         "name": "Zombie Captain America #2",
-        "floorPrice": 277,
+        "floorPrice": 286,
         "totalIssued": 3800,
         "rarity": "ULTRA_RARE"
       }
@@ -1887,7 +2109,7 @@
       {
         "brand": "Modern Marvel",
         "name": "Zombie Hunter Spider-Man #2",
-        "floorPrice": 419,
+        "floorPrice": 179,
         "totalIssued": 3800,
         "rarity": "ULTRA_RARE"
       }
@@ -1906,14 +2128,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Homer & Bart",
-        "floorPrice": 447,
+        "floorPrice": 619,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Skateboard",
-        "floorPrice": 465,
+        "floorPrice": 630,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1932,14 +2154,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Elsa",
-        "floorPrice": 579,
+        "floorPrice": 749,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Mickey Sorcerer's Hat",
-        "floorPrice": 1200,
+        "floorPrice": 1800,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1958,14 +2180,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "WALL•E",
-        "floorPrice": 330,
+        "floorPrice": 469,
         "totalIssued": 10333,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Pizza Planet Truck",
-        "floorPrice": 399,
+        "floorPrice": 518,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -1985,14 +2207,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Iron Man",
-        "floorPrice": 440,
+        "floorPrice": 585,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Avengers Icon",
-        "floorPrice": 479,
+        "floorPrice": 647,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
@@ -2011,14 +2233,14 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "C-3PO",
-        "floorPrice": 530,
+        "floorPrice": 840,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "R2-D2",
-        "floorPrice": 950,
+        "floorPrice": 1500,
         "totalIssued": 8333,
         "rarity": "UNCOMMON"
       }
@@ -2037,7 +2259,7 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Partners Statue",
-        "floorPrice": 3200,
+        "floorPrice": 6500,
         "totalIssued": 4333,
         "rarity": "ULTRA_RARE"
       }
@@ -2056,28 +2278,28 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Classic Cartoon Edition",
-        "floorPrice": 24.62,
+        "floorPrice": 29,
         "totalIssued": 6666,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Rock N Roll Edition",
-        "floorPrice": 37,
+        "floorPrice": 47.50,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "90s Edition",
-        "floorPrice": 63.99,
+        "floorPrice": 87.90,
         "totalIssued": 2666,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Heroes Edition",
-        "floorPrice": 560,
+        "floorPrice": 735,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
@@ -2096,7 +2318,7 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Neapolitan Ting",
-        "floorPrice": 620,
+        "floorPrice": 770,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
@@ -2115,14 +2337,14 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Uprisings",
-        "floorPrice": 90,
+        "floorPrice": 123,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Bunny Blossom",
-        "floorPrice": 260,
+        "floorPrice": 310,
         "totalIssued": 1266,
         "rarity": "RARE"
       }
@@ -2141,7 +2363,7 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Shut Up And Draw",
-        "floorPrice": 77,
+        "floorPrice": 725,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
@@ -2159,17 +2381,17 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "Just-Us (Color)",
-        "floorPrice": 45,
-        "totalIssued": 1266,
-        "rarity": "RARE"
+        "name": "Just-Us (color)",
+        "floorPrice": 825,
+        "totalIssued": 666,
+        "rarity": "ULTRA_RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Just-Us (Black/White)",
-        "floorPrice": 45,
-        "totalIssued": 666,
-        "rarity": "ULTRA_RARE"
+        "floorPrice": 244.98,
+        "totalIssued": 1266,
+        "rarity": "RARE"
       }
     ]
   },
@@ -2186,14 +2408,14 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Cat Trooper (Color)",
-        "floorPrice": 45,
+        "floorPrice": 270,
         "totalIssued": 1266,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Cat Trooper (Black/White)",
-        "floorPrice": 45,
+        "floorPrice": 734,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
@@ -2211,29 +2433,29 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "OG Devil Bunny Red",
-        "floorPrice": 25,
+        "name": "OG Devil Bunny - Red",
+        "floorPrice": 59.50,
         "totalIssued": 6666,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "OG Devil Bunny B/W",
-        "floorPrice": 25,
+        "name": "OG Devil Bunny - Black",
+        "floorPrice": 119.90,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "OG Devil Bunny Gold",
-        "floorPrice": 25,
+        "name": "OG Devil Bunny - Gold",
+        "floorPrice": 335,
         "totalIssued": 2666,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "OG Devil Bunny Color",
-        "floorPrice": 25,
+        "name": "OG Devil Bunny - Color",
+        "floorPrice": 1400,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
@@ -2252,7 +2474,7 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Pop Life Print",
-        "floorPrice": 50,
+        "floorPrice": 1299,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
@@ -2271,7 +2493,7 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Creeping DERO",
-        "floorPrice": 70,
+        "floorPrice": 600,
         "totalIssued": 1111,
         "rarity": "RARE"
       }
@@ -2290,21 +2512,21 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Little Friends Black/White",
-        "floorPrice": 50,
+        "floorPrice": 450,
         "totalIssued": 1388,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Little Friends Silver",
-        "floorPrice": 50,
+        "floorPrice": 800,
         "totalIssued": 999,
         "rarity": "ULTRA_RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Little Friends Gold",
-        "floorPrice": 50,
+        "floorPrice": 3900,
         "totalIssued": 488,
         "rarity": "SECRET_RARE"
       }
@@ -2323,28 +2545,28 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Wanderers",
-        "floorPrice": 45,
+        "floorPrice": 170,
         "totalIssued": 1266,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Supernova",
-        "floorPrice": 45,
+        "floorPrice": 175,
         "totalIssued": 1266,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Wayob",
-        "floorPrice": 45,
+        "floorPrice": 776,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Electric Lola",
-        "floorPrice": 45,
+        "floorPrice": 729,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
@@ -2362,15 +2584,15 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "Vultura",
-        "floorPrice": 99,
+        "name": "Vultura Macabra",
+        "floorPrice": 320,
         "totalIssued": 2888,
         "rarity": "RARE"
       }
     ]
   },
   {
-    "name": "Lincoln Design Co",
+    "name": "Lincoln Design Co.",
     "brand": "DesignerCon 2021",
     "season": 3,
     "date": "2021-11-14T00:00:00.000Z",
@@ -2382,28 +2604,28 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Lincoln Logo Mayhem Board",
-        "floorPrice": 45,
+        "floorPrice": 93,
         "totalIssued": 2250,
         "rarity": "COMMON"
       },
-            {
+      {
         "brand": "DesignerCon 2021",
         "name": "Lincoln Ripper Board",
-        "floorPrice": 45,
+        "floorPrice": 116,
         "totalIssued": 1750,
         "rarity": "UNCOMMON"
       },
-            {
+      {
         "brand": "DesignerCon 2021",
         "name": "White L Snake Board",
-        "floorPrice": 45,
+        "floorPrice": 240,
         "totalIssued": 1200,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Ride the Lightning Board",
-        "floorPrice": 45,
+        "floorPrice": 6900,
         "totalIssued": 250,
         "rarity": "SECRET_RARE"
       }
@@ -2421,29 +2643,29 @@
     [
       {
         "brand": "DesignerCon 2021",
-        "name": "Ghost Bear Green",
-        "floorPrice": 13,
+        "name": "Ghostbear - Green",
+        "floorPrice": 82,
         "totalIssued": 1888,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Ghost Bear White",
-        "floorPrice": 13,
+        "name": "Ghostbear - White",
+        "floorPrice": 117,
         "totalIssued": 1688,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Ghost Bear Blue",
-        "floorPrice": 13,
+        "name": "Ghostbear - Blue",
+        "floorPrice": 177,
         "totalIssued": 1288,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Ghost Bear Red",
-        "floorPrice": 13,
+        "name": "Ghostbear - Red",
+        "floorPrice": 430,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
@@ -2462,14 +2684,14 @@
       {
         "brand": "DesignerCon 2021",
         "name": "That Cat Bronson",
-        "floorPrice": 77,
+        "floorPrice": 799,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
     ]
   },
   {
-    "name": "MIGHTY JAXX",
+    "name": "Mighty Jaxx",
     "brand": "DesignerCon 2021",
     "season": 3,
     "date": "2021-11-14T00:00:00.000Z",
@@ -2481,7 +2703,7 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Inked Stories (Eve)",
-        "floorPrice": 90,
+        "floorPrice": 2109,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }

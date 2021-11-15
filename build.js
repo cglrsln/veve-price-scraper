@@ -49,10 +49,10 @@ function buildSets() {
     delete set.slugs
 
     // Apply Overrides
-    set.collectibles.forEach(c => {
-      const found = overrides.find(el => el.name === c.name)
-      if (found) { c.floorPrice = found.price}
-    })
+    // set.collectibles.forEach(c => {
+    //   const found = overrides.find(el => el.name === c.name)
+    //   if (found) { c.floorPrice = found.price}
+    // })
 
     // calcuate total floor price of collectibles
     console.log(set.name)
