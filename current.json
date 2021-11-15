@@ -98,31 +98,10 @@
         "rarity": "COMMON",
         "totalIssued": 9800,
         "floorPrice": 34.97
-      },
-      {
-        "brand": "Loki",
-        "name": "Alligator Loki - Animated",
-        "rarity": "ULTRA_RARE",
-        "totalIssued": 3400,
-        "floorPrice": 179
-      },
-      {
-        "brand": "Loki",
-        "name": "Alligator Loki - Ultimate Animated",
-        "rarity": "SECRET_RARE",
-        "totalIssued": 800,
-        "floorPrice": 1499
-      },
-      {
-        "brand": "Loki",
-        "name": "Alligator Loki",
-        "rarity": "COMMON",
-        "totalIssued": 9800,
-        "floorPrice": 34.97
       }
     ],
     "brand": "Loki",
-    "total": 3425.94
+    "total": 1712.97
   },
   {
     "name": "Batman Black & White S1",
@@ -2070,20 +2049,20 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Homer & Bart",
-        "floorPrice": 447,
+        "floorPrice": 619,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Skateboard",
-        "floorPrice": 465,
+        "floorPrice": 630,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 912
+    "total": 1249
   },
   {
     "name": "Walt Disney Animation Studios",
@@ -2094,20 +2073,20 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Elsa",
-        "floorPrice": 579,
+        "floorPrice": 749,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Mickey Sorcerer's Hat",
-        "floorPrice": 1200,
+        "floorPrice": 1800,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 1779
+    "total": 2549
   },
   {
     "name": "Pixar",
@@ -2118,20 +2097,20 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "WALL•E",
-        "floorPrice": 330,
+        "floorPrice": 469,
         "totalIssued": 10333,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Pizza Planet Truck",
-        "floorPrice": 399,
+        "floorPrice": 518,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 729
+    "total": 987
   },
   {
     "name": "Marvel",
@@ -2143,19 +2122,19 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Iron Man",
-        "floorPrice": 440,
+        "floorPrice": 585,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Avengers Icon",
-        "floorPrice": 479,
+        "floorPrice": 647,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
-    "total": 919
+    "total": 1232
   },
   {
     "name": "Star Wars",
@@ -2167,19 +2146,19 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "C-3PO",
-        "floorPrice": 530,
+        "floorPrice": 840,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "R2-D2",
-        "floorPrice": 950,
+        "floorPrice": 1500,
         "totalIssued": 8333,
         "rarity": "UNCOMMON"
       }
     ],
-    "total": 1480
+    "total": 2340
   },
   {
     "name": "Walt Disney & Mickey Mouse",
@@ -2191,12 +2170,12 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Partners Statue",
-        "floorPrice": 3200,
+        "floorPrice": 6500,
         "totalIssued": 4333,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 3200
+    "total": 6500
   },
   {
     "name": "Scott Tolleson (DCon Mascot)",
@@ -2208,33 +2187,33 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Classic Cartoon Edition",
-        "floorPrice": 24.62,
+        "floorPrice": 29,
         "totalIssued": 6666,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Rock N Roll Edition",
-        "floorPrice": 37,
+        "floorPrice": 47.5,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "90s Edition",
-        "floorPrice": 63.99,
+        "floorPrice": 87.9,
         "totalIssued": 2666,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Heroes Edition",
-        "floorPrice": 560,
+        "floorPrice": 735,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 685.61
+    "total": 899.4
   },
   {
     "name": "Sket One",
@@ -2246,12 +2225,12 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Neapolitan Ting",
-        "floorPrice": 620,
+        "floorPrice": 770,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 620
+    "total": 770
   },
   {
     "name": "kozyndan",
@@ -2263,19 +2242,19 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Uprisings",
-        "floorPrice": 90,
+        "floorPrice": 123,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Bunny Blossom",
-        "floorPrice": 260,
+        "floorPrice": 310,
         "totalIssued": 1266,
         "rarity": "RARE"
       }
     ],
-    "total": 350
+    "total": 433
   },
   {
     "name": "Dave Pressler",
@@ -2287,12 +2266,12 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Shut Up And Draw",
-        "floorPrice": 77,
+        "floorPrice": 725,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 77
+    "total": 725
   },
   {
     "name": "Brian Viveros - Just-Us",
@@ -2303,20 +2282,20 @@
     "collectibles": [
       {
         "brand": "DesignerCon 2021",
-        "name": "Just-Us (Color)",
-        "floorPrice": 45,
-        "totalIssued": 1266,
-        "rarity": "RARE"
+        "name": "Just-Us (color)",
+        "floorPrice": 825,
+        "totalIssued": 666,
+        "rarity": "ULTRA_RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Just-Us (Black/White)",
-        "floorPrice": 45,
-        "totalIssued": 666,
-        "rarity": "ULTRA_RARE"
+        "floorPrice": 244.98,
+        "totalIssued": 1266,
+        "rarity": "RARE"
       }
     ],
-    "total": 90
+    "total": 1069.98
   },
   {
     "name": "Brian Viveros - Cat Trooper",
@@ -2328,19 +2307,19 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Cat Trooper (Color)",
-        "floorPrice": 45,
+        "floorPrice": 270,
         "totalIssued": 1266,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Cat Trooper (Black/White)",
-        "floorPrice": 45,
+        "floorPrice": 734,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 90
+    "total": 1004
   },
   {
     "name": "Tristan Eaton",
@@ -2351,34 +2330,34 @@
     "collectibles": [
       {
         "brand": "DesignerCon 2021",
-        "name": "OG Devil Bunny Red",
-        "floorPrice": 25,
+        "name": "OG Devil Bunny - Red",
+        "floorPrice": 59.5,
         "totalIssued": 6666,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "OG Devil Bunny B/W",
-        "floorPrice": 25,
+        "name": "OG Devil Bunny - Black",
+        "floorPrice": 119.9,
         "totalIssued": 3666,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "OG Devil Bunny Gold",
-        "floorPrice": 25,
+        "name": "OG Devil Bunny - Gold",
+        "floorPrice": 335,
         "totalIssued": 2666,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "OG Devil Bunny Color",
-        "floorPrice": 25,
+        "name": "OG Devil Bunny - Color",
+        "floorPrice": 1400,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 100
+    "total": 1914.4
   },
   {
     "name": "Jim Mahfood",
@@ -2390,12 +2369,12 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Pop Life Print",
-        "floorPrice": 50,
+        "floorPrice": 1299,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 50
+    "total": 1299
   },
   {
     "name": "Jermaine Rogers",
@@ -2407,12 +2386,12 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Creeping DERO",
-        "floorPrice": 70,
+        "floorPrice": 600,
         "totalIssued": 1111,
         "rarity": "RARE"
       }
     ],
-    "total": 70
+    "total": 600
   },
   {
     "name": "XLARGE",
@@ -2424,26 +2403,26 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Little Friends Black/White",
-        "floorPrice": 50,
+        "floorPrice": 450,
         "totalIssued": 1388,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Little Friends Silver",
-        "floorPrice": 50,
+        "floorPrice": 800,
         "totalIssued": 999,
         "rarity": "ULTRA_RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Little Friends Gold",
-        "floorPrice": 50,
+        "floorPrice": 3900,
         "totalIssued": 488,
         "rarity": "SECRET_RARE"
       }
     ],
-    "total": 150
+    "total": 5150
   },
   {
     "name": "Tara McPherson",
@@ -2455,33 +2434,33 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Wanderers",
-        "floorPrice": 45,
+        "floorPrice": 170,
         "totalIssued": 1266,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Supernova",
-        "floorPrice": 45,
+        "floorPrice": 175,
         "totalIssued": 1266,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Wayob",
-        "floorPrice": 45,
+        "floorPrice": 776,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Electric Lola",
-        "floorPrice": 45,
+        "floorPrice": 729,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 180
+    "total": 1850
   },
   {
     "name": "Camille Rose Garcia",
@@ -2492,16 +2471,16 @@
     "collectibles": [
       {
         "brand": "DesignerCon 2021",
-        "name": "Vultura",
-        "floorPrice": 99,
+        "name": "Vultura Macabra",
+        "floorPrice": 320,
         "totalIssued": 2888,
         "rarity": "RARE"
       }
     ],
-    "total": 99
+    "total": 320
   },
   {
-    "name": "Lincoln Design Co",
+    "name": "Lincoln Design Co.",
     "brand": "DesignerCon 2021",
     "season": 3,
     "date": "2021-11-14T00:00:00.000Z",
@@ -2510,33 +2489,33 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Lincoln Logo Mayhem Board",
-        "floorPrice": 45,
+        "floorPrice": 93,
         "totalIssued": 2250,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Lincoln Ripper Board",
-        "floorPrice": 45,
+        "floorPrice": 116,
         "totalIssued": 1750,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "White L Snake Board",
-        "floorPrice": 45,
+        "floorPrice": 240,
         "totalIssued": 1200,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
         "name": "Ride the Lightning Board",
-        "floorPrice": 45,
+        "floorPrice": 6900,
         "totalIssued": 250,
         "rarity": "SECRET_RARE"
       }
     ],
-    "total": 180
+    "total": 7349
   },
   {
     "name": "MunkyKing x Luke Chueh",
@@ -2547,34 +2526,34 @@
     "collectibles": [
       {
         "brand": "DesignerCon 2021",
-        "name": "Ghost Bear Green",
-        "floorPrice": 13,
+        "name": "Ghostbear - Green",
+        "floorPrice": 82,
         "totalIssued": 1888,
         "rarity": "COMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Ghost Bear White",
-        "floorPrice": 13,
+        "name": "Ghostbear - White",
+        "floorPrice": 117,
         "totalIssued": 1688,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Ghost Bear Blue",
-        "floorPrice": 13,
+        "name": "Ghostbear - Blue",
+        "floorPrice": 177,
         "totalIssued": 1288,
         "rarity": "RARE"
       },
       {
         "brand": "DesignerCon 2021",
-        "name": "Ghost Bear Red",
-        "floorPrice": 13,
+        "name": "Ghostbear - Red",
+        "floorPrice": 430,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 52
+    "total": 806
   },
   {
     "name": "Mister Cartoon",
@@ -2586,15 +2565,15 @@
       {
         "brand": "DesignerCon 2021",
         "name": "That Cat Bronson",
-        "floorPrice": 77,
+        "floorPrice": 799,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 77
+    "total": 799
   },
   {
-    "name": "MIGHTY JAXX",
+    "name": "Mighty Jaxx",
     "brand": "DesignerCon 2021",
     "season": 3,
     "date": "2021-11-14T00:00:00.000Z",
@@ -2603,11 +2582,11 @@
       {
         "brand": "DesignerCon 2021",
         "name": "Inked Stories (Eve)",
-        "floorPrice": 90,
+        "floorPrice": 2109,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 90
+    "total": 2109
   }
 ]
