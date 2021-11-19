@@ -2049,20 +2049,20 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Homer & Bart",
-        "floorPrice": 619,
+        "floorPrice": 900,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Skateboard",
-        "floorPrice": 630,
+        "floorPrice": 970,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 1249
+    "total": 1870
   },
   {
     "name": "Walt Disney Animation Studios",
@@ -2073,20 +2073,20 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Elsa",
-        "floorPrice": 749,
+        "floorPrice": 1200,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Mickey Sorcerer's Hat",
-        "floorPrice": 1800,
+        "floorPrice": 2600,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 2549
+    "total": 3800
   },
   {
     "name": "Pixar",
@@ -2097,20 +2097,20 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "WALL•E",
-        "floorPrice": 469,
+        "floorPrice": 700,
         "totalIssued": 10333,
         "rarity": "UNCOMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Pizza Planet Truck",
-        "floorPrice": 518,
+        "floorPrice": 800,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 987
+    "total": 1500
   },
   {
     "name": "Marvel",
@@ -2122,19 +2122,19 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Iron Man",
-        "floorPrice": 585,
+        "floorPrice": 900,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "Avengers Icon",
-        "floorPrice": 647,
+        "floorPrice": 1000,
         "totalIssued": 6333,
         "rarity": "RARE"
       }
     ],
-    "total": 1232
+    "total": 1900
   },
   {
     "name": "Star Wars",
@@ -2146,19 +2146,19 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "C-3PO",
-        "floorPrice": 840,
+        "floorPrice": 1000,
         "totalIssued": 12333,
         "rarity": "COMMON"
       },
       {
         "brand": "Disney+ Golden Moments",
         "name": "R2-D2",
-        "floorPrice": 1500,
+        "floorPrice": 2250,
         "totalIssued": 8333,
         "rarity": "UNCOMMON"
       }
     ],
-    "total": 2340
+    "total": 3250
   },
   {
     "name": "Walt Disney & Mickey Mouse",
@@ -2170,12 +2170,12 @@
       {
         "brand": "Disney+ Golden Moments",
         "name": "Partners Statue",
-        "floorPrice": 6500,
+        "floorPrice": 10400,
         "totalIssued": 4333,
         "rarity": "ULTRA_RARE"
       }
     ],
-    "total": 6500
+    "total": 10400
   },
   {
     "name": "Scott Tolleson (DCon Mascot)",
