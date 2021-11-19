@@ -55,12 +55,16 @@ function buildSets() {
     // })
 
     // calcuate total floor price of collectibles
-    console.log(set.name)
     if (set.collectibles) {
       set.total = set.collectibles.reduce((prev, current) => prev + current.floorPrice, 0)
+      set.marketCap = set.collectibles.reduce((prev, current) => prev + current.floorPrice * current.totalIssued, 0)
     } else {
       set.total = 0
+      set.marketCap = 0
     }
+
+    console.log(set.name, set.total, set.marketCap)
+
   })
 
   return sets
