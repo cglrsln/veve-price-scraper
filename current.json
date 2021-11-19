@@ -2402,5 +2402,46 @@
     ],
     "total": 2109,
     "marketCap": 1872792
+  },
+  {
+    "name": "Storm",
+    "brand": "X-Men",
+    "season": 3,
+    "date": "2021-11-20T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/modern-marvel-storm-d88efed675ed",
+    "collectibles": [
+      {
+        "name": "Storm — Mistress of the Elements",
+        "floorPrice": 50,
+        "totalIssued": 16500,
+        "rarity": "COMMON"
+      },
+      {
+        "name": "Storm — Windrider",
+        "floorPrice": 50,
+        "totalIssued": 12500,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "name": "Storm — Queen of Wakanda",
+        "floorPrice": 50,
+        "totalIssued": 6500,
+        "rarity": "RARE"
+      },
+      {
+        "name": "Storm — Animated",
+        "floorPrice": 50,
+        "totalIssued": 3650,
+        "rarity": "ULTRA_RARE"
+      },
+      {
+        "name": "Storm — Ultimate Animated",
+        "floorPrice": 50,
+        "totalIssued": 1500,
+        "rarity": "SECRET_RARE"
+      }
+    ],
+    "total": 250,
+    "marketCap": 2032500
   }
 ]
