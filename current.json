@@ -2412,36 +2412,36 @@
     "collectibles": [
       {
         "name": "Storm — Mistress of the Elements",
-        "floorPrice": 43,
+        "floorPrice": 50,
         "totalIssued": 16500,
         "rarity": "COMMON"
       },
       {
         "name": "Storm — Windrider",
-        "floorPrice": 53,
+        "floorPrice": 50,
         "totalIssued": 12500,
         "rarity": "UNCOMMON"
       },
       {
         "name": "Storm — Queen of Wakanda",
-        "floorPrice": 101,
+        "floorPrice": 50,
         "totalIssued": 6500,
         "rarity": "RARE"
       },
       {
         "name": "Storm — Animated",
-        "floorPrice": 355,
+        "floorPrice": 50,
         "totalIssued": 3650,
         "rarity": "ULTRA_RARE"
       },
       {
         "name": "Storm — Ultimate Animated",
-        "floorPrice": 1400,
+        "floorPrice": 50,
         "totalIssued": 1500,
         "rarity": "SECRET_RARE"
       }
     ],
-    "total": 1952,
-    "marketCap": 5424250
+    "total": 250,
+    "marketCap": 2032500
   }
 ]
