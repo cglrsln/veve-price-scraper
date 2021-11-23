@@ -2329,10 +2329,16 @@
         "floorPrice": 6900,
         "totalIssued": 250,
         "rarity": "SECRET_RARE"
+      },
+      {
+        "name": "Ride the Lightning Board v2",
+        "floorPrice": 4700,
+        "totalIssued": 250,
+        "rarity": "SECRET_RARE"
       }
     ],
-    "total": 7349,
-    "marketCap": 2425250
+    "total": 12049,
+    "marketCap": 3600250
   },
   {
     "name": "MunkyKing x Luke Chueh",
