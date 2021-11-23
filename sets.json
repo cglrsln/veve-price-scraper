@@ -2407,6 +2407,12 @@
         "floorPrice": 6900,
         "totalIssued": 250,
         "rarity": "SECRET_RARE"
+      },
+      {
+        "name": "Ride the Lightning Board v2",
+        "floorPrice": 4700,
+        "totalIssued": 250,
+        "rarity": "SECRET_RARE"
       }
     ]
   },
