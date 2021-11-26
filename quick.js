@@ -37,9 +37,14 @@ function processPrices(prices) {
         console.log('updating', cl.name, cl.floorPrice, updatedPrice.floorPrice)
         cl.floorPrice = updatedPrice.floorPrice
         cl.updatedAt = updatedPrice.updatedAt.toISOString()
+
+        updatedPrice.proccesed = true
       }
     });
   });
 
   writeSets(currentSets);
+
+  // write out unprocessed collectibes
+  priceMap.filter(pm => !pm.proccesed).forEach(pm => console.log(pm));
 }
