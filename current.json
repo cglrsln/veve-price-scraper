@@ -2449,5 +2449,40 @@
     ],
     "total": 1952,
     "marketCap": 5424250
+  },
+  {
+    "name": "Cereal Killers - S3",
+    "brand": "Cereal Killers",
+    "season": 3,
+    "date": "2021-11-27T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/ron-english-cereal-killers-s3-163b12df9ddc",
+    "collectibles": [
+      {
+        "name": "Smack, Crack, & Pot",
+        "floorPrice": 40,
+        "totalIssued": 4444,
+        "rarity": "COMMON"
+      },
+      {
+        "name": "Drug ‘em Killfrog",
+        "floorPrice": 50,
+        "totalIssued": 3333,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "name": "Qhrist",
+        "floorPrice": 60,
+        "totalIssued": 2222,
+        "rarity": "RARE"
+      },
+      {
+        "name": "Tricky the Obese Bunny",
+        "floorPrice": 90,
+        "totalIssued": 1888,
+        "rarity": "ULTRA_RARE"
+      }
+    ],
+    "total": 240,
+    "marketCap": 647650
   }
 ]
