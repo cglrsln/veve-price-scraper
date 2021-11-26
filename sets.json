@@ -905,32 +905,36 @@
         "name": "Marty’s Hoverboard",
         "rarity": "COMMON",
         "totalIssued": 7777,
-        "floorPrice": 130
+        "floorPrice": 155,
+        "updatedAt": "2021-11-26T11:00:53.396Z"
       },
       {
         "name": "No Tech Hoverboard",
         "rarity": "COMMON",
         "totalIssued": 7777,
-        "floorPrice": 32
+        "floorPrice": 48,
+        "updatedAt": "2021-11-26T11:00:58.049Z"
       },
       {
         "name": "Pitbull Hoverboard",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3333,
-        "floorPrice": 329
+        "floorPrice": 369,
+        "updatedAt": "2021-11-26T11:00:56.202Z"
       },
       {
         "name": "Question Mark Hoverboard",
         "rarity": "RARE",
         "totalIssued": 4444,
-        "floorPrice": 85
+        "floorPrice": 80.99,
+        "updatedAt": "2021-11-26T11:00:55.083Z"
       },
       {
         "name": "Rising Sun Hoverboard",
         "rarity": "UNCOMMON",
         "totalIssued": 5555,
         "floorPrice": 58,
-        "updatedAt": "2021-11-26T10:00:57.273Z"
+        "updatedAt": "2021-11-26T11:00:57.906Z"
       }
     ],
     "brand": "Back to the Future II"
@@ -2321,17 +2325,17 @@
     "collectibles": [
       {
         "name": "Lincoln Logo Mayhem Board",
-        "floorPrice": 70.5,
+        "floorPrice": 70,
         "totalIssued": 2250,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-26T10:03:16.884Z"
+        "updatedAt": "2021-11-26T11:03:18.226Z"
       },
       {
         "name": "Lincoln Ripper Board",
-        "floorPrice": 93,
+        "floorPrice": 92,
         "totalIssued": 1750,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-26T10:03:18.920Z"
+        "updatedAt": "2021-11-26T11:03:21.245Z"
       },
       {
         "name": "White L Snake Board",
@@ -2345,14 +2349,14 @@
         "floorPrice": 6750,
         "totalIssued": 250,
         "rarity": "SECRET_RARE",
-        "updatedAt": "2021-11-26T10:03:17.317Z"
+        "updatedAt": "2021-11-26T11:03:19.417Z"
       },
       {
         "name": "Ride the Lightning Board v2",
         "floorPrice": 4500,
         "totalIssued": 250,
         "rarity": "SECRET_RARE",
-        "updatedAt": "2021-11-26T10:03:28.692Z"
+        "updatedAt": "2021-11-26T11:03:30.119Z"
       }
     ]
   },
@@ -2437,34 +2441,39 @@
     "slugs": [],
     "collectibles": [
       {
-        "name": "Storm — Mistress of the Elements",
-        "floorPrice": 43,
+        "name": "Storm – Mistress of the Elements",
+        "floorPrice": 38.98,
         "totalIssued": 16500,
-        "rarity": "COMMON"
+        "rarity": "COMMON",
+        "updatedAt": "2021-11-26T10:03:24.812Z"
       },
       {
-        "name": "Storm — Windrider",
-        "floorPrice": 53,
+        "name": "Storm – Windrider",
+        "floorPrice": 43,
         "totalIssued": 12500,
-        "rarity": "UNCOMMON"
+        "rarity": "UNCOMMON",
+        "updatedAt": "2021-11-26T10:03:26.067Z"
       },
       {
-        "name": "Storm — Queen of Wakanda",
-        "floorPrice": 101,
+        "name": "Storm – Queen of Wakanda",
+        "floorPrice": 75.99,
         "totalIssued": 6500,
-        "rarity": "RARE"
+        "rarity": "RARE",
+        "updatedAt": "2021-11-26T10:03:23.498Z"
       },
       {
-        "name": "Storm — Animated",
-        "floorPrice": 355,
+        "name": "Storm – Animated",
+        "floorPrice": 274.98,
         "totalIssued": 3650,
-        "rarity": "ULTRA_RARE"
+        "rarity": "ULTRA_RARE",
+        "updatedAt": "2021-11-26T10:03:27.493Z"
       },
       {
-        "name": "Storm — Ultimate Animated",
-        "floorPrice": 1400,
+        "name": "Storm – Ultimate Animated",
+        "floorPrice": 1050,
         "totalIssued": 1500,
-        "rarity": "SECRET_RARE"
+        "rarity": "SECRET_RARE",
+        "updatedAt": "2021-11-26T10:03:26.365Z"
       }
     ]
   },
