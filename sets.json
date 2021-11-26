@@ -105,13 +105,15 @@
         "name": "#01 Eduardo Risso Batman",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 4299
+        "floorPrice": 4784,
+        "updatedAt": "2021-11-26T13:00:38.088Z"
       },
       {
         "name": "#100 Todd McFarlane Batman",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 1694
+        "floorPrice": 2319,
+        "updatedAt": "2021-11-26T13:00:40.583Z"
       },
       {
         "name": "#86 - Becky Cloonan Batman",
@@ -150,13 +152,15 @@
         "name": "#72 Carmine Infantino Robin ",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 910
+        "floorPrice": 999,
+        "updatedAt": "2021-11-26T13:00:24.392Z"
       },
       {
         "name": "#77 Jason Fabok Batman",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 160
+        "floorPrice": 169.99,
+        "updatedAt": "2021-11-26T13:00:25.399Z"
       }
     ],
     "brand": "Batman Black & White"
@@ -177,19 +181,22 @@
         "name": "#56 Bruce Timm Harley Quinn",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 230
+        "floorPrice": 248,
+        "updatedAt": "2021-11-26T13:00:19.595Z"
       },
       {
         "name": "#60 Dick Sprang Batman",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 88
+        "floorPrice": 109.99,
+        "updatedAt": "2021-11-26T13:00:16.283Z"
       },
       {
         "name": "#81 - Amanda Conner Batman",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 949
+        "floorPrice": 860,
+        "updatedAt": "2021-11-26T13:00:18.461Z"
       }
     ],
     "brand": "Batman Black & White"
@@ -216,13 +223,15 @@
         "name": "#57 Jae Lee Batman",
         "rarity": "RARE",
         "totalIssued": 3250,
-        "floorPrice": 260
+        "floorPrice": 256.69,
+        "updatedAt": "2021-11-26T12:59:49.561Z"
       },
       {
         "name": "#79 Jim Lee Nightwing",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1850,
-        "floorPrice": 1025
+        "floorPrice": 999.99,
+        "updatedAt": "2021-11-26T12:59:47.055Z"
       }
     ],
     "brand": "Batman Black & White"
@@ -237,14 +246,15 @@
         "name": "#06 Batman",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3800,
-        "floorPrice": 440
+        "floorPrice": 380,
+        "updatedAt": "2021-11-26T12:59:08.785Z"
       },
       {
         "name": "#71 Batman",
         "rarity": "RARE",
         "totalIssued": 6800,
         "floorPrice": 142.42,
-        "updatedAt": "2021-11-26T09:59:06.372Z"
+        "updatedAt": "2021-11-26T12:59:06.759Z"
       },
       {
         "name": "#76 Robin",
@@ -293,7 +303,8 @@
         "name": "Harley Quinn Deluxe 2",
         "rarity": "RARE",
         "totalIssued": 6666,
-        "floorPrice": 123
+        "floorPrice": 119.99,
+        "updatedAt": "2021-11-26T13:01:05.605Z"
       }
     ],
     "brand": "Bombshells"
@@ -838,25 +849,29 @@
         "name": "Harley Quinn - #06 Terry Dodson",
         "rarity": "RARE",
         "totalIssued": 750,
-        "floorPrice": 1600
+        "floorPrice": 1499,
+        "updatedAt": "2021-11-26T12:59:52.400Z"
       },
       {
         "name": "Harley Quinn - #08  Babs Tarr",
         "rarity": "UNCOMMON",
         "totalIssued": 2500,
-        "floorPrice": 315
+        "floorPrice": 315,
+        "updatedAt": "2021-11-26T12:59:55.276Z"
       },
       {
         "name": "Harley Quinn - #18 Guillem March",
         "rarity": "UNCOMMON",
         "totalIssued": 2500,
-        "floorPrice": 229
+        "floorPrice": 269,
+        "updatedAt": "2021-11-26T12:59:54.200Z"
       },
       {
         "name": "Harley Quinn - #19 Steve Pugh",
         "rarity": "ULTRA_RARE",
         "totalIssued": 500,
-        "floorPrice": 10999
+        "floorPrice": 9900,
+        "updatedAt": "2021-11-26T12:59:52.924Z"
       }
     ],
     "brand": "Harley Quinn Red, White & Black"
@@ -871,26 +886,29 @@
         "name": "#13 Harley Quinn",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 500
+        "floorPrice": 549.99,
+        "updatedAt": "2021-11-26T13:02:14.713Z"
       },
       {
         "name": "#5 Harley Quinn",
         "rarity": "RARE",
         "totalIssued": 3250,
-        "floorPrice": 139.41,
-        "updatedAt": "2021-11-26T10:02:14.013Z"
+        "floorPrice": 131,
+        "updatedAt": "2021-11-26T13:02:15.481Z"
       },
       {
         "name": "#11 Harley Quinn",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 49
+        "floorPrice": 61.5,
+        "updatedAt": "2021-11-26T13:02:13.234Z"
       },
       {
         "name": "#12 Harley Quinn",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 79
+        "floorPrice": 85,
+        "updatedAt": "2021-11-26T13:02:16.318Z"
       }
     ],
     "brand": "Harley Quinn Red, White & Black"
