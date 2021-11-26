@@ -3,15 +3,14 @@
     "name": "Adventure Time S1",
     "season": 1,
     "date": "2020-10-20T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Finn Mertens",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 73
+        "floorPrice": 133,
+        "updatedAt": "2021-11-26T10:00:34.817Z"
       },
       {
         "name": "Ice King",
@@ -38,10 +37,8 @@
     "name": "Adventure Time S2",
     "season": 1,
     "date": "2020-12-24T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "BMO",
         "rarity": "COMMON",
@@ -64,7 +61,8 @@
         "name": "Princess Bubblegum",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 64
+        "floorPrice": 88,
+        "updatedAt": "2021-11-26T10:00:20.299Z"
       }
     ],
     "brand": "Adventure Time"
@@ -73,10 +71,8 @@
     "name": "Alligator Loki",
     "season": 3,
     "date": "2021-10-23T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Alligator Loki - Animated",
         "rarity": "ULTRA_RARE",
@@ -87,7 +83,8 @@
         "name": "Alligator Loki - Ultimate Animated",
         "rarity": "SECRET_RARE",
         "totalIssued": 800,
-        "floorPrice": 1499
+        "floorPrice": 900,
+        "updatedAt": "2021-11-26T10:02:17.436Z"
       },
       {
         "name": "Alligator Loki",
@@ -102,10 +99,8 @@
     "name": "Batman Black & White S1",
     "season": 1,
     "date": "2020-10-14T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "#01 Eduardo Risso Batman",
         "rarity": "ULTRA_RARE",
@@ -137,10 +132,8 @@
     "name": "Batman Black & White S2",
     "season": 1,
     "date": "2020-11-04T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "#21 Jim Lee The Joker ",
         "rarity": "COMMON",
@@ -172,10 +165,8 @@
     "name": "Batman Black & White S3",
     "season": 1,
     "date": "2020-12-24T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "#24 Brian Bolland Penguin",
         "rarity": "RARE",
@@ -207,10 +198,8 @@
     "name": "Batman Black & White S4",
     "season": 1,
     "date": "2021-03-11T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "#42 Darwyn Cooke Batman",
         "rarity": "COMMON",
@@ -242,10 +231,8 @@
     "name": "Batman Black & White S5",
     "season": 2,
     "date": "2021-05-20T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "#06 Batman",
         "rarity": "ULTRA_RARE",
@@ -256,7 +243,8 @@
         "name": "#71 Batman",
         "rarity": "RARE",
         "totalIssued": 6800,
-        "floorPrice": 119
+        "floorPrice": 142.42,
+        "updatedAt": "2021-11-26T09:59:06.372Z"
       },
       {
         "name": "#76 Robin",
@@ -277,10 +265,8 @@
     "name": "Big Barda ",
     "season": 1,
     "date": "2020-12-09T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Big Barda",
         "rarity": "RARE",
@@ -294,10 +280,8 @@
     "name": "Bombshells - S2",
     "season": 2,
     "date": "2021-06-24T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Death",
         "rarity": "ULTRA_RARE",
@@ -317,10 +301,8 @@
     "name": "Captain America ",
     "season": 2,
     "date": "2021-08-14T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Bucky Barnes",
         "rarity": "RARE",
@@ -343,7 +325,8 @@
         "name": "Sam Wilson",
         "rarity": "COMMON",
         "totalIssued": 28888,
-        "floorPrice": 18
+        "floorPrice": 18.7,
+        "updatedAt": "2021-11-26T10:01:28.119Z"
       },
       {
         "name": "Steve Rogers",
@@ -358,10 +341,8 @@
     "name": "Captain Carter",
     "season": 2,
     "date": "2021-10-09T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Captain Carter ",
         "rarity": "RARE",
@@ -375,33 +356,35 @@
     "name": "Cereal Killers - S1",
     "season": 2,
     "date": "2021-06-10T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Cap'n Cornstarch",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 114
+        "floorPrice": 143,
+        "updatedAt": "2021-11-26T10:00:44.409Z"
       },
       {
         "name": "Count Calorie",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 675
+        "floorPrice": 830,
+        "updatedAt": "2021-11-26T10:00:42.248Z"
       },
       {
         "name": "Fat Tony",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 115
+        "floorPrice": 122,
+        "updatedAt": "2021-11-26T10:00:43.982Z"
       },
       {
         "name": "Honey Butt the Obese",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 235
+        "floorPrice": 328,
+        "updatedAt": "2021-11-26T10:00:41.065Z"
       }
     ],
     "brand": "Cereal Killers"
@@ -410,33 +393,35 @@
     "name": "Cereal Killers - S2",
     "season": 2,
     "date": "2021-09-18T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Franken Fat",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 60
+        "floorPrice": 84,
+        "updatedAt": "2021-11-26T10:01:45.057Z"
       },
       {
         "name": "Sugar Bear",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 137
+        "floorPrice": 215,
+        "updatedAt": "2021-11-26T10:01:43.686Z"
       },
       {
         "name": "Two Ton Sam",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 50
+        "floorPrice": 72.23,
+        "updatedAt": "2021-11-26T10:01:42.583Z"
       },
       {
         "name": "Yucky Charmer",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 396
+        "floorPrice": 545,
+        "updatedAt": "2021-11-26T10:01:41.453Z"
       }
     ],
     "brand": "Cereal Killers"
@@ -445,10 +430,8 @@
     "name": "CHOICES - S1",
     "season": 2,
     "date": "2021-07-23T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "The Assassin",
         "rarity": "UNCOMMON",
@@ -480,10 +463,8 @@
     "name": "Cover Girls - S1",
     "season": 2,
     "date": "2021-05-27T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Batgirl",
         "rarity": "COMMON",
@@ -515,10 +496,8 @@
     "name": "Cryptkins - S1",
     "season": 1,
     "date": "2021-05-06T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Bigfoot",
         "rarity": "COMMON",
@@ -541,7 +520,8 @@
         "name": "Cthulhu",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 47.2
+        "floorPrice": 54,
+        "updatedAt": "2021-11-26T09:59:23.193Z"
       },
       {
         "name": "Jersey Devil",
@@ -598,10 +578,8 @@
     "name": "Cthulhu Idols",
     "season": 2,
     "date": "2021-07-23T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Cthulhu Idol - Bronze",
         "rarity": "RARE",
@@ -633,10 +611,8 @@
     "name": "DeLorean Time Machine ",
     "season": 1,
     "date": "2021-04-08T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "1:1 DeLorean Time Machine - Interactive",
         "rarity": "ULTRA_RARE",
@@ -653,7 +629,8 @@
         "name": "1:6 DeLorean Time Machine - Interactive",
         "rarity": "COMMON",
         "totalIssued": 50000,
-        "floorPrice": 55
+        "floorPrice": 57,
+        "updatedAt": "2021-11-26T09:59:32.583Z"
       }
     ],
     "brand": "Back to the Future"
@@ -662,10 +639,8 @@
     "name": "Dragon Girl",
     "season": 1,
     "date": "2021-05-13T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Dragon Girl - Gold / Pink",
         "rarity": "COMMON",
@@ -697,10 +672,8 @@
     "name": "Ecto-1",
     "season": 2,
     "date": "2021-07-17T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "1:1 Ecto-1 Interactive",
         "rarity": "ULTRA_RARE",
@@ -726,10 +699,8 @@
     "name": "Fantastic Four",
     "season": 2,
     "date": "2021-08-28T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Doctor Doom",
         "rarity": "ULTRA_RARE",
@@ -746,7 +717,8 @@
         "name": "Invisible Woman",
         "rarity": "UNCOMMON",
         "totalIssued": 19999,
-        "floorPrice": 22.5
+        "floorPrice": 22.5,
+        "updatedAt": "2021-11-26T10:01:30.999Z"
       },
       {
         "name": "Mister Fantastic",
@@ -758,7 +730,8 @@
         "name": "The Thing",
         "rarity": "COMMON",
         "totalIssued": 28999,
-        "floorPrice": 16
+        "floorPrice": 17,
+        "updatedAt": "2021-11-26T10:01:31.228Z"
       }
     ],
     "brand": "Marvel Mightys"
@@ -767,10 +740,8 @@
     "name": "Ghostbusters I - S1",
     "season": 1,
     "date": "2021-01-28T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Ghost Trap",
         "rarity": "ULTRA_RARE",
@@ -808,10 +779,8 @@
     "name": "GIVENCHY + Rewind Collective",
     "season": 2,
     "date": "2021-06-21T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "House of Cards - Amelia Earhart",
         "rarity": "ULTRA_RARE",
@@ -822,7 +791,8 @@
         "name": "House of Cards - Cleopatra",
         "rarity": "ULTRA_RARE",
         "totalIssued": 999,
-        "floorPrice": 2599
+        "floorPrice": 2449,
+        "updatedAt": "2021-11-26T10:00:49.262Z"
       },
       {
         "name": "PRIDE: Givenchy Beauty",
@@ -843,10 +813,8 @@
     "name": "Harley Quinn: RWB - S1",
     "season": 1,
     "date": "2021-02-11T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Harley Quinn - #06 Terry Dodson",
         "rarity": "RARE",
@@ -878,10 +846,8 @@
     "name": "Harley Quinn: RWB - S2",
     "season": 3,
     "date": "2021-10-16T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "#13 Harley Quinn",
         "rarity": "ULTRA_RARE",
@@ -892,7 +858,8 @@
         "name": "#5 Harley Quinn",
         "rarity": "RARE",
         "totalIssued": 3250,
-        "floorPrice": 160
+        "floorPrice": 139.41,
+        "updatedAt": "2021-11-26T10:02:14.013Z"
       },
       {
         "name": "#11 Harley Quinn",
@@ -913,10 +880,8 @@
     "name": "Hoverboards",
     "season": 2,
     "date": "2021-07-21T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Marty’s Hoverboard",
         "rarity": "COMMON",
@@ -945,7 +910,8 @@
         "name": "Rising Sun Hoverboard",
         "rarity": "UNCOMMON",
         "totalIssued": 5555,
-        "floorPrice": 49
+        "floorPrice": 58,
+        "updatedAt": "2021-11-26T10:00:57.273Z"
       }
     ],
     "brand": "Back to the Future II"
@@ -954,10 +920,8 @@
     "name": "Labbit - S1",
     "season": 2,
     "date": "2021-07-01T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Backstab Smorkin’ Labbit",
         "rarity": "ULTRA_RARE",
@@ -1001,10 +965,8 @@
     "name": "Labbit - S2",
     "season": 2,
     "date": "2021-10-02T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Corpsman",
         "rarity": "UNCOMMON",
@@ -1048,10 +1010,8 @@
     "name": "Marvel 1st's - Captain America - S1",
     "season": 2,
     "date": "2021-08-31T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Captain America – Animated",
         "rarity": "ULTRA_RARE",
@@ -1090,10 +1050,8 @@
     "season": 3,
     "date": "2021-11-06T00:00:00.000Z",
     "url": "https://medium.com/veve-collectibles/marvel-mightys-series-4-eternals-d5c57f03503c",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Sersi",
         "rarity": "COMMON",
@@ -1152,7 +1110,8 @@
         "name": "Thena",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3500,
-        "floorPrice": 192.99
+        "floorPrice": 294.99,
+        "updatedAt": "2021-11-26T10:02:33.599Z"
       }
     ],
     "brand": "Marvel Mightys"
@@ -1161,10 +1120,8 @@
     "name": "Mermicorno - S1",
     "season": 1,
     "date": "2021-04-06T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Cora",
         "rarity": "COMMON",
@@ -1187,7 +1144,8 @@
         "name": "Marea",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 39
+        "floorPrice": 43.3,
+        "updatedAt": "2021-11-26T09:59:38.394Z"
       },
       {
         "name": "Marina",
@@ -1226,10 +1184,8 @@
     "name": "Modern Marvel S1 - Spider-Man",
     "season": 2,
     "date": "2021-08-07T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Spider-Man – Hangin’ Out",
         "rarity": "UNCOMMON",
@@ -1267,10 +1223,8 @@
     "name": "Mondo - S1",
     "season": 2,
     "date": "2021-07-24T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Back to the Future",
         "rarity": "RARE",
@@ -1302,10 +1256,8 @@
     "name": "Mondo - S2",
     "season": 2,
     "date": "2021-10-10T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Back to the Future",
         "floorPrice": 199,
@@ -1325,10 +1277,8 @@
     "name": "NTTD Movie Tickets",
     "season": 2,
     "date": "2021-10-06T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "NTTD - Movie Ticket",
         "floorPrice": 300000,
@@ -1342,10 +1292,8 @@
     "name": "NTTD: Series 1",
     "season": 2,
     "date": "2021-10-01T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "1:1 Glider - Animated",
         "rarity": "ULTRA_RARE",
@@ -1371,10 +1319,8 @@
     "name": "NTTD: Posters - Set 1",
     "season": 2,
     "date": "2021-10-01T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Coming Soon Poster",
         "rarity": "ULTRA_RARE",
@@ -1394,10 +1340,8 @@
     "name": "NTTD: Posters - Set 2",
     "season": 2,
     "date": "2021-10-03T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Man on a Mission",
         "rarity": "ULTRA_RARE",
@@ -1417,10 +1361,8 @@
     "name": "NTTD: Posters - Set 3",
     "season": 2,
     "date": "2021-10-07T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "No Time",
         "rarity": "ULTRA_RARE",
@@ -1440,10 +1382,8 @@
     "name": "NTTD: Posters - Set 4",
     "season": 2,
     "date": "2021-10-13T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Safin's Lair",
         "rarity": "RARE",
@@ -1463,10 +1403,8 @@
     "name": "Powerpuff Girls - Series 1",
     "season": 1,
     "date": "2020-11-04T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Blossom",
         "rarity": "COMMON",
@@ -1498,10 +1436,8 @@
     "name": "Powerpuff Girls - Series 2",
     "season": 1,
     "date": "2021-01-07T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Bubbles",
         "rarity": "COMMON",
@@ -1533,10 +1469,8 @@
     "name": "Spider-Man (Ben Reilly)",
     "season": 2,
     "date": "2021-10-07T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Ben Reilly - Acrobatic Arachnid",
         "rarity": "UNCOMMON",
@@ -1556,10 +1490,8 @@
     "name": "Starfire",
     "season": 1,
     "date": "2021-01-07T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Starfire",
         "rarity": "RARE",
@@ -1573,15 +1505,14 @@
     "name": "Starships - S1",
     "season": 2,
     "date": "2021-09-08T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Borg Cube (1:1)",
         "rarity": "RARE",
         "totalIssued": 6888,
-        "floorPrice": 114
+        "floorPrice": 110,
+        "updatedAt": "2021-11-26T10:01:37.954Z"
       },
       {
         "name": "Borg Cube (1:1000)",
@@ -1608,10 +1539,8 @@
     "name": "Superman - S1",
     "season": 2,
     "date": "2021-06-17T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Superman",
         "rarity": "UNCOMMON",
@@ -1625,10 +1554,8 @@
     "name": "The Rise of Ultraman - S1",
     "season": 1,
     "date": "2021-04-29T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "The Rise of Ultraman #1 - Adi Granov ",
         "rarity": "RARE",
@@ -1672,10 +1599,8 @@
     "name": "Throg",
     "season": 2,
     "date": "2021-09-25T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Throg – Frog Of Thunder",
         "rarity": "UNCOMMON",
@@ -1701,15 +1626,14 @@
     "name": "Toy Tokyo - Lucky",
     "season": 2,
     "date": "2021-07-25T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Lucky",
         "rarity": "SECRET_RARE",
         "totalIssued": 999,
-        "floorPrice": 2199
+        "floorPrice": 2299,
+        "updatedAt": "2021-11-26T10:01:16.754Z"
       }
     ],
     "brand": "Toy Tokyo x Jermaine Rogers"
@@ -1718,10 +1642,8 @@
     "name": "Toy Tokyo - Mooglie",
     "season": 1,
     "date": "2021-02-18T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Ghostbusters I logo - Gold",
         "rarity": "SECRET_RARE",
@@ -1735,10 +1657,8 @@
     "name": "Toy Tokyo - Dragon Girl",
     "season": 2,
     "date": "2021-10-09T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Dragon Girl - Gold",
         "rarity": "SECRET_RARE",
@@ -1752,10 +1672,8 @@
     "name": "Ultraman - S1",
     "season": 1,
     "date": "2021-03-25T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Ultraman",
         "rarity": "COMMON",
@@ -1787,21 +1705,21 @@
     "name": "Unicorno - S1",
     "season": 1,
     "date": "2021-01-14T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Bellina",
         "rarity": "RARE",
         "totalIssued": 2500,
-        "floorPrice": 175
+        "floorPrice": 150,
+        "updatedAt": "2021-11-26T10:00:08.322Z"
       },
       {
         "name": "Dolce",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 38
+        "floorPrice": 41.94,
+        "updatedAt": "2021-11-26T10:00:05.337Z"
       },
       {
         "name": "Fumo",
@@ -1859,10 +1777,8 @@
     "season": 3,
     "date": "2021-11-02T00:00:00.000Z",
     "url": "https://medium.com/veve-collectibles/usps-series-1-day-of-the-dead-b5891e0d0baa",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Day of the Dead: Child",
         "floorPrice": 59,
@@ -1894,10 +1810,8 @@
     "name": "Zombie Captain America",
     "season": 3,
     "date": "2021-10-30T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Zombie Captain America #1",
         "floorPrice": 43.49,
@@ -1917,10 +1831,8 @@
     "name": "Zombie Hunter Spider-Man",
     "season": 3,
     "date": "2021-10-30T00:00:00.000Z",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Zombie Hunter Spider-Man #1",
         "floorPrice": 47,
@@ -1941,15 +1853,14 @@
     "season": 3,
     "date": "2021-11-07T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/disney-golden-moments-the-simpsons-a27a84adef27",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Homer & Bart",
-        "floorPrice": 900,
+        "floorPrice": 724,
         "totalIssued": 12333,
-        "rarity": "COMMON"
+        "rarity": "COMMON",
+        "updatedAt": "2021-11-26T09:02:39.307Z"
       },
       {
         "name": "Skateboard",
@@ -1965,21 +1876,21 @@
     "season": 3,
     "date": "2021-11-08T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/disney-golden-moments-walt-disney-animation-studios-2efe910b9929",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Elsa",
-        "floorPrice": 1200,
+        "floorPrice": 998,
         "totalIssued": 12333,
-        "rarity": "COMMON"
+        "rarity": "COMMON",
+        "updatedAt": "2021-11-26T09:02:41.441Z"
       },
       {
         "name": "Mickey Sorcerer's Hat",
-        "floorPrice": 2600,
+        "floorPrice": 2499,
         "totalIssued": 6333,
-        "rarity": "RARE"
+        "rarity": "RARE",
+        "updatedAt": "2021-11-26T09:02:40.155Z"
       }
     ],
     "brand": "Disney+ Golden Moments"
@@ -1989,21 +1900,21 @@
     "season": 3,
     "date": "2021-11-09T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/disney-golden-moments-pixar-607784585bcc",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "WALL•E",
-        "floorPrice": 700,
+        "floorPrice": 500,
         "totalIssued": 10333,
-        "rarity": "UNCOMMON"
+        "rarity": "UNCOMMON",
+        "updatedAt": "2021-11-26T09:02:43.193Z"
       },
       {
         "name": "Pizza Planet Truck",
-        "floorPrice": 800,
+        "floorPrice": 640,
         "totalIssued": 6333,
-        "rarity": "RARE"
+        "rarity": "RARE",
+        "updatedAt": "2021-11-26T09:02:42.342Z"
       }
     ],
     "brand": "Disney+ Golden Moments"
@@ -2014,21 +1925,21 @@
     "season": 3,
     "date": "2021-11-10T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/disney-golden-moments-marvel-6bfa3bda6bd5",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Iron Man",
-        "floorPrice": 900,
+        "floorPrice": 709,
         "totalIssued": 12333,
-        "rarity": "COMMON"
+        "rarity": "COMMON",
+        "updatedAt": "2021-11-26T10:02:43.841Z"
       },
       {
-        "name": "Avengers Icon",
-        "floorPrice": 1000,
+        "name": "Avengers Logo",
+        "floorPrice": 845,
         "totalIssued": 6333,
-        "rarity": "RARE"
+        "rarity": "RARE",
+        "updatedAt": "2021-11-26T09:02:44.226Z"
       }
     ]
   },
@@ -2038,21 +1949,21 @@
     "season": 3,
     "date": "2021-11-11T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/disney-golden-moments-star-wars-96dc5baba88b",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "C-3PO",
-        "floorPrice": 1000,
+        "floorPrice": 878,
         "totalIssued": 12333,
-        "rarity": "COMMON"
+        "rarity": "COMMON",
+        "updatedAt": "2021-11-26T09:02:46.504Z"
       },
       {
         "name": "R2-D2",
-        "floorPrice": 2250,
+        "floorPrice": 1774,
         "totalIssued": 8333,
-        "rarity": "UNCOMMON"
+        "rarity": "UNCOMMON",
+        "updatedAt": "2021-11-26T09:02:47.389Z"
       }
     ]
   },
@@ -2062,15 +1973,14 @@
     "season": 3,
     "date": "2021-11-12T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/disney-golden-moments-walt-disney-mickey-mouse-9821fb07fdd7",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Partners Statue",
-        "floorPrice": 10400,
+        "floorPrice": 8600,
         "totalIssued": 4333,
-        "rarity": "ULTRA_RARE"
+        "rarity": "ULTRA_RARE",
+        "updatedAt": "2021-11-26T09:02:48.296Z"
       }
     ]
   },
@@ -2080,10 +1990,8 @@
     "season": 3,
     "date": "2021-11-12T14:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-friday-233ef9d6cf2a",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Classic Cartoon Edition",
         "floorPrice": 29,
@@ -2116,10 +2024,8 @@
     "season": 3,
     "date": "2021-11-12T15:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-friday-233ef9d6cf2a",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Neapolitan Ting",
         "floorPrice": 770,
@@ -2134,10 +2040,8 @@
     "season": 3,
     "date": "2021-11-12T16:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-friday-233ef9d6cf2a",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Uprisings",
         "floorPrice": 123,
@@ -2158,10 +2062,8 @@
     "season": 3,
     "date": "2021-11-13T09:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Shut Up And Draw",
         "floorPrice": 725,
@@ -2176,10 +2078,8 @@
     "season": 3,
     "date": "2021-11-13T10:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Just-Us (color)",
         "floorPrice": 825,
@@ -2200,10 +2100,8 @@
     "season": 3,
     "date": "2021-11-14T10:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Cat Trooper (Color)",
         "floorPrice": 270,
@@ -2224,10 +2122,8 @@
     "season": 3,
     "date": "2021-11-13T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "OG Devil Bunny - Red",
         "floorPrice": 59.5,
@@ -2260,10 +2156,8 @@
     "season": 3,
     "date": "2021-11-13T13:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Pop Life Print",
         "floorPrice": 1299,
@@ -2278,10 +2172,8 @@
     "season": 3,
     "date": "2021-11-13T15:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Creeping DERO",
         "floorPrice": 600,
@@ -2296,10 +2188,8 @@
     "season": 3,
     "date": "2021-11-13T16:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-saturday-1bca3039fbc3",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Little Friends Black/White",
         "floorPrice": 450,
@@ -2326,10 +2216,8 @@
     "season": 3,
     "date": "2021-11-14T09:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-sunday-473f1d6c4a78",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Wanderers",
         "floorPrice": 170,
@@ -2362,10 +2250,8 @@
     "season": 3,
     "date": "2021-11-14T10:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-sunday-473f1d6c4a78",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Vultura Macabra",
         "floorPrice": 320,
@@ -2380,21 +2266,21 @@
     "season": 3,
     "date": "2021-11-14T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-sunday-473f1d6c4a78",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Lincoln Logo Mayhem Board",
-        "floorPrice": 93,
+        "floorPrice": 70.5,
         "totalIssued": 2250,
-        "rarity": "COMMON"
+        "rarity": "COMMON",
+        "updatedAt": "2021-11-26T10:03:16.884Z"
       },
       {
         "name": "Lincoln Ripper Board",
-        "floorPrice": 116,
+        "floorPrice": 93,
         "totalIssued": 1750,
-        "rarity": "UNCOMMON"
+        "rarity": "UNCOMMON",
+        "updatedAt": "2021-11-26T10:03:18.920Z"
       },
       {
         "name": "White L Snake Board",
@@ -2422,10 +2308,8 @@
     "season": 3,
     "date": "2021-11-14T13:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-sunday-473f1d6c4a78",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Ghostbear - Green",
         "floorPrice": 82,
@@ -2458,10 +2342,8 @@
     "season": 3,
     "date": "2021-11-14T15:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-sunday-473f1d6c4a78",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "That Cat Bronson",
         "floorPrice": 799,
@@ -2476,10 +2358,8 @@
     "season": 3,
     "date": "2021-11-14T16:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/veve-at-designercon-sunday-473f1d6c4a78",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Inked Stories (Eve)",
         "floorPrice": 2109,
@@ -2494,10 +2374,8 @@
     "season": 3,
     "date": "2021-11-20T08:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/modern-marvel-storm-d88efed675ed",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Storm — Mistress of the Elements",
         "floorPrice": 43,
@@ -2536,10 +2414,8 @@
     "season": 3,
     "date": "2021-11-27T08:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/ron-english-cereal-killers-s3-163b12df9ddc",
-    "slugs":
-    [],
-    "collectibles":
-    [
+    "slugs": [],
+    "collectibles": [
       {
         "name": "Smack, Crack, & Pot",
         "floorPrice": 40,
