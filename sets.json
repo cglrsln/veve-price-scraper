@@ -949,37 +949,43 @@
         "name": "Backstab Smorkin’ Labbit",
         "rarity": "ULTRA_RARE",
         "totalIssued": 888,
-        "floorPrice": 1388
+        "floorPrice": 1250,
+        "updatedAt": "2021-11-26T11:00:59.404Z"
       },
       {
         "name": "Happy ‘Stache Labbit",
         "rarity": "COMMON",
         "totalIssued": 3888,
-        "floorPrice": 75
+        "floorPrice": 73.99,
+        "updatedAt": "2021-11-26T11:01:04.242Z"
       },
       {
         "name": "Smorkin' Labbit - Choice Cuts",
         "rarity": "COMMON",
         "totalIssued": 3888,
-        "floorPrice": 72
+        "floorPrice": 76.92,
+        "updatedAt": "2021-11-26T11:00:58.163Z"
       },
       {
         "name": "Smorkin’ Labbit - Red",
         "rarity": "UNCOMMON",
         "totalIssued": 2888,
-        "floorPrice": 138
+        "floorPrice": 136,
+        "updatedAt": "2021-11-26T11:01:03.152Z"
       },
       {
         "name": "The Visible Labbit",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 250
+        "floorPrice": 236,
+        "updatedAt": "2021-11-26T11:01:02.478Z"
       },
       {
         "name": "The Visible Labbit - Neon Edition",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 372
+        "floorPrice": 305,
+        "updatedAt": "2021-11-26T11:01:00.110Z"
       }
     ],
     "brand": "Labbit"
@@ -994,37 +1000,43 @@
         "name": "Corpsman",
         "rarity": "UNCOMMON",
         "totalIssued": 2888,
-        "floorPrice": 100
+        "floorPrice": 99.9,
+        "updatedAt": "2021-11-26T11:01:55.199Z"
       },
       {
         "name": "Hooverville Labbit - Rubberleg Colorway",
         "rarity": "SECRET_RARE",
         "totalIssued": 3333,
-        "floorPrice": 390
+        "floorPrice": 517,
+        "updatedAt": "2021-11-26T11:01:51.436Z"
       },
       {
         "name": "Hooverville Labbit - Sunny Side of the Street",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 140
+        "floorPrice": 154.99,
+        "updatedAt": "2021-11-26T11:01:53.549Z"
       },
       {
         "name": "Labbicorn",
         "rarity": "COMMON",
         "totalIssued": 3888,
-        "floorPrice": 318
+        "floorPrice": 285,
+        "updatedAt": "2021-11-26T11:01:52.547Z"
       },
       {
         "name": "Redrum",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 179
+        "floorPrice": 169,
+        "updatedAt": "2021-11-26T11:01:54.268Z"
       },
       {
         "name": "White Backstab",
         "rarity": "ULTRA_RARE",
         "totalIssued": 888,
-        "floorPrice": 1500
+        "floorPrice": 1348,
+        "updatedAt": "2021-11-26T11:01:50.035Z"
       }
     ],
     "brand": "Labbit"
@@ -1583,37 +1595,43 @@
         "name": "The Rise of Ultraman #1 - Adi Granov ",
         "rarity": "RARE",
         "totalIssued": 4800,
-        "floorPrice": 102
+        "floorPrice": 94.99,
+        "updatedAt": "2021-11-26T10:59:30.356Z"
       },
       {
         "name": "The Rise of Ultraman #1 - Alex Ross",
         "rarity": "COMMON",
         "totalIssued": 7800,
-        "floorPrice": 40
+        "floorPrice": 39,
+        "updatedAt": "2021-11-26T10:59:25.323Z"
       },
       {
         "name": "The Rise of Ultraman #1 - Ed McGuinness ",
         "rarity": "COMMON",
         "totalIssued": 7800,
-        "floorPrice": 37
+        "floorPrice": 39,
+        "updatedAt": "2021-11-26T10:59:28.354Z"
       },
       {
         "name": "The Rise of Ultraman #1 - John Tyler Christopher",
         "rarity": "SECRET_RARE",
         "totalIssued": 3800,
-        "floorPrice": 549
+        "floorPrice": 610,
+        "updatedAt": "2021-11-26T10:59:27.231Z"
       },
       {
         "name": "The Rise of Ultraman #1 - Skottie Young ",
         "rarity": "UNCOMMON",
         "totalIssued": 5800,
-        "floorPrice": 49
+        "floorPrice": 51,
+        "updatedAt": "2021-11-26T10:59:28.082Z"
       },
       {
         "name": "The Rise of Ultraman #1 - Yuji Kaida ",
         "rarity": "UNCOMMON",
         "totalIssued": 5800,
-        "floorPrice": 47
+        "floorPrice": 50,
+        "updatedAt": "2021-11-26T10:59:29.296Z"
       }
     ],
     "brand": "Anime ULTRAMAN"
@@ -1701,25 +1719,29 @@
         "name": "Ultraman",
         "rarity": "COMMON",
         "totalIssued": 9500,
-        "floorPrice": 70
+        "floorPrice": 82.88,
+        "updatedAt": "2021-11-26T10:59:44.372Z"
       },
       {
         "name": "Ultraman Ace",
         "rarity": "RARE",
         "totalIssued": 3500,
-        "floorPrice": 300
+        "floorPrice": 275,
+        "updatedAt": "2021-11-26T10:59:46.325Z"
       },
       {
         "name": "Ultraman Seven",
         "rarity": "UNCOMMON",
         "totalIssued": 6500,
-        "floorPrice": 90
+        "floorPrice": 99.99,
+        "updatedAt": "2021-11-26T10:59:45.140Z"
       },
       {
         "name": "Edo",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1950,
-        "floorPrice": 585
+        "floorPrice": 585,
+        "updatedAt": "2021-11-26T10:59:44.292Z"
       }
     ],
     "brand": "Anime ULTRAMAN"
