@@ -1393,14 +1393,15 @@
     "collectibles": [
       {
         "name": "NTTD - Movie Ticket",
-        "floorPrice": 300000,
+        "floorPrice": 300007,
         "totalIssued": 7,
-        "rarity": "SECRET_RARE"
+        "rarity": "SECRET_RARE",
+        "updatedAt": "2021-11-27T13:02:03.901Z"
       }
     ],
     "brand": "No Time To Die - Cinemark",
-    "total": 300000,
-    "marketCap": 2100000
+    "total": 300007,
+    "marketCap": 2100049
   },
   {
     "name": "NTTD: Series 1",
@@ -1411,25 +1412,27 @@
         "name": "1:1 Glider - Animated",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3007,
-        "floorPrice": 389.9
+        "floorPrice": 350,
+        "updatedAt": "2021-11-27T13:02:06.099Z"
       },
       {
         "name": "1:1 Glider - Static",
         "rarity": "RARE",
         "totalIssued": 5007,
-        "floorPrice": 99.8,
-        "updatedAt": "2021-11-27T09:02:07.266Z"
+        "floorPrice": 99.79,
+        "updatedAt": "2021-11-27T13:02:07.833Z"
       },
       {
         "name": "Safin’s Mask",
         "rarity": "RARE",
         "totalIssued": 7007,
-        "floorPrice": 63
+        "floorPrice": 75,
+        "updatedAt": "2021-11-27T13:02:08.712Z"
       }
     ],
     "brand": "No Time To Die",
-    "total": 552.7,
-    "marketCap": 2113568.9
+    "total": 524.79,
+    "marketCap": 2077623.53
   },
   {
     "name": "NTTD: Posters - Set 1",
@@ -1440,18 +1443,20 @@
         "name": "Coming Soon Poster",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 329
+        "floorPrice": 198,
+        "updatedAt": "2021-11-27T13:01:56.097Z"
       },
       {
         "name": "Marking Time",
         "rarity": "RARE",
         "totalIssued": 4007,
-        "floorPrice": 94
+        "floorPrice": 78,
+        "updatedAt": "2021-11-27T13:01:57.330Z"
       }
     ],
     "brand": "No Time To Die",
-    "total": 423,
-    "marketCap": 1201461
+    "total": 276,
+    "marketCap": 808932
   },
   {
     "name": "NTTD: Posters - Set 2",
@@ -1462,18 +1467,20 @@
         "name": "Man on a Mission",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 307
+        "floorPrice": 175,
+        "updatedAt": "2021-11-27T13:01:58.124Z"
       },
       {
         "name": "White Out",
         "rarity": "RARE",
         "totalIssued": 4007,
-        "floorPrice": 93
+        "floorPrice": 80.8,
+        "updatedAt": "2021-11-27T13:01:59.515Z"
       }
     ],
     "brand": "No Time To Die",
-    "total": 400,
-    "marketCap": 1142300
+    "total": 255.8,
+    "marketCap": 762490.6
   },
   {
     "name": "NTTD: Posters - Set 3",
@@ -1484,18 +1491,20 @@
         "name": "No Time",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 269.77
+        "floorPrice": 159,
+        "updatedAt": "2021-11-27T13:02:01.108Z"
       },
       {
         "name": "To Die For",
         "rarity": "RARE",
         "totalIssued": 4007,
-        "floorPrice": 93
+        "floorPrice": 75,
+        "updatedAt": "2021-11-27T13:02:00.174Z"
       }
     ],
     "brand": "No Time To Die",
-    "total": 362.77,
-    "marketCap": 1048964.39
+    "total": 234,
+    "marketCap": 699138
   },
   {
     "name": "NTTD: Posters - Set 4",
@@ -1506,19 +1515,20 @@
         "name": "Safin's Lair",
         "rarity": "RARE",
         "totalIssued": 4007,
-        "floorPrice": 61.99,
-        "updatedAt": "2021-11-27T09:02:12.230Z"
+        "floorPrice": 68,
+        "updatedAt": "2021-11-27T13:02:12.628Z"
       },
       {
         "name": "Twist",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 270
+        "floorPrice": 172.99,
+        "updatedAt": "2021-11-27T13:02:11.358Z"
       }
     ],
     "brand": "No Time To Die",
-    "total": 331.99,
-    "marketCap": 925283.93
+    "total": 240.99,
+    "marketCap": 706161.93
   },
   {
     "name": "Powerpuff Girls - Series 1",
