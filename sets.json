@@ -1694,19 +1694,22 @@
         "name": "Throg – Frog Of Thunder",
         "rarity": "UNCOMMON",
         "totalIssued": 6630,
-        "floorPrice": 53.49
+        "floorPrice": 49.99,
+        "updatedAt": "2021-11-27T12:01:47.586Z"
       },
       {
         "name": "Throg – Lightning Leap",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2080,
-        "floorPrice": 591
+        "floorPrice": 339,
+        "updatedAt": "2021-11-27T12:01:49.685Z"
       },
       {
         "name": "Throg – The Mighty Frogjolnir",
         "rarity": "RARE",
         "totalIssued": 4225,
-        "floorPrice": 105
+        "floorPrice": 102,
+        "updatedAt": "2021-11-27T12:01:48.205Z"
       }
     ],
     "brand": "Throg"
