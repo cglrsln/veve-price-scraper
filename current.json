@@ -408,34 +408,34 @@
         "name": "Cap'n Cornstarch",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 143.5,
-        "updatedAt": "2021-11-27T09:00:44.386Z"
+        "floorPrice": 138.99,
+        "updatedAt": "2021-11-27T20:00:44.017Z"
       },
       {
         "name": "Count Calorie",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 800,
-        "updatedAt": "2021-11-27T09:00:42.609Z"
+        "floorPrice": 795,
+        "updatedAt": "2021-11-27T20:00:42.003Z"
       },
       {
         "name": "Fat Tony",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 117.99,
-        "updatedAt": "2021-11-27T09:00:43.416Z"
+        "floorPrice": 121,
+        "updatedAt": "2021-11-27T20:00:43.256Z"
       },
       {
         "name": "Honey Butt the Obese",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 315,
-        "updatedAt": "2021-11-27T09:00:41.500Z"
+        "floorPrice": 309,
+        "updatedAt": "2021-11-27T20:00:41.299Z"
       }
     ],
     "brand": "Cereal Killers",
-    "total": 1376.49,
-    "marketCap": 3212963.06
+    "total": 1363.99,
+    "marketCap": 3188535.67
   },
   {
     "name": "Cereal Killers - S2",
@@ -446,34 +446,34 @@
         "name": "Franken Fat",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 84,
-        "updatedAt": "2021-11-27T09:01:46.283Z"
+        "floorPrice": 81,
+        "updatedAt": "2021-11-27T20:01:46.284Z"
       },
       {
         "name": "Sugar Bear",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 210,
-        "updatedAt": "2021-11-27T09:01:45.283Z"
+        "floorPrice": 208.99,
+        "updatedAt": "2021-11-27T20:01:45.323Z"
       },
       {
         "name": "Two Ton Sam",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 71.49,
-        "updatedAt": "2021-11-27T09:01:44.461Z"
+        "floorPrice": 70,
+        "updatedAt": "2021-11-27T20:01:44.177Z"
       },
       {
         "name": "Yucky Charmer",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 525.25,
-        "updatedAt": "2021-11-27T09:01:43.315Z"
+        "floorPrice": 450,
+        "updatedAt": "2021-11-27T20:01:44.266Z"
       }
     ],
     "brand": "Cereal Killers",
-    "total": 890.74,
-    "marketCap": 2055965.56
+    "total": 809.99,
+    "marketCap": 1895028.78
   },
   {
     "name": "CHOICES - S1",
@@ -2650,31 +2650,35 @@
     "url": "https://medium.com/veve-collectibles/ron-english-cereal-killers-s3-163b12df9ddc",
     "collectibles": [
       {
-        "name": "Smack, Crack, & Pot",
-        "floorPrice": 40,
+        "name": "Smack, Crack & Pot",
+        "floorPrice": 73.99,
         "totalIssued": 4444,
-        "rarity": "COMMON"
+        "rarity": "COMMON",
+        "updatedAt": "2021-11-27T20:03:34.166Z"
       },
       {
-        "name": "Drug ‘em Killfrog",
-        "floorPrice": 50,
+        "name": "Drug ’em Killfrog",
+        "floorPrice": 108.99,
         "totalIssued": 3333,
-        "rarity": "UNCOMMON"
+        "rarity": "UNCOMMON",
+        "updatedAt": "2021-11-27T20:03:31.537Z"
       },
       {
         "name": "Qhrist",
-        "floorPrice": 60,
+        "floorPrice": 177.9,
         "totalIssued": 2222,
-        "rarity": "RARE"
+        "rarity": "RARE",
+        "updatedAt": "2021-11-27T20:03:32.257Z"
       },
       {
         "name": "Tricky the Obese Bunny",
-        "floorPrice": 90,
+        "floorPrice": 446,
         "totalIssued": 1888,
-        "rarity": "ULTRA_RARE"
+        "rarity": "ULTRA_RARE",
+        "updatedAt": "2021-11-27T20:03:33.160Z"
       }
     ],
-    "total": 240,
-    "marketCap": 647650
+    "total": 806.88,
+    "marketCap": 1929417.03
   }
 ]
