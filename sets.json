@@ -699,6 +699,7 @@
     "name": "Dragon Girl",
     "season": 1,
     "date": "2021-05-13T00:00:00.000Z",
+    "keywords": ["Simone Legno"],
     "slugs": [],
     "collectibles": [
       {
@@ -1225,6 +1226,7 @@
     "name": "Mermicorno - S1",
     "season": 1,
     "date": "2021-04-06T00:00:00.000Z",
+    "keywords": ["tokidoki", "Simone Legno"],
     "slugs": [],
     "collectibles": [
       {
@@ -1799,6 +1801,7 @@
     "name": "Toy Tokyo - Dragon Girl",
     "season": 2,
     "date": "2021-10-09T00:00:00.000Z",
+    "keywords": ["Simone Legno"],
     "slugs": [],
     "collectibles": [
       {
@@ -1852,6 +1855,7 @@
     "name": "Unicorno - S1",
     "season": 1,
     "date": "2021-01-14T00:00:00.000Z",
+    "keywords": ["tokidoki", "Simone Legno"],
     "slugs": [],
     "collectibles": [
       {
