@@ -1995,30 +1995,30 @@
         "updatedAt": "2021-11-29T11:02:26.142Z"
       },
       {
-        "name": "Day of the Dead: Child with Hair Bow",
-        "floorPrice": 86.66,
+        "name": "Day of the Dead Child with Hair Bow",
+        "floorPrice": 118,
         "totalIssued": 6666,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-26T10:02:23.108Z"
+        "updatedAt": "2021-11-29T11:02:27.434Z"
       },
       {
-        "name": "Day of the Dead: Father",
-        "floorPrice": 159,
+        "name": "Day of the Dead Father",
+        "floorPrice": 178.01,
         "totalIssued": 5666,
         "rarity": "RARE",
-        "updatedAt": "2021-11-26T10:02:23.108Z"
+        "updatedAt": "2021-11-29T11:02:26.302Z"
       },
       {
-        "name": "Day of the Dead: Mother",
-        "floorPrice": 599.98,
+        "name": "Day of the Dead Mother",
+        "floorPrice": 573,
         "totalIssued": 4666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-26T10:02:23.108Z"
+        "updatedAt": "2021-11-29T11:02:24.258Z"
       }
     ],
     "brand": "Day of the Dead",
-    "total": 944.64,
-    "marketCap": 5037010.24
+    "total": 968.01,
+    "marketCap": 5227744.66
   },
   {
     "name": "Zombie Captain America",
