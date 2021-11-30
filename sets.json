@@ -2458,24 +2458,24 @@
       },
       {
         "name": "Supernova",
-        "floorPrice": 157,
+        "floorPrice": 148.77,
         "totalIssued": 1266,
         "rarity": "RARE",
-        "updatedAt": "2021-11-26T10:03:22.352Z"
+        "updatedAt": "2021-11-30T11:03:24.351Z"
       },
       {
         "name": "Wayob",
-        "floorPrice": 644,
+        "floorPrice": 597,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-26T10:03:20.402Z"
+        "updatedAt": "2021-11-30T11:03:21.951Z"
       },
       {
         "name": "Electric Lola",
-        "floorPrice": 540,
+        "floorPrice": 545,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-29T11:03:21.997Z"
+        "updatedAt": "2021-11-30T11:03:22.159Z"
       }
     ]
   },
@@ -2506,31 +2506,31 @@
     "collectibles": [
       {
         "name": "Lincoln Logo Mayhem Board",
-        "floorPrice": 70,
+        "floorPrice": 71,
         "totalIssued": 2250,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-26T11:03:18.226Z"
+        "updatedAt": "2021-11-30T12:03:18.107Z"
       },
       {
         "name": "Lincoln Ripper Board",
-        "floorPrice": 92,
+        "floorPrice": 78.5,
         "totalIssued": 1750,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-26T11:03:21.245Z"
+        "updatedAt": "2021-11-30T11:03:20.019Z"
       },
       {
         "name": "White L Snake Board",
-        "floorPrice": 190,
+        "floorPrice": 189,
         "totalIssued": 1200,
         "rarity": "RARE",
-        "updatedAt": "2021-11-26T10:03:16.009Z"
+        "updatedAt": "2021-11-30T12:03:17.758Z"
       },
       {
         "name": "Ride the Lightning Board",
-        "floorPrice": 5997,
+        "floorPrice": 6200,
         "totalIssued": 250,
         "rarity": "SECRET_RARE",
-        "updatedAt": "2021-11-28T09:03:19.186Z"
+        "updatedAt": "2021-11-30T11:03:19.241Z"
       },
       {
         "name": "Ride the Lightning Board v2",
@@ -2551,10 +2551,10 @@
     "collectibles": [
       {
         "name": "Ghostbear - Green",
-        "floorPrice": 80,
+        "floorPrice": 76,
         "totalIssued": 1888,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-26T10:03:20.231Z"
+        "updatedAt": "2021-11-30T12:03:16.123Z"
       },
       {
         "name": "Ghostbear - White",
@@ -2637,10 +2637,10 @@
       },
       {
         "name": "Storm – Queen of Wakanda",
-        "floorPrice": 79,
+        "floorPrice": 79.99,
         "totalIssued": 6500,
         "rarity": "RARE",
-        "updatedAt": "2021-11-28T09:03:25.384Z"
+        "updatedAt": "2021-11-30T11:03:25.432Z"
       },
       {
         "name": "Storm – Animated",

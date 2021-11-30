@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "scrape": "node ./scrape.js",
-    "build": "node ./build.js",
-    "deploy": "gh-pages -d build"
+    "scrape": "node ./scripts/scrape.js",
+    "build": "node ./scripts/build.js",
+    "deploy": "gh-pages -d build",
+    "outdated": "node ./scripts/outdated.js",
+    "quick": "node ./scripts/quick.js"
   },
   "author": "cmar",
   "license": "ISC",
