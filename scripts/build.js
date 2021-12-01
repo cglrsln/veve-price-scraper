@@ -71,7 +71,7 @@ function buildSets() {
       set.marketCap = 0;
     }
 
-    console.log(set.name, set.total, set.marketCap);
+    console.log(set.name, "total: ", set.total, "marketcap: ", set.marketCap);
   });
 
   return sets;
