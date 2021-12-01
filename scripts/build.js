@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 function buildPrices() {
-  const dataDir = path.join(__dirname, "/data");
+  const dataDir = path.join("./data");
   const fileList = fs.readdirSync(dataDir);
   const mostRecentFileName = fileList.sort().pop();
   const rawdata = fs.readFileSync(path.join(dataDir, mostRecentFileName));
@@ -80,7 +80,7 @@ function buildSets() {
 // main
 const sets = buildSets();
 
-const buildDir = "build";
+const buildDir = "../build";
 if (!fs.existsSync(buildDir)) {
   fs.mkdirSync(buildDir);
 }
