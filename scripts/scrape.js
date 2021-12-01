@@ -34,7 +34,7 @@ getData().then( data => {
 })
 
 
-fs.readdir(path.join(__dirname, '/data'), (err, files) => {
+fs.readdir(path.join('./data'), (err, files) => {
   const mostRecentFileName = files.sort().pop()
   console.log(mostRecentFileName);
 })

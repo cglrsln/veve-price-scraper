@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Build
+    - name: Install
       run: npm install
-    - name: Scrape
-      run: npm run scrape
+    #- name: Scrape
+    #  run: npm run scrape
       # env:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
     - name: Build
