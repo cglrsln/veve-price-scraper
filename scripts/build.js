@@ -80,7 +80,7 @@ function buildSets() {
 // main
 const sets = buildSets();
 
-const buildDir = "../build";
+const buildDir = "./build";
 if (!fs.existsSync(buildDir)) {
   fs.mkdirSync(buildDir);
 }
