@@ -8,34 +8,34 @@
         "name": "Finn Mertens",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 97.5,
-        "updatedAt": "2021-11-27T09:00:34.551Z"
+        "floorPrice": 90,
+        "updatedAt": "2021-12-01T10:00:34.474Z"
       },
       {
         "name": "Ice King",
         "rarity": "RARE",
         "totalIssued": 3250,
-        "floorPrice": 185.55,
-        "updatedAt": "2021-11-27T09:00:36.296Z"
+        "floorPrice": 148.9,
+        "updatedAt": "2021-12-01T10:00:37.283Z"
       },
       {
         "name": "Jake the Dog",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 255,
-        "updatedAt": "2021-11-28T09:00:35.392Z"
+        "floorPrice": 199,
+        "updatedAt": "2021-12-01T10:00:35.252Z"
       },
       {
         "name": "Marceline",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 845.95,
-        "updatedAt": "2021-11-27T09:00:26.403Z"
+        "floorPrice": 750,
+        "updatedAt": "2021-12-01T10:00:26.738Z"
       }
     ],
     "brand": "Adventure Time",
-    "total": 1384,
-    "marketCap": 4217200
+    "total": 1187.9,
+    "marketCap": 3565925
   },
   {
     "name": "Adventure Time S2",
@@ -53,27 +53,27 @@
         "name": "Lady Rainicorn",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 750,
-        "updatedAt": "2021-11-27T09:00:22.993Z"
+        "floorPrice": 765,
+        "updatedAt": "2021-12-01T10:00:22.777Z"
       },
       {
         "name": "Lumpy Space Princess",
         "rarity": "RARE",
         "totalIssued": 3250,
-        "floorPrice": 138,
-        "updatedAt": "2021-11-27T09:00:21.278Z"
+        "floorPrice": 128,
+        "updatedAt": "2021-12-01T10:00:22.077Z"
       },
       {
         "name": "Princess Bubblegum",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 89,
-        "updatedAt": "2021-11-27T09:00:20.488Z"
+        "floorPrice": 75,
+        "updatedAt": "2021-12-01T10:00:20.147Z"
       }
     ],
     "brand": "Adventure Time",
-    "total": 1052,
-    "marketCap": 2813000
+    "total": 1043,
+    "marketCap": 2729750
   },
   {
     "name": "Alligator Loki",
@@ -84,8 +84,8 @@
         "name": "Alligator Loki - Animated",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3400,
-        "floorPrice": 175,
-        "updatedAt": "2021-11-27T09:02:17.765Z"
+        "floorPrice": 182,
+        "updatedAt": "2021-12-01T10:02:17.641Z"
       },
       {
         "name": "Alligator Loki - Ultimate Animated",
@@ -103,8 +103,8 @@
       }
     ],
     "brand": "Loki",
-    "total": 1112.5,
-    "marketCap": 1682500
+    "total": 1119.5,
+    "marketCap": 1706300
   },
   {
     "name": "Batman Black & White S1",
@@ -122,8 +122,8 @@
         "name": "#100 Todd McFarlane Batman",
         "rarity": "COMMON",
         "totalIssued": 7500,
-        "floorPrice": 2475,
-        "updatedAt": "2021-11-30T11:00:40.005Z"
+        "floorPrice": 2099.99,
+        "updatedAt": "2021-12-01T10:00:40.439Z"
       },
       {
         "name": "#86 - Becky Cloonan Batman",
@@ -141,8 +141,8 @@
       }
     ],
     "brand": "Batman Black & White",
-    "total": 8053,
-    "marketCap": 30544000
+    "total": 7677.99,
+    "marketCap": 27731425
   },
   {
     "name": "Batman Black & White S2",
@@ -164,23 +164,23 @@
         "updatedAt": "2021-11-27T09:00:28.322Z"
       },
       {
-        "name": "#72 Carmine Infantino Robin ",
+        "name": "#72 Carmine Infantino Robin",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 994,
-        "updatedAt": "2021-11-27T09:00:24.595Z"
+        "floorPrice": 990,
+        "updatedAt": "2021-12-01T09:00:24.359Z"
       },
       {
         "name": "#77 Jason Fabok Batman",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 174.99,
-        "updatedAt": "2021-11-29T11:00:25.078Z"
+        "floorPrice": 157,
+        "updatedAt": "2021-12-01T10:00:25.205Z"
       }
     ],
     "brand": "Batman Black & White",
-    "total": 1772.99,
-    "marketCap": 6063195
+    "total": 1751,
+    "marketCap": 5957250
   },
   {
     "name": "Batman Black & White S3",
@@ -205,8 +205,8 @@
         "name": "#60 Dick Sprang Batman",
         "rarity": "UNCOMMON",
         "totalIssued": 5500,
-        "floorPrice": 107.99,
-        "updatedAt": "2021-11-27T09:00:16.359Z"
+        "floorPrice": 99,
+        "updatedAt": "2021-12-01T10:00:16.369Z"
       },
       {
         "name": "#81 - Amanda Conner Batman",
@@ -217,8 +217,8 @@
       }
     ],
     "brand": "Batman Black & White",
-    "total": 1580.99,
-    "marketCap": 5288195
+    "total": 1572,
+    "marketCap": 5238750
   },
   {
     "name": "Batman Black & White S4",
@@ -243,8 +243,8 @@
         "name": "#57 Jae Lee Batman",
         "rarity": "RARE",
         "totalIssued": 3250,
-        "floorPrice": 247.5,
-        "updatedAt": "2021-11-27T08:59:48.529Z"
+        "floorPrice": 240,
+        "updatedAt": "2021-12-01T09:59:48.574Z"
       },
       {
         "name": "#79 Jim Lee Nightwing",
@@ -255,8 +255,8 @@
       }
     ],
     "brand": "Batman Black & White",
-    "total": 1522.4,
-    "marketCap": 4119725
+    "total": 1514.9,
+    "marketCap": 4095350
   },
   {
     "name": "Batman Black & White S5",
@@ -274,8 +274,8 @@
         "name": "#71 Batman",
         "rarity": "RARE",
         "totalIssued": 6800,
-        "floorPrice": 133,
-        "updatedAt": "2021-11-29T10:59:06.544Z"
+        "floorPrice": 150,
+        "updatedAt": "2021-12-01T09:59:08.165Z"
       },
       {
         "name": "#76 Robin",
@@ -293,8 +293,8 @@
       }
     ],
     "brand": "Batman Black & White",
-    "total": 655,
-    "marketCap": 4317000
+    "total": 672,
+    "marketCap": 4432600
   },
   {
     "name": "Big Barda ",
@@ -322,20 +322,20 @@
         "name": "Death",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2666,
-        "floorPrice": 453,
-        "updatedAt": "2021-11-27T09:01:06.156Z"
+        "floorPrice": 430,
+        "updatedAt": "2021-12-01T10:01:05.037Z"
       },
       {
         "name": "Harley Quinn Deluxe 2",
         "rarity": "RARE",
         "totalIssued": 6666,
-        "floorPrice": 119.89,
-        "updatedAt": "2021-11-27T09:01:05.519Z"
+        "floorPrice": 99,
+        "updatedAt": "2021-12-01T10:01:05.522Z"
       }
     ],
     "brand": "Bombshells",
-    "total": 572.89,
-    "marketCap": 2006884.74
+    "total": 529,
+    "marketCap": 1806314
   },
   {
     "name": "Captain America ",
@@ -346,22 +346,22 @@
         "name": "Bucky Barnes",
         "rarity": "RARE",
         "totalIssued": 11888,
-        "floorPrice": 85,
-        "updatedAt": "2021-11-30T11:01:24.320Z"
+        "floorPrice": 79,
+        "updatedAt": "2021-12-01T10:01:24.189Z"
       },
       {
         "name": "John F. Walker",
         "rarity": "UNCOMMON",
         "totalIssued": 18888,
-        "floorPrice": 29.8,
-        "updatedAt": "2021-11-30T11:01:26.182Z"
+        "floorPrice": 26.98,
+        "updatedAt": "2021-12-01T10:01:26.521Z"
       },
       {
         "name": "Red Skull",
         "rarity": "ULTRA_RARE",
         "totalIssued": 4888,
-        "floorPrice": 480.97,
-        "updatedAt": "2021-11-30T11:01:27.056Z"
+        "floorPrice": 438,
+        "updatedAt": "2021-12-01T10:01:27.472Z"
       },
       {
         "name": "Sam Wilson",
@@ -374,13 +374,13 @@
         "name": "Steve Rogers",
         "rarity": "COMMON",
         "totalIssued": 28888,
-        "floorPrice": 33.7,
-        "updatedAt": "2021-11-30T11:01:25.521Z"
+        "floorPrice": 29,
+        "updatedAt": "2021-12-01T10:01:26.311Z"
       }
     ],
     "brand": "Marvel Mightys",
-    "total": 652.47,
-    "marketCap": 5562273.359999999
+    "total": 595.98,
+    "marketCap": 5091870.24
   },
   {
     "name": "Captain Carter",
@@ -411,34 +411,34 @@
         "name": "Cap'n Cornstarch",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 161.99,
-        "updatedAt": "2021-11-29T11:00:44.515Z"
+        "floorPrice": 120,
+        "updatedAt": "2021-12-01T10:00:44.752Z"
       },
       {
         "name": "Count Calorie",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 875,
-        "updatedAt": "2021-11-30T11:00:41.984Z"
+        "floorPrice": 799,
+        "updatedAt": "2021-12-01T10:00:42.749Z"
       },
       {
         "name": "Fat Tony",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 125,
-        "updatedAt": "2021-11-29T11:00:43.250Z"
+        "floorPrice": 111,
+        "updatedAt": "2021-12-01T10:00:43.808Z"
       },
       {
         "name": "Honey Butt the Obese",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 363,
-        "updatedAt": "2021-11-28T09:00:41.533Z"
+        "floorPrice": 323.5,
+        "updatedAt": "2021-12-01T10:00:41.265Z"
       }
     ],
     "brand": "Cereal Killers",
-    "total": 1524.99,
-    "marketCap": 3553998.67
+    "total": 1353.5,
+    "marketCap": 3120573
   },
   {
     "name": "Cereal Killers - S2",
@@ -473,13 +473,13 @@
         "name": "Yucky Charmer",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 505,
-        "updatedAt": "2021-11-28T09:01:43.591Z"
+        "floorPrice": 420,
+        "updatedAt": "2021-12-01T10:01:43.526Z"
       }
     ],
     "brand": "Cereal Killers",
-    "total": 865.9,
-    "marketCap": 2015111.6
+    "total": 780.9,
+    "marketCap": 1854631.6
   },
   {
     "name": "CHOICES - S1",
@@ -493,34 +493,34 @@
         "name": "The Assassin",
         "rarity": "UNCOMMON",
         "totalIssued": 1666,
-        "floorPrice": 325,
-        "updatedAt": "2021-11-27T09:01:08.009Z"
+        "floorPrice": 300,
+        "updatedAt": "2021-12-01T10:01:07.433Z"
       },
       {
         "name": "The Hunter",
         "rarity": "ULTRA_RARE",
         "totalIssued": 888,
-        "floorPrice": 1175,
-        "updatedAt": "2021-11-30T11:01:11.112Z"
+        "floorPrice": 969.69,
+        "updatedAt": "2021-12-01T10:01:11.485Z"
       },
       {
         "name": "The Nightwatch",
         "rarity": "RARE",
         "totalIssued": 1111,
-        "floorPrice": 439.9,
-        "updatedAt": "2021-11-27T09:01:08.423Z"
+        "floorPrice": 380,
+        "updatedAt": "2021-12-01T10:01:09.079Z"
       },
       {
         "name": "The Protector",
         "rarity": "COMMON",
         "totalIssued": 2222,
-        "floorPrice": 177,
-        "updatedAt": "2021-11-27T09:01:06.758Z"
+        "floorPrice": 159.97,
+        "updatedAt": "2021-12-01T10:01:06.398Z"
       }
     ],
     "brand": "CHOICES",
-    "total": 2116.9,
-    "marketCap": 2466872.9
+    "total": 1809.66,
+    "marketCap": 2138518.06
   },
   {
     "name": "Cover Girls - S1",
@@ -531,8 +531,8 @@
         "name": "Batgirl",
         "rarity": "COMMON",
         "totalIssued": 13800,
-        "floorPrice": 47,
-        "updatedAt": "2021-11-29T10:59:03.567Z"
+        "floorPrice": 42,
+        "updatedAt": "2021-12-01T09:59:03.821Z"
       },
       {
         "name": "Catwoman",
@@ -552,13 +552,13 @@
         "name": "Supergirl",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3800,
-        "floorPrice": 547.5,
-        "updatedAt": "2021-11-29T10:59:02.693Z"
+        "floorPrice": 500,
+        "updatedAt": "2021-12-01T09:59:02.115Z"
       }
     ],
     "brand": "DC Cover Girls ",
-    "total": 776.49,
-    "marketCap": 4266592
+    "total": 723.99,
+    "marketCap": 4017092
   },
   {
     "name": "Cryptkins - S1",
@@ -569,43 +569,43 @@
         "name": "Bigfoot",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 38.95,
-        "updatedAt": "2021-11-29T10:59:14.379Z"
+        "floorPrice": 39.98,
+        "updatedAt": "2021-12-01T09:59:14.281Z"
       },
       {
         "name": "Chupacabra",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 34.99,
-        "updatedAt": "2021-11-29T10:59:20.764Z"
+        "floorPrice": 33,
+        "updatedAt": "2021-12-01T09:59:19.180Z"
       },
       {
         "name": "Cosmic Cthulhu",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2800,
-        "floorPrice": 479.52,
-        "updatedAt": "2021-11-29T10:59:24.098Z"
+        "floorPrice": 479,
+        "updatedAt": "2021-12-01T09:59:24.484Z"
       },
       {
         "name": "Cthulhu",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 53,
-        "updatedAt": "2021-11-29T10:59:23.413Z"
+        "floorPrice": 54.99,
+        "updatedAt": "2021-12-01T09:59:23.903Z"
       },
       {
         "name": "Jersey Devil",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 48,
-        "updatedAt": "2021-11-30T10:59:20.556Z"
+        "floorPrice": 51,
+        "updatedAt": "2021-12-01T09:59:20.832Z"
       },
       {
         "name": "Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 56.9,
-        "updatedAt": "2021-11-29T10:59:22.248Z"
+        "floorPrice": 48.5,
+        "updatedAt": "2021-12-01T09:59:22.173Z"
       },
       {
         "name": "Nessie",
@@ -639,20 +639,20 @@
         "name": "Twilight Mothman",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 45,
-        "updatedAt": "2021-11-30T10:59:14.019Z"
+        "floorPrice": 49.5,
+        "updatedAt": "2021-12-01T09:59:13.231Z"
       },
       {
         "name": "Yeti",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 38.99,
-        "updatedAt": "2021-11-29T10:59:15.399Z"
+        "floorPrice": 37.8,
+        "updatedAt": "2021-12-01T09:59:15.208Z"
       }
     ],
     "brand": "Cryptkins",
-    "total": 1115.34,
-    "marketCap": 5016386
+    "total": 1113.76,
+    "marketCap": 5002120
   },
   {
     "name": "Cthulhu Idols",
@@ -701,8 +701,8 @@
         "name": "1:1 DeLorean Time Machine - Interactive",
         "rarity": "ULTRA_RARE",
         "totalIssued": 12500,
-        "floorPrice": 555,
-        "updatedAt": "2021-11-30T10:59:33.458Z"
+        "floorPrice": 568,
+        "updatedAt": "2021-12-01T09:59:33.953Z"
       },
       {
         "name": "1:1 DeLorean Time Machine - Static",
@@ -715,13 +715,13 @@
         "name": "1:6 DeLorean Time Machine - Interactive",
         "rarity": "COMMON",
         "totalIssued": 50000,
-        "floorPrice": 63.99,
-        "updatedAt": "2021-11-29T10:59:31.746Z"
+        "floorPrice": 65.25,
+        "updatedAt": "2021-12-01T09:59:32.390Z"
       }
     ],
     "brand": "Back to the Future",
-    "total": 726.49,
-    "marketCap": 12824500
+    "total": 740.75,
+    "marketCap": 13050000
   },
   {
     "name": "Dragon Girl",
@@ -787,13 +787,13 @@
         "name": "1:6 Ecto-1 Interactive",
         "rarity": "COMMON",
         "totalIssued": 9999,
-        "floorPrice": 59,
-        "updatedAt": "2021-11-29T11:00:52.170Z"
+        "floorPrice": 60.39,
+        "updatedAt": "2021-12-01T10:00:52.376Z"
       }
     ],
     "brand": "Ghostbusters I",
-    "total": 534.5,
-    "marketCap": 2961926
+    "total": 535.89,
+    "marketCap": 2975824.61
   },
   {
     "name": "Fantastic Four",
@@ -811,8 +811,8 @@
         "name": "Human Torch",
         "rarity": "RARE",
         "totalIssued": 14999,
-        "floorPrice": 73.99,
-        "updatedAt": "2021-11-30T11:01:29.419Z"
+        "floorPrice": 76,
+        "updatedAt": "2021-12-01T10:01:29.246Z"
       },
       {
         "name": "Invisible Woman",
@@ -826,7 +826,7 @@
         "rarity": "COMMON",
         "totalIssued": 28999,
         "floorPrice": 19,
-        "updatedAt": "2021-11-30T11:01:30.328Z"
+        "updatedAt": "2021-12-01T10:01:30.839Z"
       },
       {
         "name": "The Thing",
@@ -837,27 +837,28 @@
       }
     ],
     "brand": "Marvel Mightys",
-    "total": 588.98,
-    "marketCap": 5010211.0200000005
+    "total": 590.99,
+    "marketCap": 5040359.01
   },
   {
     "name": "Ghostbusters I - S1",
     "season": 1,
     "date": "2021-01-28T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/ghostbusters-series-1-fdd53ad256c1",
     "collectibles": [
       {
         "name": "Ghost Trap",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 599,
-        "updatedAt": "2021-11-29T10:59:58.079Z"
+        "floorPrice": 499.99,
+        "updatedAt": "2021-12-01T09:59:59.075Z"
       },
       {
         "name": "Ghostbusters I Logo",
         "rarity": "RARE",
         "totalIssued": 2400,
-        "floorPrice": 338.9,
-        "updatedAt": "2021-11-29T10:59:57.275Z"
+        "floorPrice": 279.99,
+        "updatedAt": "2021-12-01T09:59:57.153Z"
       },
       {
         "name": "Ghostbusters I Logo - Platinum",
@@ -877,13 +878,13 @@
         "name": "Stay Puft Marshmallow Man",
         "rarity": "UNCOMMON",
         "totalIssued": 3750,
-        "floorPrice": 248.99,
-        "updatedAt": "2021-11-29T10:59:59.393Z"
+        "floorPrice": 240,
+        "updatedAt": "2021-12-01T09:59:59.543Z"
       }
     ],
     "brand": "Ghostbusters I",
-    "total": 17285.880000000005,
-    "marketCap": 6704067.5
+    "total": 17118.97,
+    "marketCap": 6355703.5
   },
   {
     "name": "GIVENCHY + Rewind Collective",
@@ -894,8 +895,8 @@
         "name": "House of Cards - Amelia Earhart",
         "rarity": "ULTRA_RARE",
         "totalIssued": 999,
-        "floorPrice": 1950,
-        "updatedAt": "2021-11-29T11:00:48.657Z"
+        "floorPrice": 1699.69,
+        "updatedAt": "2021-12-01T10:00:47.525Z"
       },
       {
         "name": "House of Cards - Cleopatra",
@@ -908,20 +909,20 @@
         "name": "PRIDE: Givenchy Beauty",
         "rarity": "RARE",
         "totalIssued": 1952,
-        "floorPrice": 4099,
-        "updatedAt": "2021-11-30T11:00:49.327Z"
+        "floorPrice": 4199,
+        "updatedAt": "2021-12-01T10:00:49.560Z"
       },
       {
         "name": "Rewind Collective Logo",
         "rarity": "UNCOMMON",
         "totalIssued": 1978,
-        "floorPrice": 589,
-        "updatedAt": "2021-11-29T11:00:46.394Z"
+        "floorPrice": 500,
+        "updatedAt": "2021-12-01T10:00:46.392Z"
       }
     ],
     "brand": "GIVENCHY + Rewind Collective",
-    "total": 8983,
-    "marketCap": 13456995
+    "total": 8743.69,
+    "marketCap": 13226093.31
   },
   {
     "name": "Harley Quinn: RWB - S1",
@@ -932,8 +933,8 @@
         "name": "Harley Quinn - #06 Terry Dodson",
         "rarity": "RARE",
         "totalIssued": 750,
-        "floorPrice": 1850,
-        "updatedAt": "2021-11-30T10:59:51.935Z"
+        "floorPrice": 1369.99,
+        "updatedAt": "2021-12-01T09:59:53.375Z"
       },
       {
         "name": "Harley Quinn - #08  Babs Tarr",
@@ -946,20 +947,20 @@
         "name": "Harley Quinn - #18 Guillem March",
         "rarity": "UNCOMMON",
         "totalIssued": 2500,
-        "floorPrice": 269,
-        "updatedAt": "2021-11-26T12:59:54.200Z"
+        "floorPrice": 216.39,
+        "updatedAt": "2021-12-01T09:59:54.322Z"
       },
       {
         "name": "Harley Quinn - #19 Steve Pugh",
         "rarity": "ULTRA_RARE",
         "totalIssued": 500,
-        "floorPrice": 8999,
-        "updatedAt": "2021-11-28T08:59:52.924Z"
+        "floorPrice": 9500,
+        "updatedAt": "2021-12-01T09:59:53.038Z"
       }
     ],
     "brand": "Harley Quinn Red, White & Black",
-    "total": 11476.99,
-    "marketCap": 7456975
+    "total": 11445.369999999999,
+    "marketCap": 7215942.5
   },
   {
     "name": "Harley Quinn: RWB - S2",
@@ -970,8 +971,8 @@
         "name": "#13 Harley Quinn",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1750,
-        "floorPrice": 549.99,
-        "updatedAt": "2021-11-26T13:02:14.713Z"
+        "floorPrice": 454.9,
+        "updatedAt": "2021-12-01T10:02:14.283Z"
       },
       {
         "name": "#5 Harley Quinn",
@@ -996,8 +997,8 @@
       }
     ],
     "brand": "Harley Quinn Red, White & Black",
-    "total": 854.49,
-    "marketCap": 2404732.5
+    "total": 759.4,
+    "marketCap": 2238325
   },
   {
     "name": "Hoverboards",
@@ -1008,8 +1009,8 @@
         "name": "Marty’s Hoverboard",
         "rarity": "COMMON",
         "totalIssued": 7777,
-        "floorPrice": 166.88,
-        "updatedAt": "2021-11-29T11:00:53.236Z"
+        "floorPrice": 150,
+        "updatedAt": "2021-12-01T10:00:53.514Z"
       },
       {
         "name": "No Tech Hoverboard",
@@ -1022,8 +1023,8 @@
         "name": "Pitbull Hoverboard",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3333,
-        "floorPrice": 369,
-        "updatedAt": "2021-11-26T11:00:56.202Z"
+        "floorPrice": 300,
+        "updatedAt": "2021-12-01T10:00:54.708Z"
       },
       {
         "name": "Question Mark Hoverboard",
@@ -1041,8 +1042,8 @@
       }
     ],
     "brand": "Back to the Future II",
-    "total": 736.86,
-    "marketCap": 3648601.77
+    "total": 650.98,
+    "marketCap": 3287349.0100000002
   },
   {
     "name": "Labbit - S1",
@@ -1070,8 +1071,8 @@
         "name": "Smorkin' Labbit - Choice Cuts",
         "rarity": "COMMON",
         "totalIssued": 3888,
-        "floorPrice": 76.92,
-        "updatedAt": "2021-11-26T11:00:58.163Z"
+        "floorPrice": 75,
+        "updatedAt": "2021-12-01T10:00:58.359Z"
       },
       {
         "name": "Smorkin’ Labbit - Red",
@@ -1084,8 +1085,8 @@
         "name": "The Visible Labbit",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 258,
-        "updatedAt": "2021-11-29T11:01:03.269Z"
+        "floorPrice": 215,
+        "updatedAt": "2021-12-01T10:01:02.501Z"
       },
       {
         "name": "The Visible Labbit - Neon Edition",
@@ -1096,8 +1097,8 @@
       }
     ],
     "brand": "Labbit",
-    "total": 2298.91,
-    "marketCap": 3329162.08
+    "total": 2253.99,
+    "marketCap": 3240513.12
   },
   {
     "name": "Labbit - S2",
@@ -1118,8 +1119,8 @@
         "name": "Hooverville Labbit - Rubberleg Colorway",
         "rarity": "SECRET_RARE",
         "totalIssued": 3333,
-        "floorPrice": 517,
-        "updatedAt": "2021-11-26T11:01:51.436Z"
+        "floorPrice": 420,
+        "updatedAt": "2021-12-01T10:01:51.418Z"
       },
       {
         "name": "Hooverville Labbit - Sunny Side of the Street",
@@ -1151,8 +1152,8 @@
       }
     ],
     "brand": "Labbit",
-    "total": 2524.89,
-    "marketCap": 4884957.32
+    "total": 2427.89,
+    "marketCap": 4561656.32
   },
   {
     "name": "Marvel 1st's - Captain America - S1",
@@ -1170,22 +1171,22 @@
         "name": "Captain America – Charging Into Battle",
         "rarity": "UNCOMMON",
         "totalIssued": 12000,
-        "floorPrice": 69,
-        "updatedAt": "2021-11-30T11:01:37.142Z"
+        "floorPrice": 69.5,
+        "updatedAt": "2021-12-01T10:01:37.421Z"
       },
       {
         "name": "Captain America – The First Avenger",
         "rarity": "COMMON",
         "totalIssued": 22000,
-        "floorPrice": 59.75,
-        "updatedAt": "2021-11-30T11:01:35.383Z"
+        "floorPrice": 54,
+        "updatedAt": "2021-12-01T10:01:35.587Z"
       },
       {
         "name": "Captain America – The Punch",
         "rarity": "RARE",
         "totalIssued": 8000,
-        "floorPrice": 138,
-        "updatedAt": "2021-11-30T11:01:38.320Z"
+        "floorPrice": 115,
+        "updatedAt": "2021-12-01T10:01:38.192Z"
       },
       {
         "name": "Captain America – Ultimate Animated",
@@ -1196,8 +1197,8 @@
       }
     ],
     "brand": "Captain America",
-    "total": 2929.75,
-    "marketCap": 6755500
+    "total": 2901.5,
+    "marketCap": 6451000
   },
   {
     "name": "Series 4 - Eternals",
@@ -1210,7 +1211,7 @@
         "rarity": "COMMON",
         "totalIssued": 18000,
         "floorPrice": 14,
-        "updatedAt": "2021-11-30T11:02:29.459Z"
+        "updatedAt": "2021-12-01T10:02:29.393Z"
       },
       {
         "name": "Ikaris",
@@ -1237,8 +1238,8 @@
         "name": "Makkari",
         "rarity": "UNCOMMON",
         "totalIssued": 9000,
-        "floorPrice": 26.5,
-        "updatedAt": "2021-11-30T11:02:35.822Z"
+        "floorPrice": 23,
+        "updatedAt": "2021-12-01T09:02:35.669Z"
       },
       {
         "name": "Druig",
@@ -1251,34 +1252,34 @@
         "name": "Sprite",
         "rarity": "RARE",
         "totalIssued": 6000,
-        "floorPrice": 66,
-        "updatedAt": "2021-11-30T11:02:28.068Z"
+        "floorPrice": 54.99,
+        "updatedAt": "2021-12-01T10:02:28.613Z"
       },
       {
         "name": "Ajak",
         "rarity": "RARE",
         "totalIssued": 6000,
-        "floorPrice": 78.78,
-        "updatedAt": "2021-11-30T11:02:33.021Z"
+        "floorPrice": 75,
+        "updatedAt": "2021-12-01T09:02:34.439Z"
       },
       {
         "name": "Gilgamesh",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3500,
-        "floorPrice": 249,
-        "updatedAt": "2021-11-30T11:02:36.956Z"
+        "floorPrice": 230,
+        "updatedAt": "2021-12-01T10:02:36.333Z"
       },
       {
         "name": "Thena",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3500,
-        "floorPrice": 295,
-        "updatedAt": "2021-11-30T11:02:34.338Z"
+        "floorPrice": 250,
+        "updatedAt": "2021-12-01T10:02:34.394Z"
       }
     ],
     "brand": "Marvel Mightys",
-    "total": 804.55,
-    "marketCap": 4357040
+    "total": 722.26,
+    "marketCap": 4012800
   },
   {
     "name": "Mermicorno - S1",
@@ -1293,8 +1294,8 @@
         "name": "Cora",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 32,
-        "updatedAt": "2021-11-29T10:59:41.389Z"
+        "floorPrice": 31,
+        "updatedAt": "2021-12-01T09:59:41.356Z"
       },
       {
         "name": "Corsica",
@@ -1306,7 +1307,8 @@
         "name": "Gelatina",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 31
+        "floorPrice": 29.99,
+        "updatedAt": "2021-12-01T09:59:34.838Z"
       },
       {
         "name": "Marea",
@@ -1326,14 +1328,15 @@
         "name": "Oceania",
         "rarity": "COMMON",
         "totalIssued": 9000,
-        "floorPrice": 27
+        "floorPrice": 29.49,
+        "updatedAt": "2021-12-01T09:59:39.166Z"
       },
       {
         "name": "Perla",
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
-        "floorPrice": 40,
-        "updatedAt": "2021-11-30T10:59:37.575Z"
+        "floorPrice": 40.99,
+        "updatedAt": "2021-12-01T09:59:37.490Z"
       },
       {
         "name": "Sirena",
@@ -1350,8 +1353,8 @@
       }
     ],
     "brand": "Mermicornos",
-    "total": 684.98,
-    "marketCap": 3510820
+    "total": 686.45,
+    "marketCap": 3521080
   },
   {
     "name": "Modern Marvel S1 - Spider-Man",
@@ -1362,8 +1365,8 @@
         "name": "Spider-Man – Hangin’ Out",
         "rarity": "UNCOMMON",
         "totalIssued": 16000,
-        "floorPrice": 250,
-        "updatedAt": "2021-11-29T11:01:19.357Z"
+        "floorPrice": 234,
+        "updatedAt": "2021-12-01T10:01:19.124Z"
       },
       {
         "name": "Spider-Man – Jump into Action",
@@ -1376,27 +1379,27 @@
         "name": "Spider-Man – The Amazing Spider-Man",
         "rarity": "COMMON",
         "totalIssued": 32000,
-        "floorPrice": 228.99,
-        "updatedAt": "2021-11-29T11:01:23.209Z"
+        "floorPrice": 208,
+        "updatedAt": "2021-12-01T10:01:23.359Z"
       },
       {
         "name": "Spider-Man – Ultimate Animated",
         "rarity": "SECRET_RARE",
         "totalIssued": 1000,
-        "floorPrice": 14997,
-        "updatedAt": "2021-11-29T11:01:21.027Z"
+        "floorPrice": 15995,
+        "updatedAt": "2021-12-01T10:01:21.057Z"
       },
       {
         "name": "Spider-Man - Animated",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2500,
-        "floorPrice": 2400,
-        "updatedAt": "2021-11-28T09:01:22.510Z"
+        "floorPrice": 2184.99,
+        "updatedAt": "2021-12-01T10:01:22.726Z"
       }
     ],
     "brand": "Spider-Man",
-    "total": 18271.98,
-    "marketCap": 35888590
+    "total": 19017.980000000003,
+    "marketCap": 35421385
   },
   {
     "name": "Mondo - S1",
@@ -1407,14 +1410,15 @@
         "name": "Back to the Future",
         "rarity": "RARE",
         "totalIssued": 1985,
-        "floorPrice": 260
+        "floorPrice": 280,
+        "updatedAt": "2021-12-01T10:01:16.184Z"
       },
       {
         "name": "Bill & Ted's Bogus Journey",
         "rarity": "RARE",
         "totalIssued": 1991,
-        "floorPrice": 102.59,
-        "updatedAt": "2021-11-30T11:01:15.068Z"
+        "floorPrice": 105,
+        "updatedAt": "2021-12-01T10:01:15.736Z"
       },
       {
         "name": "Bill & Ted's Excellent Adventure",
@@ -1427,13 +1431,13 @@
         "name": "Jaws",
         "rarity": "RARE",
         "totalIssued": 1975,
-        "floorPrice": 288,
-        "updatedAt": "2021-11-30T11:01:14.326Z"
+        "floorPrice": 295,
+        "updatedAt": "2021-12-01T10:01:14.584Z"
       }
     ],
     "brand": "Con Exclusive Prints",
-    "total": 750.58,
-    "marketCap": 1488036.7999999998
+    "total": 779.99,
+    "marketCap": 1546360.1099999999
   },
   {
     "name": "Mondo - S2",
@@ -1442,21 +1446,22 @@
     "collectibles": [
       {
         "name": "Back to the Future",
-        "floorPrice": 199,
+        "floorPrice": 280,
         "totalIssued": 1985,
-        "rarity": "rare"
+        "rarity": "rare",
+        "updatedAt": "2021-12-01T10:01:16.184Z"
       },
       {
         "name": "Jaws",
-        "floorPrice": 288,
+        "floorPrice": 295,
         "totalIssued": 1972,
         "rarity": "rare",
-        "updatedAt": "2021-11-30T11:01:14.326Z"
+        "updatedAt": "2021-12-01T10:01:14.584Z"
       }
     ],
     "brand": "Con Exclusive Prints",
-    "total": 487,
-    "marketCap": 962951
+    "total": 575,
+    "marketCap": 1137540
   },
   {
     "name": "NTTD Movie Tickets",
@@ -1484,27 +1489,27 @@
         "name": "1:1 Glider - Animated",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3007,
-        "floorPrice": 360,
-        "updatedAt": "2021-11-29T11:02:06.554Z"
+        "floorPrice": 364.98,
+        "updatedAt": "2021-12-01T10:02:07.038Z"
       },
       {
         "name": "1:1 Glider - Static",
         "rarity": "RARE",
         "totalIssued": 5007,
-        "floorPrice": 102,
-        "updatedAt": "2021-11-29T11:02:07.400Z"
+        "floorPrice": 90,
+        "updatedAt": "2021-12-01T10:02:07.529Z"
       },
       {
         "name": "Safin’s Mask",
         "rarity": "RARE",
         "totalIssued": 7007,
-        "floorPrice": 79,
-        "updatedAt": "2021-11-30T11:02:10.628Z"
+        "floorPrice": 70.95,
+        "updatedAt": "2021-12-01T10:02:08.518Z"
       }
     ],
     "brand": "No Time To Die",
-    "total": 541,
-    "marketCap": 2146787
+    "total": 525.9300000000001,
+    "marketCap": 2045271.5100000002
   },
   {
     "name": "NTTD: Posters - Set 1",
@@ -1515,20 +1520,20 @@
         "name": "Coming Soon Poster",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 222,
-        "updatedAt": "2021-11-30T11:01:56.612Z"
+        "floorPrice": 173,
+        "updatedAt": "2021-12-01T10:01:56.458Z"
       },
       {
         "name": "Marking Time",
         "rarity": "RARE",
         "totalIssued": 4007,
-        "floorPrice": 79,
-        "updatedAt": "2021-11-30T11:01:57.216Z"
+        "floorPrice": 69,
+        "updatedAt": "2021-12-01T10:01:57.239Z"
       }
     ],
     "brand": "No Time To Die",
-    "total": 301,
-    "marketCap": 873107
+    "total": 242,
+    "marketCap": 710194
   },
   {
     "name": "NTTD: Posters - Set 2",
@@ -1539,8 +1544,8 @@
         "name": "Man on a Mission",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 189,
-        "updatedAt": "2021-11-30T11:01:58.727Z"
+        "floorPrice": 169,
+        "updatedAt": "2021-12-01T10:01:58.593Z"
       },
       {
         "name": "White Out",
@@ -1551,8 +1556,8 @@
       }
     ],
     "brand": "No Time To Die",
-    "total": 269.8,
-    "marketCap": 797588.6
+    "total": 249.8,
+    "marketCap": 747448.6
   },
   {
     "name": "NTTD: Posters - Set 3",
@@ -1563,8 +1568,8 @@
         "name": "No Time",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 165,
-        "updatedAt": "2021-11-30T11:02:01.336Z"
+        "floorPrice": 135,
+        "updatedAt": "2021-12-01T10:02:01.435Z"
       },
       {
         "name": "To Die For",
@@ -1575,8 +1580,8 @@
       }
     ],
     "brand": "No Time To Die",
-    "total": 248.99,
-    "marketCap": 750202.9299999999
+    "total": 218.99,
+    "marketCap": 674992.9299999999
   },
   {
     "name": "NTTD: Posters - Set 4",
@@ -1594,13 +1599,13 @@
         "name": "Twist",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 193,
-        "updatedAt": "2021-11-30T11:02:11.309Z"
+        "floorPrice": 168.99,
+        "updatedAt": "2021-12-01T10:02:11.157Z"
       }
     ],
     "brand": "No Time To Die",
-    "total": 261,
-    "marketCap": 756327
+    "total": 236.99,
+    "marketCap": 696133.93
   },
   {
     "name": "Powerpuff Girls - Series 1",
@@ -1618,7 +1623,8 @@
         "name": "Buttercup",
         "rarity": "UNCOMMON",
         "totalIssued": 4000,
-        "floorPrice": 270
+        "floorPrice": 205,
+        "updatedAt": "2021-12-01T10:00:30.337Z"
       },
       {
         "name": "Mayor of Townsville",
@@ -1634,8 +1640,8 @@
       }
     ],
     "brand": "Powerpuff Girls",
-    "total": 1314,
-    "marketCap": 3816500
+    "total": 1249,
+    "marketCap": 3556500
   },
   {
     "name": "Powerpuff Girls - Series 2",
@@ -1659,8 +1665,8 @@
         "name": "H.I.M.",
         "rarity": "RARE",
         "totalIssued": 300,
-        "floorPrice": 6800,
-        "updatedAt": "2021-11-30T11:00:14.989Z"
+        "floorPrice": 5799,
+        "updatedAt": "2021-12-01T10:00:15.351Z"
       },
       {
         "name": "Professor Utonium",
@@ -1671,8 +1677,8 @@
       }
     ],
     "brand": "Powerpuff Girls",
-    "total": 96532,
-    "marketCap": 18004350
+    "total": 95531,
+    "marketCap": 17704050
   },
   {
     "name": "Spider-Man (Ben Reilly)",
@@ -1707,13 +1713,13 @@
         "name": "Starfire",
         "rarity": "RARE",
         "totalIssued": 1052,
-        "floorPrice": 1215.99,
-        "updatedAt": "2021-11-29T11:00:11.521Z"
+        "floorPrice": 1100,
+        "updatedAt": "2021-12-01T10:00:11.105Z"
       }
     ],
     "brand": "Bombshells",
-    "total": 1215.99,
-    "marketCap": 1279221.48
+    "total": 1100,
+    "marketCap": 1157200
   },
   {
     "name": "Starships - S1",
@@ -1744,13 +1750,13 @@
         "name": "U.S.S. Enterprise-D (1:1000)",
         "rarity": "UNCOMMON",
         "totalIssued": 8888,
-        "floorPrice": 76,
-        "updatedAt": "2021-11-30T11:01:41.303Z"
+        "floorPrice": 79,
+        "updatedAt": "2021-12-01T10:01:41.391Z"
       }
     ],
     "brand": "Star Trek: The Next Generation",
-    "total": 579.7,
-    "marketCap": 3912573.6
+    "total": 582.7,
+    "marketCap": 3939237.6
   },
   {
     "name": "Superman - S1",
@@ -1774,11 +1780,11 @@
     "date": "2021-04-29T00:00:00.000Z",
     "collectibles": [
       {
-        "name": "The Rise of Ultraman #1 - Adi Granov ",
+        "name": "The Rise of Ultraman #1 - Adi Granov",
         "rarity": "RARE",
         "totalIssued": 4800,
-        "floorPrice": 94.99,
-        "updatedAt": "2021-11-26T10:59:30.356Z"
+        "floorPrice": 96,
+        "updatedAt": "2021-12-01T09:59:30.551Z"
       },
       {
         "name": "The Rise of Ultraman #1 - Alex Ross",
@@ -1788,11 +1794,11 @@
         "updatedAt": "2021-11-26T10:59:25.323Z"
       },
       {
-        "name": "The Rise of Ultraman #1 - Ed McGuinness ",
+        "name": "The Rise of Ultraman #1 - Ed McGuinness",
         "rarity": "COMMON",
         "totalIssued": 7800,
-        "floorPrice": 39,
-        "updatedAt": "2021-11-26T10:59:28.354Z"
+        "floorPrice": 40,
+        "updatedAt": "2021-12-01T09:59:28.258Z"
       },
       {
         "name": "The Rise of Ultraman #1 - John Tyler Christopher",
@@ -1802,14 +1808,14 @@
         "updatedAt": "2021-11-29T10:59:27.180Z"
       },
       {
-        "name": "The Rise of Ultraman #1 - Skottie Young ",
+        "name": "The Rise of Ultraman #1 - Skottie Young",
         "rarity": "UNCOMMON",
         "totalIssued": 5800,
         "floorPrice": 51,
         "updatedAt": "2021-11-26T10:59:28.082Z"
       },
       {
-        "name": "The Rise of Ultraman #1 - Yuji Kaida ",
+        "name": "The Rise of Ultraman #1 - Yuji Kaida",
         "rarity": "UNCOMMON",
         "totalIssued": 5800,
         "floorPrice": 50,
@@ -1817,8 +1823,8 @@
       }
     ],
     "brand": "Anime ULTRAMAN",
-    "total": 847.99,
-    "marketCap": 3831352
+    "total": 850,
+    "marketCap": 3844000
   },
   {
     "name": "Throg",
@@ -1836,8 +1842,8 @@
         "name": "Throg – Lightning Leap",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2080,
-        "floorPrice": 339,
-        "updatedAt": "2021-11-27T12:01:49.685Z"
+        "floorPrice": 325,
+        "updatedAt": "2021-12-01T10:01:49.124Z"
       },
       {
         "name": "Throg – The Mighty Frogjolnir",
@@ -1848,8 +1854,8 @@
       }
     ],
     "brand": "Throg",
-    "total": 493.99,
-    "marketCap": 1480178.7
+    "total": 479.99,
+    "marketCap": 1451058.7
   },
   {
     "name": "Toy Tokyo - Lucky",
@@ -1860,13 +1866,13 @@
         "name": "Lucky",
         "rarity": "SECRET_RARE",
         "totalIssued": 999,
-        "floorPrice": 2250,
-        "updatedAt": "2021-11-29T11:01:17.937Z"
+        "floorPrice": 2249,
+        "updatedAt": "2021-12-01T10:01:18.361Z"
       }
     ],
     "brand": "Toy Tokyo x Jermaine Rogers",
-    "total": 2250,
-    "marketCap": 2247750
+    "total": 2249,
+    "marketCap": 2246751
   },
   {
     "name": "Toy Tokyo - Mooglie",
@@ -1921,8 +1927,8 @@
         "name": "Ultraman Ace",
         "rarity": "RARE",
         "totalIssued": 3500,
-        "floorPrice": 285,
-        "updatedAt": "2021-11-29T10:59:46.192Z"
+        "floorPrice": 275,
+        "updatedAt": "2021-12-01T09:59:46.265Z"
       },
       {
         "name": "Ultraman Seven",
@@ -1940,8 +1946,8 @@
       }
     ],
     "brand": "Anime ULTRAMAN",
-    "total": 1064.79,
-    "marketCap": 3673755
+    "total": 1054.79,
+    "marketCap": 3638755
   },
   {
     "name": "Unicorno - S1",
@@ -1963,8 +1969,8 @@
         "name": "Dolce",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 52.99,
-        "updatedAt": "2021-11-30T11:00:05.351Z"
+        "floorPrice": 43,
+        "updatedAt": "2021-12-01T10:00:05.498Z"
       },
       {
         "name": "Fumo",
@@ -1984,8 +1990,8 @@
         "name": "Mooka",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 42.5,
-        "updatedAt": "2021-11-30T11:00:01.416Z"
+        "floorPrice": 36,
+        "updatedAt": "2021-12-01T10:00:01.742Z"
       },
       {
         "name": "Peperino",
@@ -2024,8 +2030,8 @@
       }
     ],
     "brand": "Unicornos",
-    "total": 1991.6699999999998,
-    "marketCap": 4599235
+    "total": 1975.18,
+    "marketCap": 4508540
   },
   {
     "name": "USPS Series 1",
@@ -2035,36 +2041,36 @@
     "collectibles": [
       {
         "name": "Day of the Dead: Child",
-        "floorPrice": 116,
+        "floorPrice": 90,
         "totalIssued": 7666,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-30T11:02:25.253Z"
+        "updatedAt": "2021-12-01T10:02:26.810Z"
       },
       {
         "name": "Day of the Dead Child with Hair Bow",
-        "floorPrice": 134,
+        "floorPrice": 99.99,
         "totalIssued": 6666,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-30T11:02:27.458Z"
+        "updatedAt": "2021-12-01T10:02:27.095Z"
       },
       {
         "name": "Day of the Dead Father",
-        "floorPrice": 199,
+        "floorPrice": 171.99,
         "totalIssued": 5666,
         "rarity": "RARE",
-        "updatedAt": "2021-11-30T11:02:26.088Z"
+        "updatedAt": "2021-12-01T10:02:26.349Z"
       },
       {
         "name": "Day of the Dead Mother",
-        "floorPrice": 573,
+        "floorPrice": 485,
         "totalIssued": 4666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-29T11:02:24.258Z"
+        "updatedAt": "2021-12-01T10:02:24.139Z"
       }
     ],
     "brand": "Day of the Dead",
-    "total": 1022,
-    "marketCap": 5583652
+    "total": 846.98,
+    "marketCap": 4593978.68
   },
   {
     "name": "Zombie Captain America",
@@ -2073,10 +2079,10 @@
     "collectibles": [
       {
         "name": "Zombie Captain America #1",
-        "floorPrice": 39,
+        "floorPrice": 35,
         "totalIssued": 18200,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-30T11:02:20.386Z"
+        "updatedAt": "2021-12-01T10:02:20.563Z"
       },
       {
         "name": "Zombie Captain America #2",
@@ -2087,8 +2093,8 @@
       }
     ],
     "brand": "Modern Marvel",
-    "total": 288.99,
-    "marketCap": 1659762
+    "total": 284.99,
+    "marketCap": 1586962
   },
   {
     "name": "Zombie Hunter Spider-Man",
@@ -2104,15 +2110,15 @@
       },
       {
         "name": "Zombie Hunter Spider-Man #2",
-        "floorPrice": 414.99,
+        "floorPrice": 375,
         "totalIssued": 3800,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-30T11:02:22.290Z"
+        "updatedAt": "2021-12-01T10:02:22.462Z"
       }
     ],
     "brand": "Modern Marvel",
-    "total": 467.99,
-    "marketCap": 2541562
+    "total": 428,
+    "marketCap": 2389600
   },
   {
     "name": "The Simpsons",
@@ -2129,15 +2135,15 @@
       },
       {
         "name": "Skateboard",
-        "floorPrice": 653,
+        "floorPrice": 695,
         "totalIssued": 6333,
         "rarity": "RARE",
-        "updatedAt": "2021-11-30T11:02:38.393Z"
+        "updatedAt": "2021-12-01T10:02:38.821Z"
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 1313,
-    "marketCap": 12275229
+    "total": 1355,
+    "marketCap": 12541215
   },
   {
     "name": "Walt Disney Animation Studios",
@@ -2172,10 +2178,10 @@
     "collectibles": [
       {
         "name": "WALL•E",
-        "floorPrice": 510,
+        "floorPrice": 440,
         "totalIssued": 10333,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-27T09:02:43.808Z"
+        "updatedAt": "2021-12-01T09:02:43.526Z"
       },
       {
         "name": "Pizza Planet Truck",
@@ -2186,8 +2192,8 @@
       }
     ],
     "brand": "Disney+ Golden Moments",
-    "total": 1145,
-    "marketCap": 9291285
+    "total": 1075,
+    "marketCap": 8567975
   },
   {
     "name": "Marvel",
@@ -2205,14 +2211,14 @@
       },
       {
         "name": "Avengers Logo",
-        "floorPrice": 725,
+        "floorPrice": 670,
         "totalIssued": 6333,
         "rarity": "RARE",
-        "updatedAt": "2021-11-30T11:02:45.286Z"
+        "updatedAt": "2021-12-01T10:02:44.395Z"
       }
     ],
-    "total": 1339,
-    "marketCap": 12163887
+    "total": 1284,
+    "marketCap": 11815572
   },
   {
     "name": "Star Wars",
@@ -2223,21 +2229,21 @@
     "collectibles": [
       {
         "name": "C-3PO",
-        "floorPrice": 760,
+        "floorPrice": 694,
         "totalIssued": 12333,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-30T11:02:46.132Z"
+        "updatedAt": "2021-12-01T10:02:46.480Z"
       },
       {
         "name": "R2-D2",
-        "floorPrice": 1650,
+        "floorPrice": 1480,
         "totalIssued": 8333,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-27T09:02:48.134Z"
+        "updatedAt": "2021-12-01T10:02:47.674Z"
       }
     ],
-    "total": 2410,
-    "marketCap": 23122530
+    "total": 2174,
+    "marketCap": 20891942
   },
   {
     "name": "Walt Disney & Mickey Mouse",
@@ -2248,14 +2254,14 @@
     "collectibles": [
       {
         "name": "Partners Statue",
-        "floorPrice": 8799,
+        "floorPrice": 7899,
         "totalIssued": 4333,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-27T09:02:48.924Z"
+        "updatedAt": "2021-12-01T10:02:48.153Z"
       }
     ],
-    "total": 8799,
-    "marketCap": 38126067
+    "total": 7899,
+    "marketCap": 34226367
   },
   {
     "name": "Scott Tolleson (DCon Mascot)",
@@ -2305,14 +2311,14 @@
     "collectibles": [
       {
         "name": "Neapolitan Ting",
-        "floorPrice": 540,
+        "floorPrice": 490,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-29T11:02:52.115Z"
+        "updatedAt": "2021-12-01T10:02:53.414Z"
       }
     ],
-    "total": 540,
-    "marketCap": 479520
+    "total": 490,
+    "marketCap": 435120
   },
   {
     "name": "kozyndan",
@@ -2323,10 +2329,10 @@
     "collectibles": [
       {
         "name": "Uprising",
-        "floorPrice": 105.78,
+        "floorPrice": 107.99,
         "totalIssued": 3666,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-28T09:02:50.103Z"
+        "updatedAt": "2021-12-01T10:02:50.273Z"
       },
       {
         "name": "Bunny Blossom",
@@ -2336,8 +2342,8 @@
         "updatedAt": "2021-11-28T09:02:51.292Z"
       }
     ],
-    "total": 430.78,
-    "marketCap": 799239.48
+    "total": 432.99,
+    "marketCap": 807341.34
   },
   {
     "name": "Dave Pressler",
@@ -2348,14 +2354,14 @@
     "collectibles": [
       {
         "name": "Shut up And Draw",
-        "floorPrice": 547,
+        "floorPrice": 454,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-29T11:02:49.146Z"
+        "updatedAt": "2021-12-01T10:02:49.277Z"
       }
     ],
-    "total": 547,
-    "marketCap": 485736
+    "total": 454,
+    "marketCap": 403152
   },
   {
     "name": "Brian Viveros - Just-Us",
@@ -2366,10 +2372,10 @@
     "collectibles": [
       {
         "name": "Just-Us (color)",
-        "floorPrice": 505,
+        "floorPrice": 420,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-29T11:03:07.804Z"
+        "updatedAt": "2021-12-01T10:03:06.167Z"
       },
       {
         "name": "Just-Us (Black/White)",
@@ -2379,8 +2385,8 @@
         "updatedAt": "2021-11-29T11:03:08.164Z"
       }
     ],
-    "total": 658.9,
-    "marketCap": 531167.4
+    "total": 573.9,
+    "marketCap": 474557.4
   },
   {
     "name": "Brian Viveros - Cat Trooper",
@@ -2398,14 +2404,14 @@
       },
       {
         "name": "Cat-Trooper (Black/White)",
-        "floorPrice": 474,
+        "floorPrice": 420,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-30T11:03:07.483Z"
+        "updatedAt": "2021-12-01T10:03:07.444Z"
       }
     ],
-    "total": 644,
-    "marketCap": 530904
+    "total": 590,
+    "marketCap": 494940
   },
   {
     "name": "Tristan Eaton",
@@ -2437,14 +2443,14 @@
       },
       {
         "name": "OG Devil Bunny - Color",
-        "floorPrice": 1398.88,
+        "floorPrice": 1250,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-28T09:03:03.370Z"
+        "updatedAt": "2021-12-01T10:03:04.389Z"
       }
     ],
-    "total": 1757.75,
-    "marketCap": 2152001.5
+    "total": 1608.87,
+    "marketCap": 2052847.42
   },
   {
     "name": "Jim Mahfood",
@@ -2473,14 +2479,14 @@
     "collectibles": [
       {
         "name": "Creeping DERO",
-        "floorPrice": 640,
+        "floorPrice": 559,
         "totalIssued": 1111,
         "rarity": "RARE",
-        "updatedAt": "2021-11-29T11:03:00.483Z"
+        "updatedAt": "2021-12-01T10:03:01.137Z"
       }
     ],
-    "total": 640,
-    "marketCap": 711040
+    "total": 559,
+    "marketCap": 621049
   },
   {
     "name": "XLARGE",
@@ -2491,28 +2497,28 @@
     "collectibles": [
       {
         "name": "Little Friends Black / White",
-        "floorPrice": 429,
+        "floorPrice": 350,
         "totalIssued": 1388,
         "rarity": "RARE",
-        "updatedAt": "2021-11-28T09:02:59.782Z"
+        "updatedAt": "2021-12-01T10:02:58.205Z"
       },
       {
         "name": "Little Friends Silver",
-        "floorPrice": 940,
+        "floorPrice": 767,
         "totalIssued": 999,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-28T09:02:59.783Z"
+        "updatedAt": "2021-12-01T10:02:59.104Z"
       },
       {
         "name": "Little Friends Gold",
-        "floorPrice": 5049.99,
+        "floorPrice": 4650,
         "totalIssued": 488,
         "rarity": "SECRET_RARE",
-        "updatedAt": "2021-11-30T11:02:56.961Z"
+        "updatedAt": "2021-12-01T10:02:57.341Z"
       }
     ],
-    "total": 6418.99,
-    "marketCap": 3998907.12
+    "total": 5767,
+    "marketCap": 3521233
   },
   {
     "name": "Tara McPherson",
@@ -2530,28 +2536,28 @@
       },
       {
         "name": "Supernova",
-        "floorPrice": 157,
+        "floorPrice": 152.22,
         "totalIssued": 1266,
         "rarity": "RARE",
-        "updatedAt": "2021-11-26T10:03:22.352Z"
+        "updatedAt": "2021-12-01T10:03:24.861Z"
       },
       {
         "name": "Wayob",
-        "floorPrice": 644,
+        "floorPrice": 597,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-26T10:03:20.402Z"
+        "updatedAt": "2021-11-30T11:03:21.951Z"
       },
       {
         "name": "Electric Lola",
-        "floorPrice": 540,
+        "floorPrice": 545,
         "totalIssued": 666,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-29T11:03:21.997Z"
+        "updatedAt": "2021-11-30T11:03:22.159Z"
       }
     ],
-    "total": 1501,
-    "marketCap": 1189866
+    "total": 1454.22,
+    "marketCap": 1155842.52
   },
   {
     "name": "Camille Rose Garcia",
@@ -2562,14 +2568,14 @@
     "collectibles": [
       {
         "name": "Vultura Macabra",
-        "floorPrice": 277,
+        "floorPrice": 244,
         "totalIssued": 2888,
         "rarity": "RARE",
-        "updatedAt": "2021-11-28T09:03:10.002Z"
+        "updatedAt": "2021-12-01T10:03:10.332Z"
       }
     ],
-    "total": 277,
-    "marketCap": 799976
+    "total": 244,
+    "marketCap": 704672
   },
   {
     "name": "Lincoln Design Co.",
@@ -2580,42 +2586,42 @@
     "collectibles": [
       {
         "name": "Lincoln Logo Mayhem Board",
-        "floorPrice": 70,
+        "floorPrice": 71,
         "totalIssued": 2250,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-26T11:03:18.226Z"
+        "updatedAt": "2021-11-30T12:03:18.107Z"
       },
       {
         "name": "Lincoln Ripper Board",
-        "floorPrice": 92,
+        "floorPrice": 80,
         "totalIssued": 1750,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-26T11:03:21.245Z"
+        "updatedAt": "2021-12-01T10:03:20.074Z"
       },
       {
         "name": "White L Snake Board",
-        "floorPrice": 190,
+        "floorPrice": 189,
         "totalIssued": 1200,
         "rarity": "RARE",
-        "updatedAt": "2021-11-26T10:03:16.009Z"
+        "updatedAt": "2021-11-30T12:03:17.758Z"
       },
       {
         "name": "Ride the Lightning Board",
-        "floorPrice": 5997,
+        "floorPrice": 5199,
         "totalIssued": 250,
         "rarity": "SECRET_RARE",
-        "updatedAt": "2021-11-28T09:03:19.186Z"
+        "updatedAt": "2021-12-01T10:03:19.496Z"
       },
       {
         "name": "Ride the Lightning Board v2",
-        "floorPrice": 3850,
+        "floorPrice": 3499.99,
         "totalIssued": 250,
         "rarity": "SECRET_RARE",
-        "updatedAt": "2021-11-29T11:03:30.126Z"
+        "updatedAt": "2021-12-01T10:03:30.182Z"
       }
     ],
-    "total": 10199,
-    "marketCap": 3008250
+    "total": 9038.99,
+    "marketCap": 2701297.5
   },
   {
     "name": "MunkyKing x Luke Chueh",
@@ -2626,10 +2632,10 @@
     "collectibles": [
       {
         "name": "Ghostbear - Green",
-        "floorPrice": 80,
+        "floorPrice": 69,
         "totalIssued": 1888,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-26T10:03:20.231Z"
+        "updatedAt": "2021-12-01T10:03:16.660Z"
       },
       {
         "name": "Ghostbear - White",
@@ -2647,14 +2653,14 @@
       },
       {
         "name": "Ghostbear - Red",
-        "floorPrice": 402,
+        "floorPrice": 410,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-30T11:03:13.966Z"
+        "updatedAt": "2021-12-01T10:03:14.026Z"
       }
     ],
-    "total": 726.99,
-    "marketCap": 865563.12
+    "total": 723.99,
+    "marketCap": 851899.12
   },
   {
     "name": "Mister Cartoon",
@@ -2683,14 +2689,14 @@
     "collectibles": [
       {
         "name": "Inked Stories (Eve)",
-        "floorPrice": 1289,
+        "floorPrice": 1150,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-28T09:03:11.188Z"
+        "updatedAt": "2021-12-01T10:03:11.053Z"
       }
     ],
-    "total": 1289,
-    "marketCap": 1144632
+    "total": 1150,
+    "marketCap": 1021200
   },
   {
     "name": "Storm",
@@ -2708,35 +2714,35 @@
       },
       {
         "name": "Storm – Windrider",
-        "floorPrice": 45,
+        "floorPrice": 43.96,
         "totalIssued": 12500,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-29T11:03:28.257Z"
+        "updatedAt": "2021-12-01T10:03:27.596Z"
       },
       {
         "name": "Storm – Queen of Wakanda",
-        "floorPrice": 79,
+        "floorPrice": 79.99,
         "totalIssued": 6500,
         "rarity": "RARE",
-        "updatedAt": "2021-11-28T09:03:25.384Z"
+        "updatedAt": "2021-11-30T11:03:25.432Z"
       },
       {
         "name": "Storm – Animated",
-        "floorPrice": 285,
+        "floorPrice": 255,
         "totalIssued": 3650,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-11-30T11:03:29.510Z"
+        "updatedAt": "2021-12-01T10:03:29.202Z"
       },
       {
         "name": "Storm – Ultimate Animated",
-        "floorPrice": 990,
+        "floorPrice": 890,
         "totalIssued": 1500,
         "rarity": "SECRET_RARE",
-        "updatedAt": "2021-11-30T11:03:27.976Z"
+        "updatedAt": "2021-12-01T10:03:28.180Z"
       }
     ],
-    "total": 1437,
-    "marketCap": 4228250
+    "total": 1306.95,
+    "marketCap": 3962185
   },
   {
     "name": "Cereal Killers - S3",
@@ -2750,24 +2756,24 @@
     "collectibles": [
       {
         "name": "Smack, Crack & Pot",
-        "floorPrice": 68,
+        "floorPrice": 69,
         "totalIssued": 4444,
         "rarity": "COMMON",
-        "updatedAt": "2021-11-30T11:03:34.595Z"
+        "updatedAt": "2021-12-01T10:03:34.401Z"
       },
       {
         "name": "Drug ’em Killfrog",
-        "floorPrice": 105,
+        "floorPrice": 94.97,
         "totalIssued": 3333,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-11-30T11:03:31.585Z"
+        "updatedAt": "2021-12-01T10:03:31.470Z"
       },
       {
         "name": "Qhrist",
-        "floorPrice": 173,
+        "floorPrice": 150,
         "totalIssued": 2222,
         "rarity": "RARE",
-        "updatedAt": "2021-11-29T11:03:32.374Z"
+        "updatedAt": "2021-12-01T10:03:32.404Z"
       },
       {
         "name": "Tricky the Obese Bunny",
@@ -2777,7 +2783,7 @@
         "updatedAt": "2021-11-29T11:03:33.626Z"
       }
     ],
-    "total": 786,
-    "marketCap": 1867283
+    "total": 753.97,
+    "marketCap": 1787191.01
   }
 ]
