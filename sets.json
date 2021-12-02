@@ -39,7 +39,8 @@
   {
     "name": "Adventure Time S2",
     "season": 1,
-    "date": "2020-12-24T00:00:00.000Z",
+    "date": "2020-12-24T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/adventure-time-series-2-a1890074e52b",
     "slugs": [],
     "collectibles": [
       {
@@ -143,7 +144,7 @@
   {
     "name": "Batman Black & White S2",
     "season": 1,
-    "date": "2020-11-04T00:00:00.000Z",
+    "date": "2020-11-04T08:00:00-08:00",
     "slugs": [],
     "collectibles": [
       {
@@ -180,7 +181,8 @@
   {
     "name": "Batman Black & White S3",
     "season": 1,
-    "date": "2020-12-24T00:00:00.000Z",
+    "date": "2020-12-24T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/batman-black-white-series-3-e86f9fa5d016",
     "slugs": [],
     "collectibles": [
       {
@@ -374,7 +376,8 @@
   {
     "name": "Captain Carter",
     "season": 2,
-    "date": "2021-10-09T00:00:00.000Z",
+    "date": "2021-10-09T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-mightys-series-3-captain-carter-ea43717b5bcf",
     "slugs": [],
     "collectibles": [
       {
@@ -470,7 +473,8 @@
   {
     "name": "CHOICES - S1",
     "season": 2,
-    "date": "2021-07-23T00:00:00.000Z",
+    "date": "2021-07-23T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/jermaine-rogers-choices-e3979011accf",
     "keywords": [
       "Jermaine Rogers"
     ],
@@ -640,7 +644,8 @@
   {
     "name": "Cthulhu Idols",
     "season": 2,
-    "date": "2021-07-23T00:00:00.000Z",
+    "date": "2021-07-23T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/chaosium-cthulhu-idols-1e6a889aee3e",
     "slugs": [],
     "collectibles": [
       {
@@ -1447,7 +1452,8 @@
   {
     "name": "NTTD: Series 1",
     "season": 2,
-    "date": "2021-10-01T00:00:00.000Z",
+    "date": "2021-10-01T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/james-bond-007-no-time-to-die-series-1-68f16190e756",
     "slugs": [],
     "collectibles": [
       {
@@ -1477,7 +1483,8 @@
   {
     "name": "NTTD: Posters - Set 1",
     "season": 2,
-    "date": "2021-10-01T00:00:00.000Z",
+    "date": "2021-10-01T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/james-bond-007-no-time-to-die-posters-fed9ec81037f",
     "slugs": [],
     "collectibles": [
       {
@@ -1523,7 +1530,7 @@
   {
     "name": "NTTD: Posters - Set 3",
     "season": 2,
-    "date": "2021-10-07T00:00:00.000Z",
+    "date": "2021-10-07T12:00:00-08:00",
     "slugs": [],
     "collectibles": [
       {
@@ -1569,7 +1576,8 @@
   {
     "name": "Powerpuff Girls - Series 1",
     "season": 1,
-    "date": "2020-11-04T00:00:00.000Z",
+    "date": "2020-11-04T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/powerpuff-girls-series-1-2dd2ca0ccdfc",
     "slugs": [],
     "collectibles": [
       {
@@ -1604,7 +1612,8 @@
   {
     "name": "Powerpuff Girls - Series 2",
     "season": 1,
-    "date": "2021-01-07T00:00:00.000Z",
+    "date": "2021-01-07T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/powerpuff-girls-series-2-f61c8d4f30e5",
     "slugs": [],
     "collectibles": [
       {
@@ -1640,7 +1649,8 @@
   {
     "name": "Spider-Man (Ben Reilly)",
     "season": 2,
-    "date": "2021-10-07T00:00:00.000Z",
+    "date": "2021-10-07T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/modern-marvel-series-3-spider-man-ben-reilly-c53354bc6115",
     "slugs": [],
     "collectibles": [
       {
@@ -1663,7 +1673,8 @@
   {
     "name": "Starfire",
     "season": 1,
-    "date": "2021-01-07T00:00:00.000Z",
+    "date": "2021-01-07T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/dc-bombshells-starfire-cd90032f0c4c",
     "slugs": [],
     "collectibles": [
       {
@@ -1843,9 +1854,10 @@
     "brand": "Toy Tokyo x Ghostbusters"
   },
   {
-    "name": "Toy Tokyo - yar Girl",
+    "name": "Toy Tokyo - Dragon Girl",
     "season": 2,
-    "date": "2021-10-09T00:00:00.000Z",
+    "date": "2021-10-09T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/toy-tokyo-exclusive-dragon-girl-by-simone-legno-tokidoki-651fafa68f87",
     "keywords": [
       "Simone Legno"
     ],
@@ -2022,7 +2034,8 @@
   {
     "name": "Zombie Captain America",
     "season": 3,
-    "date": "2021-10-30T00:00:00.000Z",
+    "date": "2021-10-30T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/modern-marvel-zombie-captain-america-7dab98f56500",
     "slugs": [],
     "collectibles": [
       {
@@ -2045,7 +2058,8 @@
   {
     "name": "Zombie Hunter Spider-Man",
     "season": 3,
-    "date": "2021-10-30T00:00:00.000Z",
+    "date": "2021-10-30T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/modern-marvel-zombie-hunter-spider-man-c257c895b62d",
     "slugs": [],
     "collectibles": [
       {
