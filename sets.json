@@ -257,6 +257,7 @@
     "name": "Batman Black & White S5",
     "season": 2,
     "date": "2021-05-20T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/batman-black-and-white-series-5-8dd7ddcf5b77",
     "slugs": [],
     "collectibles": [
       {
@@ -394,9 +395,7 @@
     "name": "Cereal Killers - S1",
     "season": 2,
     "date": "2021-06-10T00:00:00.000Z",
-    "keywords": [
-      "Ron English"
-    ],
+    "keywords": ["Ron English"],
     "slugs": [],
     "collectibles": [
       {
@@ -434,9 +433,7 @@
     "name": "Cereal Killers - S2",
     "season": 2,
     "date": "2021-09-18T00:00:00.000Z",
-    "keywords": [
-      "Ron English"
-    ],
+    "keywords": ["Ron English"],
     "slugs": [],
     "collectibles": [
       {
@@ -475,9 +472,7 @@
     "season": 2,
     "date": "2021-07-23T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/jermaine-rogers-choices-e3979011accf",
-    "keywords": [
-      "Jermaine Rogers"
-    ],
+    "keywords": ["Jermaine Rogers"],
     "slugs": [],
     "collectibles": [
       {
@@ -713,9 +708,8 @@
     "name": "Dragon Girl",
     "season": 1,
     "date": "2021-05-13T00:00:00.000Z",
-    "keywords": [
-      "Simone Legno"
-    ],
+    "url": "https://medium.com/veve-collectibles/simone-legno-tokidoki-dragon-girl-d2d94dd3a5e4",
+    "keywords": ["Simone Legno"],
     "slugs": [],
     "collectibles": [
       {
@@ -1027,9 +1021,7 @@
     "name": "Labbit - S1",
     "season": 2,
     "date": "2021-07-01T00:00:00.000Z",
-    "keywords": [
-      "Frank Kozik"
-    ],
+    "keywords": ["Frank Kozik"],
     "slugs": [],
     "collectibles": [
       {
@@ -1081,9 +1073,7 @@
     "name": "Labbit - S2",
     "season": 2,
     "date": "2021-10-02T00:00:00.000Z",
-    "keywords": [
-      "Frank Kozik"
-    ],
+    "keywords": ["Frank Kozik"],
     "slugs": [],
     "collectibles": [
       {
@@ -1259,10 +1249,7 @@
     "name": "Mermicorno - S1",
     "season": 1,
     "date": "2021-04-06T00:00:00.000Z",
-    "keywords": [
-      "tokidoki",
-      "Simone Legno"
-    ],
+    "keywords": ["tokidoki", "Simone Legno"],
     "slugs": [],
     "collectibles": [
       {
@@ -1508,6 +1495,7 @@
     "name": "NTTD: Posters - Set 2",
     "season": 2,
     "date": "2021-10-03T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/james-bond-007-no-time-to-die-posters-fed9ec81037f",
     "slugs": [],
     "collectibles": [
       {
@@ -1531,6 +1519,7 @@
     "name": "NTTD: Posters - Set 3",
     "season": 2,
     "date": "2021-10-07T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/james-bond-007-no-time-to-die-posters-fed9ec81037f",
     "slugs": [],
     "collectibles": [
       {
@@ -1554,6 +1543,7 @@
     "name": "NTTD: Posters - Set 4",
     "season": 2,
     "date": "2021-10-13T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/james-bond-007-no-time-to-die-posters-fed9ec81037f",
     "slugs": [],
     "collectibles": [
       {
@@ -1858,9 +1848,7 @@
     "season": 2,
     "date": "2021-10-09T12:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/toy-tokyo-exclusive-dragon-girl-by-simone-legno-tokidoki-651fafa68f87",
-    "keywords": [
-      "Simone Legno"
-    ],
+    "keywords": ["Simone Legno"],
     "slugs": [],
     "collectibles": [
       {
@@ -1914,10 +1902,7 @@
     "name": "Unicorno - S1",
     "season": 1,
     "date": "2021-01-14T00:00:00.000Z",
-    "keywords": [
-      "tokidoki",
-      "Simone Legno"
-    ],
+    "keywords": ["tokidoki", "Simone Legno"],
     "slugs": [],
     "collectibles": [
       {
@@ -2686,9 +2671,7 @@
     "season": 3,
     "date": "2021-11-27T08:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/ron-english-cereal-killers-s3-163b12df9ddc",
-    "keywords": [
-      "Ron English"
-    ],
+    "keywords": ["Ron English"],
     "slugs": [],
     "collectibles": [
       {
