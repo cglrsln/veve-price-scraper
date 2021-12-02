@@ -34,7 +34,7 @@ function processPrices(prices) {
     cs.collectibles.forEach(cl => {
       const updatedPrice = priceMap.find(pm => pm.name.trim() === cl.name)
       if (updatedPrice) {
-        console.log('updating', cl.name, cl.floorPrice, updatedPrice.floorPrice)
+        console.log('updating', cl.name, cl.floorPrice, "=>", updatedPrice.floorPrice)
         cl.floorPrice = updatedPrice.floorPrice
         cl.updatedAt = updatedPrice.updatedAt.toISOString()
 
