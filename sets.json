@@ -3103,5 +3103,51 @@
       }
     ],
     "id": "3.31"
+  },
+  {
+    "name": "Artists Alley - Series 1",
+    "brand": "Artists Alley",
+    "season": 3,
+    "date": "2021-12-04T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/dc-artists-alley-series-1-d76b81c464b2",
+    "keywords": [
+      "DC"
+    ],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Wonder Woman",
+        "floorPrice": 50,
+        "totalIssued": 9999,
+        "rarity": "COMMON",
+        "updatedAt": "",
+        "id": "3.32.1"
+      },
+      {
+        "name": "Batgirl",
+        "floorPrice": 50,
+        "totalIssued": 8888,
+        "rarity": "UNCOMMON",
+        "updatedAt": "",
+        "id": "3.32.2"
+      },
+      {
+        "name": "Supergirl",
+        "floorPrice": 50,
+        "totalIssued": 6888,
+        "rarity": "RARE",
+        "updatedAt": "",
+        "id": "3.32.3"
+      },
+      {
+        "name": "Hawkgirl",
+        "floorPrice": 50,
+        "totalIssued": 3888,
+        "rarity": "ULTRA_RARE",
+        "updatedAt": "",
+        "id": "3.32.4"
+      }
+    ],
+    "id": "3.32"
   }
 ]
