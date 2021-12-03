@@ -3081,5 +3081,27 @@
       }
     ],
     "id": "3.30"
+  },
+  {
+    "name": "Golden Surprise",
+    "brand": "Cereal Killers",
+    "season": 3,
+    "date": "2021-12-037T04:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/ron-english-cereal-killers-s3-163b12df9ddc",
+    "keywords": [
+      "Ron English"
+    ],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Tricky the Obese Bunny - Gold",
+        "floorPrice": 5000,
+        "totalIssued": 666,
+        "rarity": "SECRET_RARE",
+        "updatedAt": "2021-12-03T11:03:32.994Z",
+        "id": "3.31.1"
+      }
+    ],
+    "id": "3.31"
   }
 ]
