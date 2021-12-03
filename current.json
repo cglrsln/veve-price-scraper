@@ -1067,39 +1067,39 @@
         "name": "Fat Tony",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 130,
-        "updatedAt": "2021-12-03T10:00:43.089Z",
+        "floorPrice": 133.33,
+        "updatedAt": "2021-12-03T11:00:43.098Z",
         "id": "2.3.1"
       },
       {
         "name": "Cap'n Cornstarch",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 220,
-        "updatedAt": "2021-12-03T10:00:44.064Z",
+        "floorPrice": 230,
+        "updatedAt": "2021-12-03T11:00:45.544Z",
         "id": "2.3.2"
       },
       {
         "name": "Honey Butt the Obese",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 480,
-        "updatedAt": "2021-12-03T10:00:40.982Z",
+        "floorPrice": 525,
+        "updatedAt": "2021-12-03T11:00:42.559Z",
         "id": "2.3.3"
       },
       {
         "name": "Count Calorie",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 1249.49,
-        "updatedAt": "2021-12-03T10:00:42.770Z",
+        "floorPrice": 1350,
+        "updatedAt": "2021-12-03T11:00:42.156Z",
         "id": "2.3.4"
       }
     ],
     "brand": "Cereal Killers",
     "id": "2.3",
-    "total": 2079.49,
-    "marketCap": 4736577.12
+    "total": 2238.33,
+    "marketCap": 5074458.52
   },
   {
     "name": "Superman - S1",
@@ -1750,39 +1750,39 @@
         "name": "Two Ton Sam",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 74.98,
-        "updatedAt": "2021-12-03T10:01:44.260Z",
+        "floorPrice": 74.99,
+        "updatedAt": "2021-12-03T11:01:44.316Z",
         "id": "2.19.1"
       },
       {
         "name": "Franken Fat",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 91.5,
-        "updatedAt": "2021-12-03T10:01:46.029Z",
+        "floorPrice": 90,
+        "updatedAt": "2021-12-03T11:01:46.010Z",
         "id": "2.19.2"
       },
       {
         "name": "Sugar Bear",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 244.99,
-        "updatedAt": "2021-12-03T10:01:45.095Z",
+        "floorPrice": 245,
+        "updatedAt": "2021-12-03T11:01:45.817Z",
         "id": "2.19.3"
       },
       {
         "name": "Yucky Charmer",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 629,
-        "updatedAt": "2021-12-03T10:01:43.307Z",
+        "floorPrice": 638,
+        "updatedAt": "2021-12-03T11:01:43.195Z",
         "id": "2.19.4"
       }
     ],
     "brand": "Cereal Killers",
     "id": "2.19",
-    "total": 1040.47,
-    "marketCap": 2370100.4
+    "total": 1047.99,
+    "marketCap": 2382159.56
   },
   {
     "name": "Throg",
@@ -3128,39 +3128,39 @@
     "collectibles": [
       {
         "name": "Smack, Crack & Pot",
-        "floorPrice": 74.99,
+        "floorPrice": 75,
         "totalIssued": 4444,
         "rarity": "COMMON",
-        "updatedAt": "2021-12-03T10:03:34.166Z",
+        "updatedAt": "2021-12-03T11:03:34.222Z",
         "id": "3.30.1"
       },
       {
         "name": "Drug ’em Killfrog",
-        "floorPrice": 107,
+        "floorPrice": 115,
         "totalIssued": 3333,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-12-03T10:03:32.726Z",
+        "updatedAt": "2021-12-03T11:03:30.994Z",
         "id": "3.30.2"
       },
       {
         "name": "Qhrist",
-        "floorPrice": 185,
+        "floorPrice": 199,
         "totalIssued": 2222,
         "rarity": "RARE",
-        "updatedAt": "2021-12-03T10:03:32.072Z",
+        "updatedAt": "2021-12-03T11:03:32.286Z",
         "id": "3.30.3"
       },
       {
         "name": "Tricky the Obese Bunny",
-        "floorPrice": 540,
+        "floorPrice": 560,
         "totalIssued": 1888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-12-03T10:03:34.631Z",
+        "updatedAt": "2021-12-03T11:03:32.994Z",
         "id": "3.30.4"
       }
     ],
     "id": "3.30",
-    "total": 906.99,
-    "marketCap": 2120476.56
+    "total": 949,
+    "marketCap": 2216053
   }
 ]
