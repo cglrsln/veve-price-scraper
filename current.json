@@ -1067,39 +1067,39 @@
         "name": "Fat Tony",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 133.33,
-        "updatedAt": "2021-12-03T11:00:43.098Z",
+        "floorPrice": 100,
+        "updatedAt": "2021-12-03T13:00:43.046Z",
         "id": "2.3.1"
       },
       {
         "name": "Cap'n Cornstarch",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 230,
-        "updatedAt": "2021-12-03T11:00:45.544Z",
+        "floorPrice": 100,
+        "updatedAt": "2021-12-03T13:00:45.498Z",
         "id": "2.3.2"
       },
       {
         "name": "Honey Butt the Obese",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 525,
-        "updatedAt": "2021-12-03T11:00:42.559Z",
+        "floorPrice": 260,
+        "updatedAt": "2021-12-03T13:00:40.995Z",
         "id": "2.3.3"
       },
       {
         "name": "Count Calorie",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 1350,
-        "updatedAt": "2021-12-03T11:00:42.156Z",
+        "floorPrice": 730,
+        "updatedAt": "2021-12-03T13:00:42.078Z",
         "id": "2.3.4"
       }
     ],
     "brand": "Cereal Killers",
     "id": "2.3",
-    "total": 2238.33,
-    "marketCap": 5074458.52
+    "total": 1190,
+    "marketCap": 2733660
   },
   {
     "name": "Superman - S1",
@@ -1750,39 +1750,39 @@
         "name": "Two Ton Sam",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 74.99,
-        "updatedAt": "2021-12-03T11:01:44.316Z",
+        "floorPrice": 59.99,
+        "updatedAt": "2021-12-03T13:01:44.020Z",
         "id": "2.19.1"
       },
       {
         "name": "Franken Fat",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 90,
-        "updatedAt": "2021-12-03T11:01:46.010Z",
+        "floorPrice": 65,
+        "updatedAt": "2021-12-03T13:01:46.188Z",
         "id": "2.19.2"
       },
       {
         "name": "Sugar Bear",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 245,
-        "updatedAt": "2021-12-03T11:01:45.817Z",
+        "floorPrice": 149.99,
+        "updatedAt": "2021-12-03T13:01:45.229Z",
         "id": "2.19.3"
       },
       {
         "name": "Yucky Charmer",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 638,
-        "updatedAt": "2021-12-03T11:01:43.195Z",
+        "floorPrice": 475,
+        "updatedAt": "2021-12-03T13:01:42.962Z",
         "id": "2.19.4"
       }
     ],
     "brand": "Cereal Killers",
     "id": "2.19",
-    "total": 1047.99,
-    "marketCap": 2382159.56
+    "total": 749.98,
+    "marketCap": 1713318.34
   },
   {
     "name": "Throg",
@@ -3128,40 +3128,40 @@
     "collectibles": [
       {
         "name": "Smack, Crack & Pot",
-        "floorPrice": 75,
+        "floorPrice": 64.99,
         "totalIssued": 4444,
         "rarity": "COMMON",
-        "updatedAt": "2021-12-03T11:03:34.222Z",
+        "updatedAt": "2021-12-03T13:03:34.084Z",
         "id": "3.30.1"
       },
       {
         "name": "Drug ’em Killfrog",
-        "floorPrice": 115,
+        "floorPrice": 99.99,
         "totalIssued": 3333,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-12-03T11:03:30.994Z",
+        "updatedAt": "2021-12-03T13:03:31.119Z",
         "id": "3.30.2"
       },
       {
         "name": "Qhrist",
-        "floorPrice": 199,
+        "floorPrice": 149,
         "totalIssued": 2222,
         "rarity": "RARE",
-        "updatedAt": "2021-12-03T11:03:32.286Z",
+        "updatedAt": "2021-12-03T13:03:31.957Z",
         "id": "3.30.3"
       },
       {
         "name": "Tricky the Obese Bunny",
-        "floorPrice": 560,
+        "floorPrice": 375,
         "totalIssued": 1888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-12-03T11:03:32.994Z",
+        "updatedAt": "2021-12-03T13:03:33.259Z",
         "id": "3.30.4"
       }
     ],
     "id": "3.30",
-    "total": 949,
-    "marketCap": 2216053
+    "total": 688.98,
+    "marketCap": 1661160.23
   },
   {
     "name": "Golden Surprise",
