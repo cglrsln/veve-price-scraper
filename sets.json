@@ -570,8 +570,8 @@
         "name": "#79 Jim Lee Nightwing",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1850,
-        "floorPrice": 1068,
-        "updatedAt": "2021-12-02T22:59:47.698Z",
+        "floorPrice": 1280,
+        "updatedAt": "2021-12-04T09:59:47.000Z",
         "id": "1.14.4"
       }
     ],
@@ -1001,8 +1001,8 @@
         "name": "Batgirl",
         "rarity": "COMMON",
         "totalIssued": 13800,
-        "floorPrice": 44.98,
-        "updatedAt": "2021-12-01T21:59:03.159Z",
+        "floorPrice": 53.99,
+        "updatedAt": "2021-12-04T09:59:03.123Z",
         "id": "2.2.1"
       },
       {
@@ -1025,8 +1025,8 @@
         "name": "Supergirl",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3800,
-        "floorPrice": 580,
-        "updatedAt": "2021-12-02T22:59:01.346Z",
+        "floorPrice": 700,
+        "updatedAt": "2021-12-04T09:59:01.176Z",
         "id": "2.2.4"
       }
     ],
@@ -1046,32 +1046,32 @@
         "name": "Fat Tony",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 104,
-        "updatedAt": "2021-12-03T14:00:43.000Z",
+        "floorPrice": 85,
+        "updatedAt": "2021-12-04T10:00:42.767Z",
         "id": "2.3.1"
       },
       {
         "name": "Cap'n Cornstarch",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 135,
-        "updatedAt": "2021-12-03T14:00:44.149Z",
+        "floorPrice": 100,
+        "updatedAt": "2021-12-04T10:00:44.238Z",
         "id": "2.3.2"
       },
       {
         "name": "Honey Butt the Obese",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 300,
-        "updatedAt": "2021-12-03T14:00:41.116Z",
+        "floorPrice": 319,
+        "updatedAt": "2021-12-04T10:00:41.345Z",
         "id": "2.3.3"
       },
       {
         "name": "Count Calorie",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 730,
-        "updatedAt": "2021-12-03T14:00:42.239Z",
+        "floorPrice": 630,
+        "updatedAt": "2021-12-04T10:00:41.885Z",
         "id": "2.3.4"
       }
     ],
@@ -1600,8 +1600,8 @@
         "name": "Doctor Doom",
         "rarity": "ULTRA_RARE",
         "totalIssued": 4999,
-        "floorPrice": 469,
-        "updatedAt": "2021-12-01T22:01:33.270Z",
+        "floorPrice": 559,
+        "updatedAt": "2021-12-04T10:01:33.271Z",
         "id": "2.16.5"
       }
     ],
@@ -1692,8 +1692,8 @@
         "name": "U.S.S. Enterprise-D (1:1)",
         "rarity": "ULTRA_RARE",
         "totalIssued": 5888,
-        "floorPrice": 350,
-        "updatedAt": "2021-11-27T09:01:40.471Z",
+        "floorPrice": 383,
+        "updatedAt": "2021-12-04T10:01:40.039Z",
         "id": "2.18.4"
       }
     ],
@@ -1713,32 +1713,32 @@
         "name": "Two Ton Sam",
         "rarity": "COMMON",
         "totalIssued": 4444,
-        "floorPrice": 67.98,
-        "updatedAt": "2021-12-03T14:01:45.188Z",
+        "floorPrice": 58,
+        "updatedAt": "2021-12-04T10:01:43.696Z",
         "id": "2.19.1"
       },
       {
         "name": "Franken Fat",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 73,
-        "updatedAt": "2021-12-03T14:01:45.967Z",
+        "floorPrice": 69,
+        "updatedAt": "2021-12-04T10:01:45.922Z",
         "id": "2.19.2"
       },
       {
         "name": "Sugar Bear",
         "rarity": "RARE",
         "totalIssued": 2222,
-        "floorPrice": 157,
-        "updatedAt": "2021-12-03T14:01:45.014Z",
+        "floorPrice": 140,
+        "updatedAt": "2021-12-04T10:01:45.009Z",
         "id": "2.19.3"
       },
       {
         "name": "Yucky Charmer",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1888,
-        "floorPrice": 425,
-        "updatedAt": "2021-12-03T14:01:43.139Z",
+        "floorPrice": 350,
+        "updatedAt": "2021-12-04T10:01:42.723Z",
         "id": "2.19.4"
       }
     ],
@@ -2087,8 +2087,8 @@
         "name": "Twist",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2507,
-        "floorPrice": 160,
-        "updatedAt": "2021-12-03T10:02:12.828Z",
+        "floorPrice": 193,
+        "updatedAt": "2021-12-04T10:02:10.935Z",
         "id": "2.31.2"
       }
     ],
@@ -2234,18 +2234,18 @@
     "collectibles": [
       {
         "name": "Day of the Dead: Child",
-        "floorPrice": 99.99,
+        "floorPrice": 115,
         "totalIssued": 7666,
         "rarity": "COMMON",
-        "updatedAt": "2021-12-03T10:02:25.046Z",
+        "updatedAt": "2021-12-04T10:02:24.651Z",
         "id": "3.5.1"
       },
       {
         "name": "Day of the Dead Child with Hair Bow",
-        "floorPrice": 115,
+        "floorPrice": 132,
         "totalIssued": 6666,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-12-03T10:02:27.226Z",
+        "updatedAt": "2021-12-04T10:02:28.117Z",
         "id": "3.5.2"
       },
       {
@@ -2612,10 +2612,10 @@
     "collectibles": [
       {
         "name": "Shut up And Draw",
-        "floorPrice": 439,
+        "floorPrice": 510,
         "totalIssued": 888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-12-03T10:02:49.071Z",
+        "updatedAt": "2021-12-04T10:02:49.723Z",
         "id": "3.16.1"
       }
     ],
@@ -2720,10 +2720,10 @@
     "collectibles": [
       {
         "name": "Creeping DERO",
-        "floorPrice": 625,
+        "floorPrice": 809,
         "totalIssued": 1111,
         "rarity": "RARE",
-        "updatedAt": "2021-12-01T22:03:00.196Z",
+        "updatedAt": "2021-12-04T10:02:59.842Z",
         "id": "3.20.1"
       }
     ],
@@ -3049,34 +3049,34 @@
     "collectibles": [
       {
         "name": "Smack, Crack & Pot",
-        "floorPrice": 65,
+        "floorPrice": 59.9,
         "totalIssued": 4444,
         "rarity": "COMMON",
-        "updatedAt": "2021-12-03T14:03:34.028Z",
+        "updatedAt": "2021-12-04T10:03:33.969Z",
         "id": "3.30.1"
       },
       {
         "name": "Drug ’em Killfrog",
-        "floorPrice": 97.23,
+        "floorPrice": 85.99,
         "totalIssued": 3333,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-12-03T14:03:31.275Z",
+        "updatedAt": "2021-12-04T10:03:31.319Z",
         "id": "3.30.2"
       },
       {
         "name": "Qhrist",
-        "floorPrice": 150,
+        "floorPrice": 130,
         "totalIssued": 2222,
         "rarity": "RARE",
-        "updatedAt": "2021-12-03T14:03:32.070Z",
+        "updatedAt": "2021-12-04T10:03:31.745Z",
         "id": "3.30.3"
       },
       {
         "name": "Tricky the Obese Bunny",
-        "floorPrice": 335,
+        "floorPrice": 350,
         "totalIssued": 1888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "2021-12-03T14:03:34.279Z",
+        "updatedAt": "2021-12-04T10:03:32.877Z",
         "id": "3.30.4"
       }
     ],
@@ -3095,10 +3095,10 @@
     "collectibles": [
       {
         "name": "Tricky the Obese Bunny - Gold",
-        "floorPrice": 5000,
+        "floorPrice": 3750,
         "totalIssued": 666,
         "rarity": "SECRET_RARE",
-        "updatedAt": "2021-12-03T11:03:32.994Z",
+        "updatedAt": "2021-12-04T10:03:34.581Z",
         "id": "3.31.1"
       }
     ],
@@ -3128,7 +3128,6 @@
         "floorPrice": 50,
         "totalIssued": 8888,
         "rarity": "UNCOMMON",
-        "updatedAt": "",
         "id": "3.32.2"
       },
       {
@@ -3136,7 +3135,6 @@
         "floorPrice": 50,
         "totalIssued": 6888,
         "rarity": "RARE",
-        "updatedAt": "",
         "id": "3.32.3"
       },
       {
@@ -3144,7 +3142,6 @@
         "floorPrice": 50,
         "totalIssued": 3888,
         "rarity": "ULTRA_RARE",
-        "updatedAt": "",
         "id": "3.32.4"
       }
     ],
