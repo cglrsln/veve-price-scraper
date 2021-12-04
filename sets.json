@@ -1002,32 +1002,32 @@
         "name": "Batgirl",
         "rarity": "COMMON",
         "totalIssued": 13800,
-        "floorPrice": 53.99,
-        "updatedAt": "2021-12-04T09:59:03.123Z",
+        "floorPrice": 56.5,
+        "updatedAt": "2021-12-04T18:59:05.364Z",
         "id": "2.2.1"
       },
       {
         "name": "Catwoman",
         "rarity": "UNCOMMON",
         "totalIssued": 10800,
-        "floorPrice": 80.5,
-        "updatedAt": "2021-12-04T09:59:03.970Z",
+        "floorPrice": 79,
+        "updatedAt": "2021-12-04T18:59:06.113Z",
         "id": "2.2.2"
       },
       {
         "name": "Mera",
         "rarity": "RARE",
         "totalIssued": 6800,
-        "floorPrice": 114.99,
-        "updatedAt": "2021-12-04T09:59:01.978Z",
+        "floorPrice": 114,
+        "updatedAt": "2021-12-04T18:59:03.415Z",
         "id": "2.2.3"
       },
       {
         "name": "Supergirl",
         "rarity": "ULTRA_RARE",
         "totalIssued": 3800,
-        "floorPrice": 700,
-        "updatedAt": "2021-12-04T09:59:01.176Z",
+        "floorPrice": 705,
+        "updatedAt": "2021-12-04T18:59:03.310Z",
         "id": "2.2.4"
       }
     ],
@@ -3107,7 +3107,7 @@
   },
   {
     "name": "DC Artist Alley - S1",
-    "brand": "DC Artists Alley",
+    "brand": "DC Artist Alley",
     "season": 3,
     "date": "2021-12-04T08:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/dc-artists-alley-series-1-d76b81c464b2",
@@ -3118,10 +3118,10 @@
     "collectibles": [
       {
         "name": "Wonder Woman",
-        "floorPrice": 50,
+        "floorPrice": 210,
         "totalIssued": 9999,
         "rarity": "COMMON",
-        "updatedAt": "",
+        "updatedAt": "2021-12-04T19:03:35.765Z",
         "id": "3.32.1"
       },
       {
@@ -3140,10 +3140,11 @@
       },
       {
         "name": "Hawkgirl",
-        "floorPrice": 50,
+        "floorPrice": 304,
         "totalIssued": 3888,
         "rarity": "ULTRA_RARE",
-        "id": "3.32.4"
+        "id": "3.32.4",
+        "updatedAt": "2021-12-04T19:03:36.756Z"
       }
     ],
     "id": "3.32"
