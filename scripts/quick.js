@@ -24,7 +24,8 @@ function writeSets(sets) {
 function processPrices(prices) {
   const priceMap = prices.map(p => {
     return {
-      name: p.name,
+      name: p.name.trim(),
+      brand: p.brand.name.trim(),
       floorPrice: p.metrics.lowestPrice,
       updatedAt: new Date(p.metrics.updatedAt),
     };
@@ -34,7 +35,7 @@ function processPrices(prices) {
 
   currentSets.forEach(cs => {
     cs.collectibles.forEach(cl => {
-      const updatedPrice = priceMap.find(pm => pm.name.trim() === cl.name);
+      const updatedPrice = priceMap.find(pm => pm.name === cl.name && pm.brand === cs.brand);
       if (updatedPrice) {
         console.log(
           "updating",
