@@ -22,4 +22,7 @@ collectibles.sort(
     Date.parse(a.updatedAt || "01 Jan 1970") -
     Date.parse(b.updatedAt || "01 Jan 1970")
 );
-console.log(collectibles.slice(0, 20));
+
+console.log(collectibles.slice(0, 20).map(c => {
+  return `${c.name} ${c.floorPrice} ${c.updatedAt}`;
+}));
