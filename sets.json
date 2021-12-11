@@ -3174,28 +3174,28 @@
     "collectibles": [
       {
         "name": "Lions United",
-        "floorPrice": 60,
+        "floorPrice": 79,
         "totalIssued": 7888,
         "rarity": "COMMON",
         "id": "3.33.01"
       },
       {
         "name": "Defense Mode",
-        "floorPrice": 60,
+        "floorPrice": 81,
         "totalIssued": 6888,
         "rarity": "UNCOMMON",
         "id": "3.33.02"
       },
       {
         "name": "Atlas Ready",
-        "floorPrice": 60,
+        "floorPrice": 160,
         "totalIssued": 5888,
         "rarity": "RARE",
         "id": "3.33.03"
       },
       {
         "name": "Battle Mode",
-        "floorPrice": 60,
+        "floorPrice": 305,
         "totalIssued": 3888,
         "rarity": "ULTRA_RARE",
         "id": "3.33.04"
