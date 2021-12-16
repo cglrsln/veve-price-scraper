@@ -3292,5 +3292,65 @@
     "id": "3.33",
     "total": 514.89,
     "marketCap": 2702552.3200000003
+  },
+  {
+    "name": "A Very Deadpool Christmas",
+    "brand": "Deadpool",
+    "season": 3,
+    "date": "2021-12-18T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/a-very-deadpool-christmas-535cdeea5bf2",
+    "keywords": [
+      "Marvel"
+    ],
+    "collectibles": [
+      {
+        "name": "Deadpool — Deck the Halls",
+        "floorPrice": 50,
+        "totalIssued": 18666,
+        "rarity": "COMMON",
+        "editionType": "First Appearance",
+        "updatedAt": "2021-12-18T08:00:00-08:00",
+        "id": "3.34.01"
+      },
+      {
+        "name": "Deadpool — Ugly Sweater Party",
+        "floorPrice": 50,
+        "totalIssued": 13666,
+        "rarity": "UNCOMMON",
+        "editionType": "First Appearance",
+        "updatedAt": "2021-12-18T08:00:00-08:00",
+        "id": "3.34.02"
+      },
+      {
+        "name": "Deadpool — Candy Cane Combat",
+        "floorPrice": 50,
+        "totalIssued": 8666,
+        "rarity": "RARE",
+        "editionType": "First Appearance",
+        "updatedAt": "2021-12-18T08:00:00-08:00",
+        "id": "3.34.03"
+      },
+      {
+        "name": "Deadpool — Animated",
+        "floorPrice": 50,
+        "totalIssued": 3666,
+        "rarity": "ULTRA_RARE",
+        "editionType": "First Appearance",
+        "updatedAt": "2021-12-18T08:00:00-08:00",
+        "id": "3.34.04"
+      },
+      {
+        "name": "Deadpool — Ultimate Animated",
+        "floorPrice": 50,
+        "totalIssued": 1666,
+        "rarity": "SECRET_RARE",
+        "editionType": "First Appearance",
+        "updatedAt": "2021-12-18T08:00:00-08:00",
+        "id": "3.34.05"
+      }
+    ],
+    "id": "3.34",
+    "total": 250,
+    "marketCap": 2316500
   }
 ]
