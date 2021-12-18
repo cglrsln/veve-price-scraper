@@ -89,3 +89,6 @@ fs.writeFileSync(
   path.resolve(buildDir, "./current.json"),
   JSON.stringify(sets, null, 2)
 );
+
+//comics
+fs.copyFileSync('comics.json', path.resolve(buildDir, "comics.json"));

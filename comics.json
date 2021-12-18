@@ -638,6 +638,42 @@
         ]
       },
       {
+        "issue": "#57",
+        "published": "1968",
+        "drop": "2021-12-16T08:00:00-08:00",
+        "url": "https://medium.com/veve-collectibles/marvel-digital-comics-avengers-57-3ad2db511c02",
+        "editions": 30000,
+        "variants": [
+          {
+            "name": "Classic Cover",
+            "rarity": "COMMON",
+            "totalIssued": 21000
+          },
+          {
+            "name": "Vintage Variant",
+            "rarity": "UNCOMMON",
+            "totalIssued": 5000
+          },
+          {
+            "name": "Hero Variant",
+            "rarity": "RARE",
+            "exclusiveCover": true,
+            "totalIssued": 2350
+          },
+          {
+            "name": "Vibranium Variant",
+            "rarity": "ULTRA_RARE",
+            "exclusiveCover": true,
+            "totalIssued": 1050
+          },
+          {
+            "name": "True Believer Variant",
+            "rarity": "SECRET_RARE",
+            "totalIssued": 600
+          }
+        ]
+      },
+      {
         "issue": "#47",
         "published": "1967",
         "drop": "2021-12-07T08:00:00-08:00",
