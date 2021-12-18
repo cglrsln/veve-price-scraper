@@ -380,8 +380,8 @@
         "name": "Stellina",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 42.89,
-        "updatedAt": "2021-12-14T15:00:07.775Z",
+        "floorPrice": 47.99,
+        "updatedAt": "2021-12-18T12:00:06.064Z",
         "id": "1.10.04"
       },
       {
@@ -435,8 +435,8 @@
     ],
     "brand": "Unicornos",
     "id": "1.10",
-    "total": 1854.38,
-    "marketCap": 4482620
+    "total": 1859.48,
+    "marketCap": 4510670
   },
   {
     "name": "Ghostbusters I - S1",
@@ -1080,8 +1080,8 @@
         "name": "Cap'n Cornstarch",
         "rarity": "UNCOMMON",
         "totalIssued": 3333,
-        "floorPrice": 92.5,
-        "updatedAt": "2021-12-16T09:00:44.298Z",
+        "floorPrice": 80,
+        "updatedAt": "2021-12-18T12:00:44.533Z",
         "id": "2.03.02"
       },
       {
@@ -1103,8 +1103,8 @@
     ],
     "brand": "Cereal Killers",
     "id": "2.03",
-    "total": 829.44,
-    "marketCap": 1988774.96
+    "total": 816.94,
+    "marketCap": 1947112.46
   },
   {
     "name": "Superman - S1",
@@ -1239,8 +1239,8 @@
         "name": "The Visible Labbit - Neon Edition",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 520,
-        "updatedAt": "2021-12-17T13:01:00.174Z",
+        "floorPrice": 470,
+        "updatedAt": "2021-12-18T12:01:00.206Z",
         "id": "2.07.05"
       },
       {
@@ -1254,8 +1254,8 @@
     ],
     "brand": "Labbit",
     "id": "2.07",
-    "total": 3230.99,
-    "marketCap": 4877089.12
+    "total": 3180.99,
+    "marketCap": 4782689.12
   },
   {
     "name": "Ecto-1",
@@ -1266,8 +1266,8 @@
         "name": "1:6 Ecto-1 Interactive",
         "rarity": "COMMON",
         "totalIssued": 9999,
-        "floorPrice": 61.89,
-        "updatedAt": "2021-12-08T14:00:53.853Z",
+        "floorPrice": 60,
+        "updatedAt": "2021-12-18T12:00:52.202Z",
         "id": "2.08.01"
       },
       {
@@ -1289,8 +1289,8 @@
     ],
     "brand": "Ghostbusters I",
     "id": "2.08",
-    "total": 555.29,
-    "marketCap": 3033707.71
+    "total": 553.4,
+    "marketCap": 3014809.5999999996
   },
   {
     "name": "Hoverboards",
@@ -1424,15 +1424,15 @@
         "name": "The Hunter",
         "rarity": "ULTRA_RARE",
         "totalIssued": 888,
-        "floorPrice": 1199,
-        "updatedAt": "2021-12-17T13:01:11.179Z",
+        "floorPrice": 1099,
+        "updatedAt": "2021-12-18T12:01:11.117Z",
         "id": "2.11.04"
       }
     ],
     "brand": "CHOICES",
     "id": "2.11",
-    "total": 2088,
-    "marketCap": 2410521
+    "total": 1988,
+    "marketCap": 2321721
   },
   {
     "name": "Mondo - S1",
@@ -1505,8 +1505,8 @@
         "name": "Spider-Man – The Amazing Spider-Man",
         "rarity": "COMMON",
         "totalIssued": 32000,
-        "floorPrice": 395,
-        "updatedAt": "2021-12-11T11:01:23.317Z",
+        "floorPrice": 370,
+        "updatedAt": "2021-12-18T12:01:24.106Z",
         "id": "2.14.01"
       },
       {
@@ -1521,8 +1521,8 @@
         "name": "Spider-Man – Jump into Action",
         "rarity": "RARE",
         "totalIssued": 9000,
-        "floorPrice": 450,
-        "updatedAt": "2021-12-14T15:01:21.231Z",
+        "floorPrice": 490,
+        "updatedAt": "2021-12-18T12:01:20.229Z",
         "id": "2.14.03"
       },
       {
@@ -1544,8 +1544,8 @@
     ],
     "brand": "Spider-Man",
     "id": "2.14",
-    "total": 30010,
-    "marketCap": 53443500
+    "total": 30025,
+    "marketCap": 53003500
   },
   {
     "name": "Captain America ",
@@ -1580,8 +1580,8 @@
         "name": "Bucky Barnes",
         "rarity": "RARE",
         "totalIssued": 11888,
-        "floorPrice": 72,
-        "updatedAt": "2021-12-09T12:01:24.059Z",
+        "floorPrice": 69,
+        "updatedAt": "2021-12-18T12:01:24.785Z",
         "id": "2.15.04"
       },
       {
@@ -1595,8 +1595,8 @@
     ],
     "brand": "Marvel Mightys",
     "id": "2.15",
-    "total": 665.99,
-    "marketCap": 6229119.12
+    "total": 662.99,
+    "marketCap": 6193455.12
   },
   {
     "name": "Fantastic Four",
@@ -1798,8 +1798,8 @@
         "name": "Throg – Frog Of Thunder",
         "rarity": "UNCOMMON",
         "totalIssued": 6630,
-        "floorPrice": 48.5,
-        "updatedAt": "2021-12-08T14:01:47.459Z",
+        "floorPrice": 48,
+        "updatedAt": "2021-12-18T12:01:47.163Z",
         "id": "2.20.01"
       },
       {
@@ -1821,8 +1821,8 @@
     ],
     "brand": "Throg",
     "id": "2.20",
-    "total": 423.5,
-    "marketCap": 1273155
+    "total": 423,
+    "marketCap": 1269840
   },
   {
     "name": "NTTD: Series 1",
@@ -2558,16 +2558,16 @@
       },
       {
         "name": "R2-D2",
-        "floorPrice": 2150,
+        "floorPrice": 1999,
         "totalIssued": 8333,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-12-16T09:02:47.267Z",
+        "updatedAt": "2021-12-18T12:02:47.132Z",
         "id": "3.11.02"
       }
     ],
     "id": "3.11",
-    "total": 3149,
-    "marketCap": 30236617
+    "total": 2998,
+    "marketCap": 28978334
   },
   {
     "name": "Walt Disney & Mickey Mouse",
@@ -3149,10 +3149,10 @@
       },
       {
         "name": "Drug ’em Killfrog",
-        "floorPrice": 68.5,
+        "floorPrice": 64.99,
         "totalIssued": 3333,
         "rarity": "UNCOMMON",
-        "updatedAt": "2021-12-13T11:03:32.065Z",
+        "updatedAt": "2021-12-18T12:03:33.581Z",
         "id": "3.30.02"
       },
       {
@@ -3173,8 +3173,8 @@
       }
     ],
     "id": "3.30",
-    "total": 454.48,
-    "marketCap": 1110547.1800000002
+    "total": 450.97,
+    "marketCap": 1098848.35
   },
   {
     "name": "Golden Surprise",
@@ -3282,16 +3282,16 @@
       },
       {
         "name": "Battle Mode",
-        "floorPrice": 279.99,
+        "floorPrice": 245,
         "totalIssued": 3888,
         "rarity": "ULTRA_RARE",
         "id": "3.33.04",
-        "updatedAt": "2021-12-17T13:03:39.201Z"
+        "updatedAt": "2021-12-18T12:03:39.282Z"
       }
     ],
     "id": "3.33",
-    "total": 504.96,
-    "marketCap": 2604184.48
+    "total": 469.96999999999997,
+    "marketCap": 2468143.36
   },
   {
     "name": "A Very Deadpool Christmas",
