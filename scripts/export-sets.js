@@ -26,6 +26,11 @@ exported.flat().forEach(c => {
   console.log(`${c.id}, "${c.name}", ${c.rarity}, ${c.totalIssued}, ${c.floorPrice}`);
 });
 
+
+const totalCount = exported.flat().reduce((current, next) => current + next.totalIssued, 0);
+console.log(totalCount);
+
+
 // sets.sort((a, b) => Date.parse(a.date) - Date.parse(b.date));
 
 // let dropCount, currentSeason;
