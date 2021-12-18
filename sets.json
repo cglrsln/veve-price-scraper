@@ -1811,8 +1811,8 @@
         "name": "Valdo’s Case",
         "rarity": "RARE",
         "totalIssued": 7007,
-        "floorPrice": 67,
-        "updatedAt": "2021-12-06T11:02:07.365Z",
+        "floorPrice": 82.99,
+        "updatedAt": "2021-12-18T22:03:47.071Z",
         "id": "2.21.03"
       },
       {
@@ -3176,35 +3176,35 @@
     "collectibles": [
       {
         "name": "Lions United",
-        "floorPrice": 62.98,
+        "floorPrice": 60,
         "totalIssued": 7888,
         "rarity": "COMMON",
         "id": "3.33.01",
-        "updatedAt": "2021-12-17T13:03:41.316Z"
+        "updatedAt": "2021-12-18T22:03:41.673Z"
       },
       {
         "name": "Defense Mode",
-        "floorPrice": 65,
+        "floorPrice": 64.95,
         "totalIssued": 6888,
         "rarity": "UNCOMMON",
         "id": "3.33.02",
-        "updatedAt": "2021-12-17T13:03:38.112Z"
+        "updatedAt": "2021-12-18T22:03:38.646Z"
       },
       {
         "name": "Atlas Ready",
-        "floorPrice": 96.99,
+        "floorPrice": 96.89,
         "totalIssued": 5888,
         "rarity": "RARE",
         "id": "3.33.03",
-        "updatedAt": "2021-12-18T12:03:40.369Z"
+        "updatedAt": "2021-12-18T22:03:40.227Z"
       },
       {
         "name": "Battle Mode",
-        "floorPrice": 245,
+        "floorPrice": 239,
         "totalIssued": 3888,
         "rarity": "ULTRA_RARE",
         "id": "3.33.04",
-        "updatedAt": "2021-12-18T12:03:39.282Z"
+        "updatedAt": "2021-12-18T22:03:39.359Z"
       }
     ],
     "id": "3.33"
@@ -3267,5 +3267,49 @@
       }
     ],
     "id": "3.34"
+  },
+  {
+    "name": "Snow Globes - S1",
+    "brand": "Snow Globes",
+    "season": 3,
+    "date": "2021-12-20T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/coca-cola-snow-globes-ddc7444b6789",
+    "keywords": [],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Snow Globes — Polar Bear",
+        "floorPrice": 50,
+        "totalIssued": 13888,
+        "rarity": "COMMON",
+        "editionType": "First Edition",
+        "id": "3.35.01"
+      },
+      {
+        "name": "Snow Globe — 4 Coke Bottles",
+        "floorPrice": 50,
+        "totalIssued": 10888,
+        "rarity": "UNCOMMON",
+        "editionType": "First Edition",
+        "id": "3.35.02"
+      },
+      {
+        "name": "Snow Globe — Neon Coca-Cola Sign",
+        "floorPrice": 50,
+        "totalIssued": 7888,
+        "rarity": "RARE",
+        "editionType": "First Edition",
+        "id": "3.35.03"
+      },
+      {
+        "name": "Snow Globe — Coke Bottle",
+        "floorPrice": 50,
+        "totalIssued": 1886,
+        "rarity": "SECRET_RARE",
+        "editionType": "First Edition",
+        "id": "3.35.04"
+      }
+    ],
+    "id": "3.35"
   }
 ]
