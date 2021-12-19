@@ -2298,6 +2298,9 @@
     "season": 3,
     "date": "2021-11-02T00:00:00.000Z",
     "url": "https://medium.com/veve-collectibles/usps-series-1-day-of-the-dead-b5891e0d0baa",
+    "keywords": [
+      "stamp"
+    ],
     "collectibles": [
       {
         "name": "Day of the Dead: Child",
@@ -3354,8 +3357,8 @@
     "marketCap": 8162086
   },
   {
-    "name": "Snow Globes - S1",
-    "brand": "Snow Globes",
+    "name": "Snow Globes",
+    "brand": "CocaCola Christmas",
     "season": 3,
     "date": "2021-12-20T08:00:00-08:00",
     "url": "https://medium.com/veve-collectibles/coca-cola-snow-globes-ddc7444b6789",
@@ -3378,7 +3381,7 @@
         "id": "3.35.02"
       },
       {
-        "name": "Snow Globe — Neon Coca-Cola Sign",
+        "name": "Snow Globe — Neon Sign",
         "floorPrice": 50,
         "totalIssued": 7888,
         "rarity": "RARE",
