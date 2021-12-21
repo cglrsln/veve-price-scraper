@@ -1548,5 +1548,47 @@
         ]
       }
     ]
+  },
+  {
+    "series": "Iron Fist",
+    "publisher": "Marvel",
+    "issues": [
+      {
+        "issue": "#14",
+        "published": "1977",
+        "drop": "2021-12-21T08:00:00-08:00",
+        "url": "https://medium.com/veve-collectibles/marvel-digital-comics-iron-fist-14-386ed0367aa4",
+        "editions": 30000,
+        "variants": [
+          {
+            "name": "Classic Cover",
+            "rarity": "COMMON",
+            "totalIssued": 21000
+          },
+          {
+            "name": "Vintage Variant",
+            "rarity": "UNCOMMON",
+            "totalIssued": 5000
+          },
+          {
+            "name": "Hero Variant",
+            "rarity": "RARE",
+            "exclusiveCover": true,
+            "totalIssued": 2350
+          },
+          {
+            "name": "Vibranium Variant",
+            "rarity": "ULTRA_RARE",
+            "exclusiveCover": true,
+            "totalIssued": 1050
+          },
+          {
+            "name": "True Believer Variant",
+            "rarity": "SECRET_RARE",
+            "totalIssued": 600
+          }
+        ]
+      }
+    ]
   }
 ]
