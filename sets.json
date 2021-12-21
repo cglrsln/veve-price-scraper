@@ -3314,5 +3314,38 @@
       }
     ],
     "id": "3.35"
+  },
+  {
+    "name": "The Mickey Mouse NFT Collection - S1",
+    "brand": "The Mickey Mouse NFT Collection",
+    "season": 3,
+    "date": "2021-12-22T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/the-mickey-mouse-nft-collection-series-1-steamboat-willie-769505e7144d",
+    "keywords": [],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "A Jaunty Jig",
+        "floorPrice": 60,
+        "totalIssued": 18928,
+        "rarity": "COMMON",
+        "id": "3.36.01"
+      },
+      {
+        "name": "A Happy Whistle",
+        "floorPrice": 60,
+        "totalIssued": 13928,
+        "rarity": "UNCOMMON",
+        "id": "3.36.02"
+      },
+      {
+        "name": "All Together, Now!",
+        "floorPrice": 60,
+        "totalIssued": 6928,
+        "rarity": "SECRET_RARE",
+        "id": "3.36.03"
+      }
+    ],
+    "id": "3.36"
   }
 ]
