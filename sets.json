@@ -3415,5 +3415,82 @@
       }
     ],
     "id": "3.38"
+  },
+  {
+    "name": "Holiday Groot",
+    "brand": "Guardians of the Galaxy",
+    "season": 3,
+    "date": "2021-12-24T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/guardians-of-the-galaxy-holiday-groot-502645345b3e",
+    "keywords": [
+      "Marvel"
+    ],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Holiday Groot — Merry Groot-Mas",
+        "floorPrice": 40,
+        "totalIssued": 28888,
+        "rarity": "COMMON",
+        "id": "3.39.01"
+      },
+      {
+        "name": "Holiday Groot — Festive Lights",
+        "floorPrice": 40,
+        "totalIssued": 18888,
+        "rarity": "UNCOMMON",
+        "id": "3.39.02"
+      },
+      {
+        "name": "Holiday Groot — Ultimate Animated",
+        "floorPrice": 40,
+        "totalIssued": 9888,
+        "rarity": "RARE",
+        "id": "3.39.03"
+      }
+    ],
+    "id": "3.39"
+  },
+  {
+    "name": "A Visit From St. Nick - S1",
+    "brand": "A Visit From St. Nick",
+    "season": 3,
+    "date": "2021-12-24T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/usps-a-visit-from-st-nick-bd6375d1159",
+    "keywords": [
+      "stamp"
+    ],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Santa on a Snowy Rooftop",
+        "floorPrice": 6,
+        "totalIssued": 8888,
+        "rarity": "COMMON",
+        "id": "3.40.01"
+      },
+      {
+        "name": "Winking Santa",
+        "floorPrice": 6,
+        "totalIssued": 7777,
+        "rarity": "UNCOMMON",
+        "id": "3.40.02"
+      },
+      {
+        "name": "Santa and His Reindeer",
+        "floorPrice": 6,
+        "totalIssued": 6666,
+        "rarity": "RARE",
+        "id": "3.40.03"
+      },
+      {
+        "name": "Santa Comes Down the Chimney",
+        "floorPrice": 6,
+        "totalIssued": 5555,
+        "rarity": "ULTRA_RARE",
+        "id": "3.40.04"
+      }
+    ],
+    "id": "3.40"
   }
 ]
