@@ -3351,5 +3351,66 @@
       }
     ],
     "id": "3.36"
+  },
+  {
+    "name": "Rogers: The Musical",
+    "brand": "Marvel Studios’ Hawkeye",
+    "season": 3,
+    "date": "2021-12-23T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-studios-hawkeye-rogers-the-musical-poster-6587f92ee69e",
+    "keywords": [],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Rogers: The Musical — Poster",
+        "floorPrice": 60,
+        "totalIssued": 3800,
+        "rarity": "ULTRA_RARE",
+        "id": "3.37.01"
+      }
+    ],
+    "id": "3.37"
+  },
+  {
+    "name": "Labbit - S3",
+    "brand": "Labbit",
+    "season": 3,
+    "date": "2021-12-23T12:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/frank-kozik-labbit-series-3-493e5a81e28c",
+    "keywords": [
+      "Frank Kozik"
+    ],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Elf Labbit",
+        "floorPrice": 25,
+        "totalIssued": 3800,
+        "rarity": "COMMON",
+        "id": "3.38.01"
+      },
+      {
+        "name": "Labbit Ornament",
+        "floorPrice": 40,
+        "totalIssued": 888,
+        "rarity": "COMMON",
+        "id": "3.38.02"
+      },
+      {
+        "name": "Santa Labbit",
+        "floorPrice": 30,
+        "totalIssued": 2888,
+        "rarity": "UNCOMMON",
+        "id": "3.38.03"
+      },
+      {
+        "name": "Snowflake Labbit",
+        "floorPrice": 35,
+        "totalIssued": 1888,
+        "rarity": "RARE",
+        "id": "3.38.04"
+      }
+    ],
+    "id": "3.38"
   }
 ]
