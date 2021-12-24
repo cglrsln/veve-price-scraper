@@ -13,7 +13,7 @@
         "rarity": "COMMON",
         "totalIssued": 48000,
         "id": "C001.1",
-        "floor": "165.00",
+        "floor": 165,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -21,7 +21,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
         "id": "C001.2",
-        "floor": "195.00",
+        "floor": 195,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -29,7 +29,7 @@
         "rarity": "RARE",
         "totalIssued": 3000,
         "id": "C001.3",
-        "floor": "380.00",
+        "floor": 380,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -37,7 +37,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2400,
         "id": "C001.4",
-        "floor": "999.00",
+        "floor": 999,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -45,7 +45,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C001.5",
-        "floor": "28,000.00",
+        "floor": 28000,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -65,7 +65,7 @@
         "rarity": "COMMON",
         "totalIssued": 40000,
         "id": "C002.1",
-        "floor": "25.00",
+        "floor": 25,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -73,7 +73,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C002.2",
-        "floor": "34.00",
+        "floor": 34,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -81,7 +81,7 @@
         "rarity": "RARE",
         "totalIssued": 2500,
         "id": "C002.3",
-        "floor": "79.00",
+        "floor": 79,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -89,7 +89,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2000,
         "id": "C002.4",
-        "floor": "199.00",
+        "floor": 199,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -97,7 +97,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 500,
         "id": "C002.5",
-        "floor": "2,500.00",
+        "floor": 2500,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -117,7 +117,7 @@
         "rarity": "COMMON",
         "totalIssued": 48000,
         "id": "C003.1",
-        "floor": "62.00",
+        "floor": 62,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -125,7 +125,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
         "id": "C003.2",
-        "floor": "70.00",
+        "floor": 70,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -133,7 +133,7 @@
         "rarity": "RARE",
         "totalIssued": 3000,
         "id": "C003.3",
-        "floor": "159.00",
+        "floor": 159,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -141,7 +141,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2400,
         "id": "C003.4",
-        "floor": "360.00",
+        "floor": 360,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -149,7 +149,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C003.5",
-        "floor": "6,900.00",
+        "floor": 6900,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -169,7 +169,7 @@
         "rarity": "COMMON",
         "totalIssued": 40000,
         "id": "C004.1",
-        "floor": "14.00",
+        "floor": 14,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -177,7 +177,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
         "id": "C004.2",
-        "floor": "25.00",
+        "floor": 25,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -185,7 +185,7 @@
         "rarity": "RARE",
         "totalIssued": 3000,
         "id": "C004.3",
-        "floor": "54.00",
+        "floor": 54,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -193,7 +193,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2400,
         "id": "C004.4",
-        "floor": "105.00",
+        "floor": 105,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -201,7 +201,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C004.5",
-        "floor": "1,400.00",
+        "floor": 1400,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -221,7 +221,7 @@
         "rarity": "COMMON",
         "totalIssued": 40000,
         "id": "C005.1",
-        "floor": "11.24",
+        "floor": 11.24,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -229,7 +229,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C005.2",
-        "floor": "39.99",
+        "floor": 39.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -237,7 +237,7 @@
         "rarity": "RARE",
         "totalIssued": 2500,
         "id": "C005.3",
-        "floor": "39.00",
+        "floor": 39,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -245,7 +245,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2000,
         "id": "C005.4",
-        "floor": "88.55",
+        "floor": 88.55,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -253,7 +253,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 500,
         "id": "C005.5",
-        "floor": "825.00",
+        "floor": 825,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -273,7 +273,7 @@
         "rarity": "COMMON",
         "totalIssued": 48000,
         "id": "C006.1",
-        "floor": "9.99",
+        "floor": 9.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -281,7 +281,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
         "id": "C006.2",
-        "floor": "16.98",
+        "floor": 16.98,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -289,7 +289,7 @@
         "rarity": "RARE",
         "totalIssued": 3000,
         "id": "C006.3",
-        "floor": "45.00",
+        "floor": 45,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -297,7 +297,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2400,
         "id": "C006.4",
-        "floor": "94.00",
+        "floor": 94,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -305,7 +305,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C006.5",
-        "floor": "546.45",
+        "floor": 546.45,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -325,7 +325,7 @@
         "rarity": "COMMON",
         "totalIssued": 48000,
         "id": "C007.1",
-        "floor": "77.80",
+        "floor": 77.8,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -333,7 +333,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 6000,
         "id": "C007.2",
-        "floor": "96.99",
+        "floor": 96.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -341,7 +341,7 @@
         "rarity": "RARE",
         "totalIssued": 3000,
         "id": "C007.3",
-        "floor": "214.00",
+        "floor": 214,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -349,7 +349,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2400,
         "id": "C007.4",
-        "floor": "424.00",
+        "floor": 424,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -357,7 +357,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C007.5",
-        "floor": "6,800.00",
+        "floor": 6800,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -377,7 +377,7 @@
         "rarity": "COMMON",
         "totalIssued": 28000,
         "id": "C008.1",
-        "floor": "17.00",
+        "floor": 17,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -385,7 +385,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
         "id": "C008.2",
-        "floor": "30.00",
+        "floor": 30,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -393,7 +393,7 @@
         "rarity": "RARE",
         "totalIssued": 1750,
         "id": "C008.3",
-        "floor": "72.00",
+        "floor": 72,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -401,7 +401,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1295,
         "id": "C008.4",
-        "floor": "120.99",
+        "floor": 120.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -409,7 +409,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 455,
         "id": "C008.5",
-        "floor": "920.00",
+        "floor": 920,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -429,7 +429,7 @@
         "rarity": "COMMON",
         "totalIssued": 28000,
         "id": "C009.1",
-        "floor": "12.00",
+        "floor": 12,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -437,7 +437,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
         "id": "C009.2",
-        "floor": "29.50",
+        "floor": 29.5,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -445,7 +445,7 @@
         "rarity": "RARE",
         "totalIssued": 1750,
         "id": "C009.3",
-        "floor": "55.00",
+        "floor": 55,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -453,7 +453,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1295,
         "id": "C009.4",
-        "floor": "112.00",
+        "floor": 112,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -461,7 +461,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 455,
         "id": "C009.5",
-        "floor": "625.00",
+        "floor": 625,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -481,7 +481,7 @@
         "rarity": "COMMON",
         "totalIssued": 6000,
         "id": "C010.1",
-        "floor": "215.00",
+        "floor": 215,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -489,7 +489,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 2250,
         "id": "C010.2",
-        "floor": "175.00",
+        "floor": 175,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -497,7 +497,7 @@
         "rarity": "RARE",
         "totalIssued": 1000,
         "id": "C010.3",
-        "floor": "335.00",
+        "floor": 335,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -505,7 +505,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 500,
         "id": "C010.4",
-        "floor": "1,300.00",
+        "floor": 1300,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -513,7 +513,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 250,
         "id": "C010.5",
-        "floor": "9,500.00",
+        "floor": 9500,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -533,7 +533,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C011.1",
-        "floor": "19.00",
+        "floor": 19,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -541,7 +541,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C011.2",
-        "floor": "30.00",
+        "floor": 30,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -549,7 +549,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C011.3",
-        "floor": "45.00",
+        "floor": 45,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -557,7 +557,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C011.4",
-        "floor": "170.77",
+        "floor": 170.77,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -565,7 +565,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C011.5",
-        "floor": "1,000.00",
+        "floor": 1000,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -585,7 +585,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C012.1",
-        "floor": "15.85",
+        "floor": 15.85,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -593,7 +593,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C012.2",
-        "floor": "25.25",
+        "floor": 25.25,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -601,7 +601,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C012.3",
-        "floor": "64.99",
+        "floor": 64.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -609,7 +609,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C012.4",
-        "floor": "143.00",
+        "floor": 143,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -617,7 +617,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C012.5",
-        "floor": "489.99",
+        "floor": 489.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -637,7 +637,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C013.1",
-        "floor": "13.99",
+        "floor": 13.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -645,7 +645,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C013.2",
-        "floor": "21.00",
+        "floor": 21,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -653,7 +653,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C013.3",
-        "floor": "40.99",
+        "floor": 40.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -661,7 +661,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C013.4",
-        "floor": "140.00",
+        "floor": 140,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -669,7 +669,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C013.5",
-        "floor": "479.00",
+        "floor": 479,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -689,7 +689,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C014.1",
-        "floor": "24.80",
+        "floor": 24.8,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -697,7 +697,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C014.2",
-        "floor": "28.00",
+        "floor": 28,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -705,7 +705,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C014.3",
-        "floor": "59.99",
+        "floor": 59.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -713,7 +713,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C014.4",
-        "floor": "185.00",
+        "floor": 185,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -721,7 +721,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C014.5",
-        "floor": "869.00",
+        "floor": 869,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -741,7 +741,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C015.1",
-        "floor": "36.00",
+        "floor": 36,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -749,7 +749,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C015.2",
-        "floor": "57.00",
+        "floor": 57,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -757,7 +757,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C015.3",
-        "floor": "90.00",
+        "floor": 90,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -765,7 +765,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C015.4",
-        "floor": "275.00",
+        "floor": 275,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -773,7 +773,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C015.5",
-        "floor": "850.00",
+        "floor": 850,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -793,7 +793,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C016.1",
-        "floor": "15.51",
+        "floor": 15.51,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -801,7 +801,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C016.2",
-        "floor": "19.98",
+        "floor": 19.98,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -809,7 +809,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C016.3",
-        "floor": "55.99",
+        "floor": 55.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -817,7 +817,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C016.4",
-        "floor": "195.00",
+        "floor": 195,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -825,7 +825,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C016.5",
-        "floor": "475.00",
+        "floor": 475,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -845,7 +845,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C017.1",
-        "floor": "49.00",
+        "floor": 49,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -853,7 +853,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C017.2",
-        "floor": "43.99",
+        "floor": 43.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -861,7 +861,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C017.3",
-        "floor": "76.76",
+        "floor": 76.76,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -869,7 +869,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C017.4",
-        "floor": "289.00",
+        "floor": 289,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -877,7 +877,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C017.5",
-        "floor": "1,800.00",
+        "floor": 1800,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -897,7 +897,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C018.1",
-        "floor": "12.50",
+        "floor": 12.5,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -905,7 +905,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C018.2",
-        "floor": "17.00",
+        "floor": 17,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -913,7 +913,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C018.3",
-        "floor": "42.99",
+        "floor": 42.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -921,7 +921,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C018.4",
-        "floor": "180.00",
+        "floor": 180,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -929,7 +929,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C018.5",
-        "floor": "350.00",
+        "floor": 350,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -949,7 +949,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C019.1",
-        "floor": "42.50",
+        "floor": 42.5,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -957,7 +957,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C019.2",
-        "floor": "68.69",
+        "floor": 68.69,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -965,7 +965,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C019.3",
-        "floor": "146.00",
+        "floor": 146,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -973,7 +973,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C019.4",
-        "floor": "300.00",
+        "floor": 300,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -981,7 +981,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C019.5",
-        "floor": "1,600.00",
+        "floor": 1600,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1001,7 +1001,7 @@
         "rarity": "COMMON",
         "totalIssued": 6000,
         "id": "C020.1",
-        "floor": "92.00",
+        "floor": 92,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1009,7 +1009,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 2250,
         "id": "C020.2",
-        "floor": "81.00",
+        "floor": 81,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1017,7 +1017,7 @@
         "rarity": "RARE",
         "totalIssued": 1000,
         "id": "C020.3",
-        "floor": "139.99",
+        "floor": 139.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1025,7 +1025,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 500,
         "id": "C020.4",
-        "floor": "500.00",
+        "floor": 500,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1033,7 +1033,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 250,
         "id": "C020.5",
-        "floor": "2,700.00",
+        "floor": 2700,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1053,7 +1053,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C021.1",
-        "floor": "29.00",
+        "floor": 29,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1061,7 +1061,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C021.2",
-        "floor": "35.99",
+        "floor": 35.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1069,7 +1069,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C021.3",
-        "floor": "64.64",
+        "floor": 64.64,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1077,7 +1077,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C021.4",
-        "floor": "192.00",
+        "floor": 192,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1085,7 +1085,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C021.5",
-        "floor": "847.00",
+        "floor": 847,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1105,7 +1105,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C022.1",
-        "floor": "14.20",
+        "floor": 14.2,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1113,7 +1113,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C022.2",
-        "floor": "21.99",
+        "floor": 21.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1121,7 +1121,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C022.3",
-        "floor": "50.99",
+        "floor": 50.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1129,7 +1129,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C022.4",
-        "floor": "145.00",
+        "floor": 145,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1137,7 +1137,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C022.5",
-        "floor": "400.00",
+        "floor": 400,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1157,7 +1157,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C023.1",
-        "floor": "9.99",
+        "floor": 9.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1165,7 +1165,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C023.2",
-        "floor": "12.74",
+        "floor": 12.74,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1173,7 +1173,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C023.3",
-        "floor": "27.00",
+        "floor": 27,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1181,7 +1181,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C023.4",
-        "floor": "66.00",
+        "floor": 66,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1189,7 +1189,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C023.5",
-        "floor": "249.00",
+        "floor": 249,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1209,7 +1209,7 @@
         "rarity": "COMMON",
         "totalIssued": 20000,
         "id": "C024.1",
-        "floor": "14.99",
+        "floor": 14.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1217,7 +1217,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 2500,
         "id": "C024.2",
-        "floor": "31.50",
+        "floor": 31.5,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1225,7 +1225,7 @@
         "rarity": "RARE",
         "totalIssued": 1250,
         "id": "C024.3",
-        "floor": "52.00",
+        "floor": 52,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1233,7 +1233,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1000,
         "id": "C024.4",
-        "floor": "189.00",
+        "floor": 189,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1241,7 +1241,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 250,
         "id": "C024.5",
-        "floor": "1,500.00",
+        "floor": 1500,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1261,7 +1261,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C025.1",
-        "floor": "9.99",
+        "floor": 9.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1269,7 +1269,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C025.2",
-        "floor": "12.95",
+        "floor": 12.95,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1277,7 +1277,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C025.3",
-        "floor": "28.99",
+        "floor": 28.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1285,7 +1285,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C025.4",
-        "floor": "73.00",
+        "floor": 73,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1293,7 +1293,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C025.5",
-        "floor": "299.00",
+        "floor": 299,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1313,7 +1313,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C026.1",
-        "floor": "12.99",
+        "floor": 12.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1321,7 +1321,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C026.2",
-        "floor": "15.00",
+        "floor": 15,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1329,7 +1329,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C026.3",
-        "floor": "39.99",
+        "floor": 39.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1337,7 +1337,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C026.4",
-        "floor": "127.99",
+        "floor": 127.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1345,7 +1345,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C026.5",
-        "floor": "500.00",
+        "floor": 500,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1365,7 +1365,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C027.1",
-        "floor": "11.00",
+        "floor": 11,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1373,7 +1373,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C027.2",
-        "floor": "14.99",
+        "floor": 14.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1381,7 +1381,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C027.3",
-        "floor": "27.00",
+        "floor": 27,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1389,7 +1389,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C027.4",
-        "floor": "75.00",
+        "floor": 75,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1397,7 +1397,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C027.5",
-        "floor": "309.00",
+        "floor": 309,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1417,7 +1417,7 @@
         "rarity": "COMMON",
         "totalIssued": 49000,
         "id": "C028.1",
-        "floor": "18.50",
+        "floor": 18.5,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1425,7 +1425,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 11550,
         "id": "C028.2",
-        "floor": "17.95",
+        "floor": 17.95,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1433,7 +1433,7 @@
         "rarity": "RARE",
         "totalIssued": 5600,
         "id": "C028.3",
-        "floor": "38.99",
+        "floor": 38.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1441,7 +1441,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2450,
         "id": "C028.4",
-        "floor": "110.00",
+        "floor": 110,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1449,7 +1449,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 1400,
         "id": "C028.5",
-        "floor": "499.00",
+        "floor": 499,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1469,7 +1469,7 @@
         "rarity": "COMMON",
         "totalIssued": 6000,
         "id": "C029.1",
-        "floor": "43.00",
+        "floor": 43,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1477,7 +1477,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 2250,
         "id": "C029.2",
-        "floor": "49.00",
+        "floor": 49,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1485,7 +1485,7 @@
         "rarity": "RARE",
         "totalIssued": 1000,
         "id": "C029.3",
-        "floor": "87.00",
+        "floor": 87,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1493,7 +1493,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 500,
         "id": "C029.4",
-        "floor": "296.00",
+        "floor": 296,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1501,7 +1501,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 250,
         "id": "C029.5",
-        "floor": "3,200.00",
+        "floor": 3200,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1521,7 +1521,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C030.1",
-        "floor": "40.00",
+        "floor": 40,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1529,7 +1529,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C030.2",
-        "floor": "37.98",
+        "floor": 37.98,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1537,7 +1537,7 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C030.3",
-        "floor": "75.00",
+        "floor": 75,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1545,7 +1545,7 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C030.4",
-        "floor": "289.00",
+        "floor": 289,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1553,7 +1553,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C030.5",
-        "floor": "2,400.00",
+        "floor": 2400,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1573,7 +1573,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C031.1",
-        "floor": "12.50",
+        "floor": 12.5,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1581,7 +1581,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C031.2",
-        "floor": "13.98",
+        "floor": 13.98,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1590,7 +1590,7 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C031.3",
-        "floor": "30.00",
+        "floor": 30,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1599,7 +1599,7 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C031.4",
-        "floor": "85.00",
+        "floor": 85,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1607,7 +1607,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C031.5",
-        "floor": "420.00",
+        "floor": 420,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1627,7 +1627,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C032.1",
-        "floor": "9.50",
+        "floor": 9.5,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1635,7 +1635,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C032.2",
-        "floor": "13.00",
+        "floor": 13,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1644,7 +1644,7 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C032.3",
-        "floor": "29.80",
+        "floor": 29.8,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1653,7 +1653,7 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C032.4",
-        "floor": "57.99",
+        "floor": 57.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1661,7 +1661,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C032.5",
-        "floor": "248.00",
+        "floor": 248,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1681,7 +1681,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C033.1",
-        "floor": "9.50",
+        "floor": 9.5,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1690,7 +1690,7 @@
         "exclusiveCover": true,
         "totalIssued": 5000,
         "id": "C033.2",
-        "floor": "15.40",
+        "floor": 15.4,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1699,7 +1699,7 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C033.3",
-        "floor": "35.00",
+        "floor": 35,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1708,7 +1708,7 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C033.4",
-        "floor": "65.00",
+        "floor": 65,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1717,7 +1717,7 @@
         "exclusiveCover": true,
         "totalIssued": 600,
         "id": "C033.5",
-        "floor": "264.99",
+        "floor": 264.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1737,7 +1737,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C034.1",
-        "floor": "11.70",
+        "floor": 11.7,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1745,7 +1745,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C034.2",
-        "floor": "14.00",
+        "floor": 14,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1754,7 +1754,7 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C034.3",
-        "floor": "31.00",
+        "floor": 31,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1763,7 +1763,7 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C034.4",
-        "floor": "84.00",
+        "floor": 84,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1771,7 +1771,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C034.5",
-        "floor": "280.00",
+        "floor": 280,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1791,7 +1791,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C035.1",
-        "floor": "14.95",
+        "floor": 14.95,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1799,7 +1799,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C035.2",
-        "floor": "18.85",
+        "floor": 18.85,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1808,7 +1808,7 @@
         "exclusiveCover": false,
         "totalIssued": 2350,
         "id": "C035.3",
-        "floor": "32.99",
+        "floor": 32.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1817,7 +1817,7 @@
         "exclusiveCover": false,
         "totalIssued": 1050,
         "id": "C035.4",
-        "floor": "75.00",
+        "floor": 75,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1825,7 +1825,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C035.5",
-        "floor": "330.00",
+        "floor": 330,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1845,7 +1845,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C036.1",
-        "floor": "9.99",
+        "floor": 9.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1853,7 +1853,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C036.2",
-        "floor": "12.00",
+        "floor": 12,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1862,7 +1862,7 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C036.3",
-        "floor": "30.00",
+        "floor": 30,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1871,7 +1871,7 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C036.4",
-        "floor": "77.77",
+        "floor": 77.77,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1879,7 +1879,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C036.5",
-        "floor": "320.00",
+        "floor": 320,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1899,7 +1899,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C037.1",
-        "floor": "39.00",
+        "floor": 39,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1907,7 +1907,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C037.2",
-        "floor": "34.60",
+        "floor": 34.6,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1916,7 +1916,7 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C037.3",
-        "floor": "49.68",
+        "floor": 49.68,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1925,7 +1925,7 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C037.4",
-        "floor": "169.99",
+        "floor": 169.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1933,7 +1933,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C037.5",
-        "floor": "1,100.00",
+        "floor": 1100,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -1953,7 +1953,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C038.1",
-        "floor": "9.49",
+        "floor": 9.49,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1961,7 +1961,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C038.2",
-        "floor": "12.45",
+        "floor": 12.45,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1970,7 +1970,7 @@
         "exclusiveCover": false,
         "totalIssued": 2350,
         "id": "C038.3",
-        "floor": "24.00",
+        "floor": 24,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1979,7 +1979,7 @@
         "exclusiveCover": false,
         "totalIssued": 1050,
         "id": "C038.4",
-        "floor": "70.00",
+        "floor": 70,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -1987,7 +1987,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C038.5",
-        "floor": "274.99",
+        "floor": 274.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -2007,7 +2007,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C039.1",
-        "floor": "10.00",
+        "floor": 10,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2015,7 +2015,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C039.2",
-        "floor": "13.96",
+        "floor": 13.96,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2024,7 +2024,7 @@
         "exclusiveCover": false,
         "totalIssued": 2350,
         "id": "C039.3",
-        "floor": "29.00",
+        "floor": 29,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2033,7 +2033,7 @@
         "exclusiveCover": false,
         "totalIssued": 1050,
         "id": "C039.4",
-        "floor": "99.00",
+        "floor": 99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2041,7 +2041,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C039.5",
-        "floor": "247.00",
+        "floor": 247,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -2061,7 +2061,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C040.1",
-        "floor": "15.88",
+        "floor": 15.88,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2069,7 +2069,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C040.2",
-        "floor": "17.99",
+        "floor": 17.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2078,7 +2078,7 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C040.3",
-        "floor": "34.00",
+        "floor": 34,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2087,7 +2087,7 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C040.4",
-        "floor": "90.00",
+        "floor": 90,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2095,7 +2095,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C040.5",
-        "floor": "499.00",
+        "floor": 499,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
@@ -2115,7 +2115,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C041.1",
-        "floor": "9.99",
+        "floor": 9.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2123,7 +2123,7 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C041.2",
-        "floor": "12.00",
+        "floor": 12,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2132,7 +2132,7 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C041.3",
-        "floor": "27.99",
+        "floor": 27.99,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2141,7 +2141,7 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C041.4",
-        "floor": "72.00",
+        "floor": 72,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       },
       {
@@ -2149,7 +2149,7 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C041.5",
-        "floor": "324.00",
+        "floor": 324,
         "updatedAt": "2021-12-23T10:00:00-05:00"
       }
     ],
