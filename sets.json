@@ -348,56 +348,56 @@
         "name": "Dolce",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 41,
-        "updatedAt": "2021-12-24T09:00:05.661Z",
+        "floorPrice": 40,
+        "updatedAt": "2021-12-24T15:00:05.264Z",
         "id": "1.10.01"
       },
       {
         "name": "Mooka",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 41,
-        "updatedAt": "2021-12-24T09:00:01.125Z",
+        "floorPrice": 39,
+        "updatedAt": "2021-12-24T15:00:01.626Z",
         "id": "1.10.02"
       },
       {
         "name": "Prima Donna",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 78,
-        "updatedAt": "2021-12-24T09:00:03.738Z",
+        "floorPrice": 76,
+        "updatedAt": "2021-12-24T15:00:02.440Z",
         "id": "1.10.03"
       },
       {
         "name": "Stellina",
         "rarity": "COMMON",
         "totalIssued": 5500,
-        "floorPrice": 42,
-        "updatedAt": "2021-12-24T09:00:06.201Z",
+        "floorPrice": 40.99,
+        "updatedAt": "2021-12-24T15:00:06.569Z",
         "id": "1.10.04"
       },
       {
         "name": "Fumo",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 73,
-        "updatedAt": "2021-12-24T09:00:10.776Z",
+        "floorPrice": 72.99,
+        "updatedAt": "2021-12-24T15:00:09.390Z",
         "id": "1.10.05"
       },
       {
         "name": "Peperino",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 58,
-        "updatedAt": "2021-12-24T09:00:10.638Z",
+        "floorPrice": 63,
+        "updatedAt": "2021-12-24T15:00:10.640Z",
         "id": "1.10.06"
       },
       {
         "name": "Pogo",
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
-        "floorPrice": 50,
-        "updatedAt": "2021-12-24T09:00:04.525Z",
+        "floorPrice": 49,
+        "updatedAt": "2021-12-24T15:00:05.070Z",
         "id": "1.10.07"
       },
       {
@@ -405,23 +405,23 @@
         "rarity": "RARE",
         "totalIssued": 2500,
         "floorPrice": 120,
-        "updatedAt": "2021-12-24T09:00:08.573Z",
+        "updatedAt": "2021-12-24T15:00:07.682Z",
         "id": "1.10.08"
       },
       {
         "name": "Metallo",
         "rarity": "RARE",
         "totalIssued": 2500,
-        "floorPrice": 205,
-        "updatedAt": "2021-12-24T09:00:09.093Z",
+        "floorPrice": 215,
+        "updatedAt": "2021-12-24T15:00:08.751Z",
         "id": "1.10.09"
       },
       {
         "name": "Ritmo",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1500,
-        "floorPrice": 990,
-        "updatedAt": "2021-12-24T09:00:05.027Z",
+        "floorPrice": 999.99,
+        "updatedAt": "2021-12-24T15:00:03.922Z",
         "id": "1.10.10"
       }
     ],
@@ -1455,8 +1455,8 @@
         "name": "Lucky",
         "rarity": "SECRET_RARE",
         "totalIssued": 999,
-        "floorPrice": 1795,
-        "updatedAt": "2021-12-22T11:01:18.574Z",
+        "floorPrice": 1699.99,
+        "updatedAt": "2021-12-24T14:01:18.101Z",
         "id": "2.13.01"
       }
     ],
@@ -1531,8 +1531,8 @@
         "name": "Steve Rogers",
         "rarity": "COMMON",
         "totalIssued": 28888,
-        "floorPrice": 44,
-        "updatedAt": "2021-12-24T09:01:25.462Z",
+        "floorPrice": 48,
+        "updatedAt": "2021-12-24T14:01:25.296Z",
         "id": "2.15.02"
       },
       {
@@ -1867,48 +1867,48 @@
         "name": "Labbicorn",
         "rarity": "COMMON",
         "totalIssued": 3888,
-        "floorPrice": 345,
-        "updatedAt": "2021-12-24T09:01:52.645Z",
+        "floorPrice": 325,
+        "updatedAt": "2021-12-24T15:01:52.372Z",
         "id": "2.23.01"
       },
       {
         "name": "Corpsman",
         "rarity": "UNCOMMON",
         "totalIssued": 2888,
-        "floorPrice": 113.99,
-        "updatedAt": "2021-12-24T09:01:54.339Z",
+        "floorPrice": 113,
+        "updatedAt": "2021-12-24T15:01:53.150Z",
         "id": "2.23.02"
       },
       {
         "name": "Hooverville Labbit - Sunny Side of the Street",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 167,
-        "updatedAt": "2021-12-24T09:01:55.062Z",
+        "floorPrice": 166.5,
+        "updatedAt": "2021-12-24T15:01:55.430Z",
         "id": "2.23.03"
       },
       {
         "name": "Redrum",
         "rarity": "RARE",
         "totalIssued": 1888,
-        "floorPrice": 205.13,
-        "updatedAt": "2021-12-24T09:01:54.215Z",
+        "floorPrice": 190,
+        "updatedAt": "2021-12-24T15:01:54.453Z",
         "id": "2.23.04"
       },
       {
         "name": "White Backstab",
         "rarity": "ULTRA_RARE",
         "totalIssued": 888,
-        "floorPrice": 1575.99,
-        "updatedAt": "2021-12-24T09:01:50.144Z",
+        "floorPrice": 1350,
+        "updatedAt": "2021-12-24T15:01:50.369Z",
         "id": "2.23.05"
       },
       {
         "name": "Hooverville Labbit - Rubberleg Colorway",
         "rarity": "SECRET_RARE",
         "totalIssued": 3333,
-        "floorPrice": 498.5,
-        "updatedAt": "2021-12-24T09:01:51.664Z",
+        "floorPrice": 495,
+        "updatedAt": "2021-12-24T15:01:51.219Z",
         "id": "2.23.06"
       }
     ],
@@ -3226,47 +3226,47 @@
     "collectibles": [
       {
         "name": "Deadpool – Deck The Halls",
-        "floorPrice": 91.22,
+        "floorPrice": 88,
         "totalIssued": 18666,
         "rarity": "COMMON",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T09:03:44.816Z",
+        "updatedAt": "2021-12-24T15:03:43.405Z",
         "id": "3.34.01"
       },
       {
         "name": "Deadpool – Ugly Sweater Party",
-        "floorPrice": 63.99,
+        "floorPrice": 60,
         "totalIssued": 13666,
         "rarity": "UNCOMMON",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T09:03:44.462Z",
+        "updatedAt": "2021-12-24T15:03:44.656Z",
         "id": "3.34.02"
       },
       {
         "name": "Deadpool – Candy Cane Combat",
-        "floorPrice": 83,
+        "floorPrice": 83.99,
         "totalIssued": 8666,
         "rarity": "RARE",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T09:03:47.078Z",
+        "updatedAt": "2021-12-24T15:03:48.809Z",
         "id": "3.34.03"
       },
       {
         "name": "Deadpool – Animated",
-        "floorPrice": 285,
+        "floorPrice": 287,
         "totalIssued": 3666,
         "rarity": "ULTRA_RARE",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T09:03:43.853Z",
+        "updatedAt": "2021-12-24T15:03:45.828Z",
         "id": "3.34.04"
       },
       {
         "name": "Deadpool – Ultimate Animated",
-        "floorPrice": 1400,
+        "floorPrice": 1445,
         "totalIssued": 1666,
         "rarity": "SECRET_RARE",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T09:03:46.281Z",
+        "updatedAt": "2021-12-24T15:03:45.473Z",
         "id": "3.34.05"
       }
     ],
@@ -3285,39 +3285,39 @@
     "collectibles": [
       {
         "name": "Snow Globe - Polar Bear",
-        "floorPrice": 164,
+        "floorPrice": 165,
         "totalIssued": 13888,
         "rarity": "COMMON",
         "editionType": "First Edition",
         "id": "3.35.01",
-        "updatedAt": "2021-12-21T10:03:51.778Z"
+        "updatedAt": "2021-12-24T15:03:51.427Z"
       },
       {
         "name": "Snow Globe - 4 Coke Bottles",
-        "floorPrice": 66,
+        "floorPrice": 82,
         "totalIssued": 10888,
         "rarity": "UNCOMMON",
         "editionType": "First Edition",
         "id": "3.35.02",
-        "updatedAt": "2021-12-22T11:03:47.481Z"
+        "updatedAt": "2021-12-24T15:03:58.464Z"
       },
       {
         "name": "Snow Globe - Neon Sign",
-        "floorPrice": 149,
+        "floorPrice": 169,
         "totalIssued": 7888,
         "rarity": "RARE",
         "editionType": "First Edition",
         "id": "3.35.03",
-        "updatedAt": "2021-12-22T11:03:48.905Z"
+        "updatedAt": "2021-12-24T15:04:01.778Z"
       },
       {
         "name": "Snow Globe - Coke Bottle",
-        "floorPrice": 1440,
+        "floorPrice": 1488,
         "totalIssued": 1886,
         "rarity": "SECRET_RARE",
         "editionType": "First Edition",
         "id": "3.35.04",
-        "updatedAt": "2021-12-23T12:03:48.229Z"
+        "updatedAt": "2021-12-24T15:03:49.233Z"
       }
     ],
     "id": "3.35"
@@ -3368,11 +3368,12 @@
     "slugs": [],
     "collectibles": [
       {
-        "name": "Rogers: The Musical — Poster",
-        "floorPrice": 60,
+        "name": "Rogers: The Musical – Poster",
+        "floorPrice": 160,
         "totalIssued": 3800,
         "rarity": "ULTRA_RARE",
-        "id": "3.37.01"
+        "id": "3.37.01",
+        "updatedAt": "2021-12-24T14:03:59.312Z"
       }
     ],
     "id": "3.37"
@@ -3391,35 +3392,35 @@
     "collectibles": [
       {
         "name": "Elf Labbit",
-        "floorPrice": 53,
+        "floorPrice": 55,
         "totalIssued": 3800,
         "rarity": "COMMON",
         "id": "3.38.01",
-        "updatedAt": "2021-12-24T09:03:55.383Z"
+        "updatedAt": "2021-12-24T15:03:55.224Z"
       },
       {
         "name": "Labbit Ornament",
-        "floorPrice": 909,
+        "floorPrice": 810,
         "totalIssued": 888,
         "rarity": "COMMON",
         "id": "3.38.02",
-        "updatedAt": "2021-12-24T09:03:57.155Z"
+        "updatedAt": "2021-12-24T15:03:57.658Z"
       },
       {
         "name": "Santa Labbit",
-        "floorPrice": 65.95,
+        "floorPrice": 69,
         "totalIssued": 2888,
         "rarity": "UNCOMMON",
         "id": "3.38.03",
-        "updatedAt": "2021-12-24T09:03:58.213Z"
+        "updatedAt": "2021-12-24T15:03:58.272Z"
       },
       {
         "name": "Snowflake Labbit",
-        "floorPrice": 134,
+        "floorPrice": 120,
         "totalIssued": 1888,
         "rarity": "RARE",
         "id": "3.38.04",
-        "updatedAt": "2021-12-24T09:03:57.968Z"
+        "updatedAt": "2021-12-24T15:03:56.248Z"
       }
     ],
     "id": "3.38"
