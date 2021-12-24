@@ -1,0 +1,2158 @@
+[
+  {
+    "series": "Marvel Comics",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1939",
+    "drop": "2021-08-19T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-6d4a77713ea8",
+    "editions": 60000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 48000,
+        "id": "C001.1",
+        "floor": "165.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "id": "C001.2",
+        "floor": "195.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 3000,
+        "id": "C001.3",
+        "floor": "380.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2400,
+        "id": "C001.4",
+        "floor": "999.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C001.5",
+        "floor": "28,000.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C001"
+  },
+  {
+    "series": "Journey Into Mystery",
+    "publisher": "Marvel",
+    "issue": "#85",
+    "published": "1952",
+    "drop": "2021-08-20T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-6d4a77713ea8",
+    "editions": 50000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 40000,
+        "id": "C002.1",
+        "floor": "25.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C002.2",
+        "floor": "34.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2500,
+        "id": "C002.3",
+        "floor": "79.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2000,
+        "id": "C002.4",
+        "floor": "199.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 500,
+        "id": "C002.5",
+        "floor": "2,500.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C002"
+  },
+  {
+    "series": "Fantastic Four",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1961",
+    "drop": "2021-08-21T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-6d4a77713ea8",
+    "editions": 60000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 48000,
+        "id": "C003.1",
+        "floor": "62.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "id": "C003.2",
+        "floor": "70.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 3000,
+        "id": "C003.3",
+        "floor": "159.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2400,
+        "id": "C003.4",
+        "floor": "360.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C003.5",
+        "floor": "6,900.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C003"
+  },
+  {
+    "series": "New Mutants",
+    "publisher": "Marvel",
+    "issue": "#98",
+    "published": "1991",
+    "drop": "2021-08-24T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-2-adbffff37e58",
+    "editions": 60000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 40000,
+        "id": "C004.1",
+        "floor": "14.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "id": "C004.2",
+        "floor": "25.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 3000,
+        "id": "C004.3",
+        "floor": "54.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2400,
+        "id": "C004.4",
+        "floor": "105.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C004.5",
+        "floor": "1,400.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C004"
+  },
+  {
+    "series": "House of X",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "2019",
+    "drop": "2021-08-25T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-2-adbffff37e58",
+    "editions": 50000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 40000,
+        "id": "C005.1",
+        "floor": "11.24",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C005.2",
+        "floor": "39.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2500,
+        "id": "C005.3",
+        "floor": "39.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2000,
+        "id": "C005.4",
+        "floor": "88.55",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 500,
+        "id": "C005.5",
+        "floor": "825.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C005"
+  },
+  {
+    "series": "Marvels",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1994",
+    "drop": "2021-08-26T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-2-adbffff37e58",
+    "editions": 60000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 48000,
+        "id": "C006.1",
+        "floor": "9.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "id": "C006.2",
+        "floor": "16.98",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 3000,
+        "id": "C006.3",
+        "floor": "45.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2400,
+        "id": "C006.4",
+        "floor": "94.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C006.5",
+        "floor": "546.45",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C006"
+  },
+  {
+    "series": "Amazing Spider-Man",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1963",
+    "drop": "2021-08-31T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-3-amazing-spider-man-1-e2cfb3a9589",
+    "editions": 60000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 48000,
+        "id": "C007.1",
+        "floor": "77.80",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 6000,
+        "id": "C007.2",
+        "floor": "96.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 3000,
+        "id": "C007.3",
+        "floor": "214.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2400,
+        "id": "C007.4",
+        "floor": "424.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C007.5",
+        "floor": "6,800.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C007"
+  },
+  {
+    "series": "What If?",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1977",
+    "drop": "2021-09-07T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-4-what-if-d81a9742939e",
+    "editions": 35000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 28000,
+        "id": "C008.1",
+        "floor": "17.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 3500,
+        "id": "C008.2",
+        "floor": "30.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 1750,
+        "id": "C008.3",
+        "floor": "72.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1295,
+        "id": "C008.4",
+        "floor": "120.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 455,
+        "id": "C008.5",
+        "floor": "920.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C008"
+  },
+  {
+    "series": "Incredible Hulk: Future Imperfect",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1992",
+    "drop": "2021-09-09T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-5-hulk-future-imperfect-97b4d8b20be4",
+    "editions": 35000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 28000,
+        "id": "C009.1",
+        "floor": "12.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 3500,
+        "id": "C009.2",
+        "floor": "29.50",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 1750,
+        "id": "C009.3",
+        "floor": "55.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1295,
+        "id": "C009.4",
+        "floor": "112.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 455,
+        "id": "C009.5",
+        "floor": "625.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C009"
+  },
+  {
+    "series": "Avengers",
+    "publisher": "Marvel",
+    "issue": "#8",
+    "published": "1964",
+    "drop": "2021-09-14T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-avengers-8-37da7a8b13e0",
+    "editions": 10000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 6000,
+        "id": "C010.1",
+        "floor": "215.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 2250,
+        "id": "C010.2",
+        "floor": "175.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 1000,
+        "id": "C010.3",
+        "floor": "335.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 500,
+        "id": "C010.4",
+        "floor": "1,300.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 250,
+        "id": "C010.5",
+        "floor": "9,500.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C010"
+  },
+  {
+    "series": "Tales of Suspense",
+    "publisher": "Marvel",
+    "issue": "#52",
+    "published": "1964",
+    "drop": "2021-09-16T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-tales-of-suspense-52-17c4fc32586e",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C011.1",
+        "floor": "19.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C011.2",
+        "floor": "30.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C011.3",
+        "floor": "45.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C011.4",
+        "floor": "170.77",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C011.5",
+        "floor": "1,000.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C011"
+  },
+  {
+    "series": "Immortal Hulk",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "2018",
+    "drop": "2021-09-21T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-immortal-hulk-1-3c183bd8972c",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C012.1",
+        "floor": "15.85",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C012.2",
+        "floor": "25.25",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C012.3",
+        "floor": "64.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C012.4",
+        "floor": "143.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C012.5",
+        "floor": "489.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C012"
+  },
+  {
+    "series": "All New Captain America",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "2014",
+    "drop": "2021-09-23T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-all-new-captain-america-1-7c52fd7d99ed",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C013.1",
+        "floor": "13.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C013.2",
+        "floor": "21.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C013.3",
+        "floor": "40.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C013.4",
+        "floor": "140.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C013.5",
+        "floor": "479.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C013"
+  },
+  {
+    "series": "Uncanny X-Men",
+    "publisher": "Marvel",
+    "issue": "#4",
+    "published": "1964",
+    "drop": "2021-09-28T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-uncanny-x-men-4-17857ef64a55",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C014.1",
+        "floor": "24.80",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C014.2",
+        "floor": "28.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C014.3",
+        "floor": "59.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C014.4",
+        "floor": "185.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C014.5",
+        "floor": "869.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C014"
+  },
+  {
+    "series": "Amazing Spider-Man",
+    "publisher": "Marvel",
+    "issue": "#361",
+    "published": "1992",
+    "drop": "2021-09-30T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-amazing-spider-man-361-9f40865f050c",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C015.1",
+        "floor": "36.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C015.2",
+        "floor": "57.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C015.3",
+        "floor": "90.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C015.4",
+        "floor": "275.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C015.5",
+        "floor": "850.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C015"
+  },
+  {
+    "series": "Fantastic Four",
+    "publisher": "Marvel",
+    "issue": "#13",
+    "published": "1963",
+    "drop": "2021-10-05T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-fantastic-four-13-34bcd891861d",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C016.1",
+        "floor": "15.51",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C016.2",
+        "floor": "19.98",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C016.3",
+        "floor": "55.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C016.4",
+        "floor": "195.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C016.5",
+        "floor": "475.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C016"
+  },
+  {
+    "series": "Daredevil",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1964",
+    "drop": "2021-10-08T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-daredevil-1-bcb77a762e3c",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C017.1",
+        "floor": "49.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C017.2",
+        "floor": "43.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C017.3",
+        "floor": "76.76",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C017.4",
+        "floor": "289.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C017.5",
+        "floor": "1,800.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C017"
+  },
+  {
+    "series": "Thanos",
+    "publisher": "Marvel",
+    "issue": "#13",
+    "published": "2017",
+    "drop": "2021-10-10T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-thanos-13-c34fc20067d0",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C018.1",
+        "floor": "12.50",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C018.2",
+        "floor": "17.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C018.3",
+        "floor": "42.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C018.4",
+        "floor": "180.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C018.5",
+        "floor": "350.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C018"
+  },
+  {
+    "series": "Ultimate Fallout",
+    "publisher": "Marvel",
+    "issue": "#4",
+    "published": "2011",
+    "drop": "2021-10-12T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-ultimate-fallout-4-ffcb194667f8",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C019.1",
+        "floor": "42.50",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C019.2",
+        "floor": "68.69",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C019.3",
+        "floor": "146.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C019.4",
+        "floor": "300.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C019.5",
+        "floor": "1,600.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C019"
+  },
+  {
+    "series": "Thor",
+    "publisher": "Marvel",
+    "issue": "#337",
+    "published": "1983",
+    "drop": "2021-10-14T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-thor-337-ed0991714c62",
+    "editions": 10000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 6000,
+        "id": "C020.1",
+        "floor": "92.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 2250,
+        "id": "C020.2",
+        "floor": "81.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 1000,
+        "id": "C020.3",
+        "floor": "139.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 500,
+        "id": "C020.4",
+        "floor": "500.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 250,
+        "id": "C020.5",
+        "floor": "2,700.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C020"
+  },
+  {
+    "series": "Amazing Spider-Man",
+    "publisher": "Marvel",
+    "issue": "#50",
+    "published": "1967",
+    "drop": "2021-10-19T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-amazing-spider-man-50-8fadd4f47437",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C021.1",
+        "floor": "29.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C021.2",
+        "floor": "35.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C021.3",
+        "floor": "64.64",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C021.4",
+        "floor": "192.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C021.5",
+        "floor": "847.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C021"
+  },
+  {
+    "series": "Web of Spider-Man",
+    "publisher": "Marvel",
+    "issue": "#118",
+    "published": "1994",
+    "drop": "2021-10-21T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-web-of-spider-man-118-e935ed2eaf34",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C022.1",
+        "floor": "14.20",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C022.2",
+        "floor": "21.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C022.3",
+        "floor": "50.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C022.4",
+        "floor": "145.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C022.5",
+        "floor": "400.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C022"
+  },
+  {
+    "series": "Ultimate Fantastic Four",
+    "publisher": "Marvel",
+    "issue": "#21",
+    "published": "2005",
+    "drop": "2021-10-26T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-ultimate-fantastic-four-21-3041d7e5fe82",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C023.1",
+        "floor": "9.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C023.2",
+        "floor": "12.74",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C023.3",
+        "floor": "27.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C023.4",
+        "floor": "66.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C023.5",
+        "floor": "249.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C023"
+  },
+  {
+    "series": "Powers of X",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "2005",
+    "drop": "2021-10-28T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-powers-of-x-1-556560c57c00",
+    "editions": 25000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 20000,
+        "id": "C024.1",
+        "floor": "14.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 2500,
+        "id": "C024.2",
+        "floor": "31.50",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 1250,
+        "id": "C024.3",
+        "floor": "52.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1000,
+        "id": "C024.4",
+        "floor": "189.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 250,
+        "id": "C024.5",
+        "floor": "1,500.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C024"
+  },
+  {
+    "series": "Ultimates",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "2002",
+    "drop": "2021-11-02T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-ultimates-1-c4986654675f",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C025.1",
+        "floor": "9.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C025.2",
+        "floor": "12.95",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C025.3",
+        "floor": "28.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C025.4",
+        "floor": "73.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C025.5",
+        "floor": "299.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C025"
+  },
+  {
+    "series": "Eternals",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1976",
+    "drop": "2021-11-04T00:00:00.000Z",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-eternals-1-6060aca04abb",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C026.1",
+        "floor": "12.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C026.2",
+        "floor": "15.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C026.3",
+        "floor": "39.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C026.4",
+        "floor": "127.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C026.5",
+        "floor": "500.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C026"
+  },
+  {
+    "series": "Avengers",
+    "publisher": "Marvel",
+    "issue": "#80",
+    "published": "1970",
+    "drop": "2021-11-13T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-avengers-80-522374f2e880",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C027.1",
+        "floor": "11.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C027.2",
+        "floor": "14.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C027.3",
+        "floor": "27.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C027.4",
+        "floor": "75.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C027.5",
+        "floor": "309.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C027"
+  },
+  {
+    "series": "Amazing Spider-Man",
+    "publisher": "Marvel",
+    "issue": "#14",
+    "published": "1964",
+    "drop": "2021-11-16T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-amazing-spider-man-14-5d63e5a4ffbc",
+    "editions": 70000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 49000,
+        "id": "C028.1",
+        "floor": "18.50",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 11550,
+        "id": "C028.2",
+        "floor": "17.95",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 5600,
+        "id": "C028.3",
+        "floor": "38.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 2450,
+        "id": "C028.4",
+        "floor": "110.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 1400,
+        "id": "C028.5",
+        "floor": "499.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C028"
+  },
+  {
+    "series": "Hit-Monkey",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "2010",
+    "drop": "2021-11-17T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-hit-monkey-1-213f647de5ba",
+    "editions": 10000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 6000,
+        "id": "C029.1",
+        "floor": "43.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 2250,
+        "id": "C029.2",
+        "floor": "49.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 1000,
+        "id": "C029.3",
+        "floor": "87.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 500,
+        "id": "C029.4",
+        "floor": "296.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 250,
+        "id": "C029.5",
+        "floor": "3,200.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C029"
+  },
+  {
+    "series": "Fantastic Four",
+    "publisher": "Marvel",
+    "issue": "#5",
+    "published": "1962",
+    "drop": "2021-11-19T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-fantastic-four-5-86bb46eb71af",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C030.1",
+        "floor": "40.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C030.2",
+        "floor": "37.98",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "totalIssued": 2350,
+        "id": "C030.3",
+        "floor": "75.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "totalIssued": 1050,
+        "id": "C030.4",
+        "floor": "289.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C030.5",
+        "floor": "2,400.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C030"
+  },
+  {
+    "series": "Tales of Suspense",
+    "publisher": "Marvel",
+    "issue": "#57",
+    "published": "1964",
+    "drop": "2021-11-23T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-tales-of-suspense-57-2a8b77f1f74e",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C031.1",
+        "floor": "12.50",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C031.2",
+        "floor": "13.98",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "id": "C031.3",
+        "floor": "30.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "id": "C031.4",
+        "floor": "85.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C031.5",
+        "floor": "420.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C031"
+  },
+  {
+    "series": "Young Avengers",
+    "publisher": "Marvel",
+    "issue": "#12",
+    "published": "2006",
+    "drop": "2021-11-24T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-young-avengers-12-8ccfce67419",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C032.1",
+        "floor": "9.50",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C032.2",
+        "floor": "13.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "id": "C032.3",
+        "floor": "29.80",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "id": "C032.4",
+        "floor": "57.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C032.5",
+        "floor": "248.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C032"
+  },
+  {
+    "series": "Uncanny X-Men",
+    "publisher": "Marvel",
+    "issue": "#308",
+    "published": "1994",
+    "drop": "2021-11-25T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-uncanny-x-men-308-843c022d66c2",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C033.1",
+        "floor": "9.50",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "exclusiveCover": true,
+        "totalIssued": 5000,
+        "id": "C033.2",
+        "floor": "15.40",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "id": "C033.3",
+        "floor": "35.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "id": "C033.4",
+        "floor": "65.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 600,
+        "id": "C033.5",
+        "floor": "264.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C033"
+  },
+  {
+    "series": "Uncanny X-Men",
+    "publisher": "Marvel",
+    "issue": "#129",
+    "published": "1980",
+    "drop": "2021-11-30T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-uncanny-x-men-129-77e617e78c95",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C034.1",
+        "floor": "11.70",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C034.2",
+        "floor": "14.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "id": "C034.3",
+        "floor": "31.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "id": "C034.4",
+        "floor": "84.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C034.5",
+        "floor": "280.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C034"
+  },
+  {
+    "series": "Ultimate Spider-Man",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "2000",
+    "drop": "2021-12-02T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-ultimate-spider-man-1-e7851e7a3b14",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C035.1",
+        "floor": "14.95",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C035.2",
+        "floor": "18.85",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": false,
+        "totalIssued": 2350,
+        "id": "C035.3",
+        "floor": "32.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": false,
+        "totalIssued": 1050,
+        "id": "C035.4",
+        "floor": "75.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C035.5",
+        "floor": "330.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C035"
+  },
+  {
+    "series": "Avengers",
+    "publisher": "Marvel",
+    "issue": "#47",
+    "published": "1967",
+    "drop": "2021-12-07T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-avengers-47-ed1c521440d8",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C036.1",
+        "floor": "9.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C036.2",
+        "floor": "12.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "id": "C036.3",
+        "floor": "30.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "id": "C036.4",
+        "floor": "77.77",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C036.5",
+        "floor": "320.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C036"
+  },
+  {
+    "series": "Amazing Spider-Man",
+    "publisher": "Marvel",
+    "issue": "#3",
+    "published": "1963",
+    "drop": "2021-12-08T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-amazing-spider-man-3-fcfd8d1aee99",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C037.1",
+        "floor": "39.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C037.2",
+        "floor": "34.60",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "id": "C037.3",
+        "floor": "49.68",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "id": "C037.4",
+        "floor": "169.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C037.5",
+        "floor": "1,100.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C037"
+  },
+  {
+    "series": "Darkhawk",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "1991",
+    "drop": "2021-12-09T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-darkhawk-1-b6c653f0d81e",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C038.1",
+        "floor": "9.49",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C038.2",
+        "floor": "12.45",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": false,
+        "totalIssued": 2350,
+        "id": "C038.3",
+        "floor": "24.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": false,
+        "totalIssued": 1050,
+        "id": "C038.4",
+        "floor": "70.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C038.5",
+        "floor": "274.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C038"
+  },
+  {
+    "series": "Astonishing X-Men",
+    "publisher": "Marvel",
+    "issue": "#1",
+    "published": "2004",
+    "drop": "2021-12-14T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-astonishing-x-men-1-e53d6acdecf2",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C039.1",
+        "floor": "10.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C039.2",
+        "floor": "13.96",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": false,
+        "totalIssued": 2350,
+        "id": "C039.3",
+        "floor": "29.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": false,
+        "totalIssued": 1050,
+        "id": "C039.4",
+        "floor": "99.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C039.5",
+        "floor": "247.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C039"
+  },
+  {
+    "series": "Avengers",
+    "publisher": "Marvel",
+    "issue": "#57",
+    "published": "1968",
+    "drop": "2021-12-16T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-avengers-57-3ad2db511c02",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C040.1",
+        "floor": "15.88",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C040.2",
+        "floor": "17.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "id": "C040.3",
+        "floor": "34.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "id": "C040.4",
+        "floor": "90.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C040.5",
+        "floor": "499.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C040"
+  },
+  {
+    "series": "Iron Fist",
+    "publisher": "Marvel",
+    "issue": "#14",
+    "published": "1977",
+    "drop": "2021-12-21T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-iron-fist-14-386ed0367aa4",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C041.1",
+        "floor": "9.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C041.2",
+        "floor": "12.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "id": "C041.3",
+        "floor": "27.99",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "id": "C041.4",
+        "floor": "72.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C041.5",
+        "floor": "324.00",
+        "updatedAt": "2021-12-23T10:00:00-05:00"
+      }
+    ],
+    "id": "C041"
+  }
+]
