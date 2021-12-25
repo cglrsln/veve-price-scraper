@@ -3309,53 +3309,53 @@
     "collectibles": [
       {
         "name": "Deadpool – Deck The Halls",
-        "floorPrice": 88,
+        "floorPrice": 91,
         "totalIssued": 18666,
         "rarity": "COMMON",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T15:03:43.405Z",
+        "updatedAt": "2021-12-25T13:03:44.755Z",
         "id": "3.34.01"
       },
       {
         "name": "Deadpool – Ugly Sweater Party",
-        "floorPrice": 60,
+        "floorPrice": 59.9,
         "totalIssued": 13666,
         "rarity": "UNCOMMON",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T15:03:44.656Z",
+        "updatedAt": "2021-12-25T13:03:44.870Z",
         "id": "3.34.02"
       },
       {
         "name": "Deadpool – Candy Cane Combat",
-        "floorPrice": 83.99,
+        "floorPrice": 83,
         "totalIssued": 8666,
         "rarity": "RARE",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T15:03:48.809Z",
+        "updatedAt": "2021-12-25T13:03:46.324Z",
         "id": "3.34.03"
       },
       {
         "name": "Deadpool – Animated",
-        "floorPrice": 287,
+        "floorPrice": 282.5,
         "totalIssued": 3666,
         "rarity": "ULTRA_RARE",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T15:03:45.828Z",
+        "updatedAt": "2021-12-25T13:03:42.069Z",
         "id": "3.34.04"
       },
       {
         "name": "Deadpool – Ultimate Animated",
-        "floorPrice": 1445,
+        "floorPrice": 1350,
         "totalIssued": 1666,
         "rarity": "SECRET_RARE",
         "editionType": "First Appearance",
-        "updatedAt": "2021-12-24T15:03:45.473Z",
+        "updatedAt": "2021-12-25T13:03:45.050Z",
         "id": "3.34.05"
       }
     ],
     "id": "3.34",
-    "total": 1963.99,
-    "marketCap": 6649937.34
+    "total": 1866.4,
+    "marketCap": 6521222.4
   },
   {
     "name": "Snow Globes",
@@ -3495,11 +3495,11 @@
       },
       {
         "name": "Santa Labbit",
-        "floorPrice": 69,
+        "floorPrice": 66,
         "totalIssued": 2888,
         "rarity": "UNCOMMON",
         "id": "3.38.03",
-        "updatedAt": "2021-12-24T15:03:58.272Z"
+        "updatedAt": "2021-12-25T13:03:58.960Z"
       },
       {
         "name": "Snowflake Labbit",
@@ -3511,8 +3511,8 @@
       }
     ],
     "id": "3.38",
-    "total": 1054,
-    "marketCap": 1354112
+    "total": 1051,
+    "marketCap": 1345448
   },
   {
     "name": "Holiday Groot",
@@ -3527,32 +3527,32 @@
     "collectibles": [
       {
         "name": "Holiday Groot – Merry Groot-Mas",
-        "floorPrice": 30,
+        "floorPrice": 31,
         "totalIssued": 28888,
         "rarity": "COMMON",
         "id": "3.39.01",
-        "updatedAt": "2021-12-25T12:04:07.824Z"
+        "updatedAt": "2021-12-25T13:04:06.801Z"
       },
       {
         "name": "Holiday Groot – Festive Lights",
-        "floorPrice": 43.5,
+        "floorPrice": 43.73,
         "totalIssued": 18888,
         "rarity": "UNCOMMON",
         "id": "3.39.02",
-        "updatedAt": "2021-12-25T12:04:05.494Z"
+        "updatedAt": "2021-12-25T13:04:05.467Z"
       },
       {
         "name": "Holiday Groot – Ultimate Animated",
-        "floorPrice": 143.99,
+        "floorPrice": 142,
         "totalIssued": 9888,
         "rarity": "RARE",
         "id": "3.39.03",
-        "updatedAt": "2021-12-25T12:04:04.342Z"
+        "updatedAt": "2021-12-25T13:04:04.295Z"
       }
     ],
     "id": "3.39",
-    "total": 217.49,
-    "marketCap": 3112041.12
+    "total": 216.73,
+    "marketCap": 3125596.24
   },
   {
     "name": "A Visit From St. Nick - S1",
@@ -3571,33 +3571,35 @@
         "totalIssued": 8888,
         "rarity": "COMMON",
         "id": "3.40.01",
-        "updatedAt": "2021-12-25T12:04:02.804Z"
+        "updatedAt": "2021-12-25T13:04:02.097Z"
       },
       {
         "name": "Winking Santa",
-        "floorPrice": 39.99,
+        "floorPrice": 40.5,
         "totalIssued": 7777,
         "rarity": "UNCOMMON",
         "id": "3.40.02",
-        "updatedAt": "2021-12-25T12:04:00.417Z"
+        "updatedAt": "2021-12-25T13:04:00.588Z"
       },
       {
         "name": "Santa and His Reindeer",
-        "floorPrice": 6,
+        "floorPrice": 69,
         "totalIssued": 6666,
         "rarity": "RARE",
-        "id": "3.40.03"
+        "id": "3.40.03",
+        "updatedAt": "2021-12-25T13:04:01.234Z"
       },
       {
         "name": "Santa Comes Down the Chimney",
-        "floorPrice": 6,
+        "floorPrice": 190,
         "totalIssued": 5555,
         "rarity": "ULTRA_RARE",
-        "id": "3.40.04"
+        "id": "3.40.04",
+        "updatedAt": "2021-12-25T13:04:04.643Z"
       }
     ],
     "id": "3.40",
-    "total": 96.48,
-    "marketCap": 779755.3500000001
+    "total": 343.99,
+    "marketCap": 2225799.62
   }
 ]
