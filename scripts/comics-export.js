@@ -44,6 +44,7 @@ comics.forEach(comic => {
 
 issues.sort((a, b) => a.id - b.id);
 
+// Write out CSV
 const createCsvStringifier = require("csv-writer").createObjectCsvStringifier;
 
 const csvStringifier = createCsvStringifier({
@@ -56,6 +57,7 @@ const csvStringifier = createCsvStringifier({
   ],
 });
 
+console.log(csvStringifier.getHeaderString());
 console.log(csvStringifier.stringifyRecords(issues));
 
 // issues.forEach(i => {
