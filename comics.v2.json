@@ -2154,5 +2154,59 @@
       }
     ],
     "id": "C041"
+  },
+  {
+    "series": "Fantastic Four",
+    "publisher": "Marvel",
+    "issue": 12,
+    "published": "1963",
+    "drop": "2021-12-28T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-fantastic-four-12-edbac20c2502",
+    "editions": 30000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 21000,
+        "id": "C042.1",
+        "updatedAt": "2021-12-23T10:00:00-05:00",
+        "floorPrice": 6.99
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 5000,
+        "id": "C042.2",
+        "updatedAt": "2021-12-27T16:59:01.383Z",
+        "floorPrice": 6.99
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 2350,
+        "updatedAt": "2021-12-23T10:00:00-05:00",
+        "floorPrice": 6.99,
+        "id": "C042.3"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 1050,
+        "updatedAt": "2021-12-23T10:00:00-05:00",
+        "floorPrice": 6.99,
+        "id": "C042.4"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 600,
+        "id": "C042.5",
+        "updatedAt": "2021-12-23T10:00:00-05:00",
+        "floorPrice": 6.99
+      }
+    ],
+    "id": "C042"
   }
 ]
