@@ -57,13 +57,9 @@ const csvStringifier = createCsvStringifier({
   ],
 });
 
-console.log(csvStringifier.getHeaderString());
 console.log(csvStringifier.stringifyRecords(issues));
 
-// issues.forEach(i => {
-//     console.log(`${i.id}, "${i.name}", "${formatRarity(i.rarity)}", ${i.totalIssued}, ${i.floorPrice}`)
-// })
-
+//write out total count
 const totalCount = issues.reduce(
   (current, next) => current + next.totalIssued,
   0
