@@ -2208,5 +2208,54 @@
       }
     ],
     "id": "C042"
+  },
+  {
+    "series": "Amazing Spider-Man",
+    "publisher": "Marvel",
+    "issue": 252,
+    "published": "1984",
+    "drop": "2021-12-30T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/marvel-digital-comics-amazing-spider-man-252-97ce199e24dc",
+    "editions": 1000,
+    "variants": [
+      {
+        "name": "Classic Cover",
+        "rarity": "COMMON",
+        "totalIssued": 425,
+        "floorPrice": 6.99,
+        "id": "C043.1"
+      },
+      {
+        "name": "Vintage Variant",
+        "rarity": "UNCOMMON",
+        "totalIssued": 260,
+        "floorPrice": 6.99,
+        "id": "C043.2"
+      },
+      {
+        "name": "Hero Variant",
+        "rarity": "RARE",
+        "exclusiveCover": true,
+        "totalIssued": 175,
+        "floorPrice": 6.99,
+        "id": "C043.3"
+      },
+      {
+        "name": "Vibranium Variant",
+        "rarity": "ULTRA_RARE",
+        "exclusiveCover": true,
+        "totalIssued": 100,
+        "floorPrice": 6.99,
+        "id": "C043.4"
+      },
+      {
+        "name": "True Believer Variant",
+        "rarity": "SECRET_RARE",
+        "totalIssued": 40,
+        "floorPrice": 6.99,
+        "id": "C043.5"
+      }
+    ],
+    "id": "C043"
   }
 ]
