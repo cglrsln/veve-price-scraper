@@ -45,6 +45,7 @@ function processPrices(prices) {
       });
 
       if (updatedPrice) {
+        updatedPrice.processed = true;
         console.log(
           `${issue.series} ${issue.issue} (${v.rarity}) ${v.floorPrice} => ${updatedPrice.floorPrice}`
         );
@@ -55,5 +56,6 @@ function processPrices(prices) {
     });
   });
 
+  console.log(priceMap.filter(pm => !pm.processed));
   writeComics(currentComics);
 }
