@@ -2222,38 +2222,43 @@
         "name": "Classic Cover",
         "rarity": "COMMON",
         "totalIssued": 425,
-        "floorPrice": 6.99,
-        "id": "C043.1"
+        "floorPrice": 2199.99,
+        "id": "C043.1",
+        "updatedAt": "2021-12-30T19:59:02.578Z"
       },
       {
         "name": "Vintage Variant",
         "rarity": "UNCOMMON",
         "totalIssued": 260,
-        "floorPrice": 6.99,
-        "id": "C043.2"
+        "floorPrice": 1999,
+        "id": "C043.2",
+        "updatedAt": "2021-12-30T19:59:02.578Z"
       },
       {
         "name": "Hero Variant",
         "rarity": "RARE",
         "exclusiveCover": true,
         "totalIssued": 175,
-        "floorPrice": 6.99,
-        "id": "C043.3"
+        "floorPrice": 2998,
+        "id": "C043.3",
+        "updatedAt": "2021-12-30T19:59:02.578Z"
       },
       {
         "name": "Vibranium Variant",
         "rarity": "ULTRA_RARE",
         "exclusiveCover": true,
         "totalIssued": 100,
-        "floorPrice": 6.99,
-        "id": "C043.4"
+        "floorPrice": 6200,
+        "id": "C043.4",
+        "updatedAt": "2021-12-30T19:59:02.578Z"
       },
       {
         "name": "True Believer Variant",
         "rarity": "SECRET_RARE",
         "totalIssued": 40,
-        "floorPrice": 6.99,
-        "id": "C043.5"
+        "floorPrice": 26500,
+        "id": "C043.5",
+        "updatedAt": "2021-12-30T19:59:02.578Z"
       }
     ],
     "id": "C043"
