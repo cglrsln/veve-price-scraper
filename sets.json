@@ -3465,6 +3465,45 @@
     "id": "3.39"
   },
   {
+    "name": "Holiday Groot",
+    "brand": "Guardians of the Galaxy",
+    "season": 3,
+    "date": "2021-12-24T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/guardians-of-the-galaxy-holiday-groot-502645345b3e",
+    "keywords": [
+      "Marvel",
+      "christmas"
+    ],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Holiday Groot – Merry Groot-Mas",
+        "floorPrice": 27.5,
+        "totalIssued": 28888,
+        "rarity": "COMMON",
+        "id": "3.40.01",
+        "updatedAt": "2021-12-27T13:04:09.368Z"
+      },
+      {
+        "name": "Holiday Groot – Festive Lights",
+        "floorPrice": 36.69,
+        "totalIssued": 18888,
+        "rarity": "UNCOMMON",
+        "id": "3.40.02",
+        "updatedAt": "2021-12-30T12:04:05.675Z"
+      },
+      {
+        "name": "Holiday Groot – Ultimate Animated",
+        "floorPrice": 117,
+        "totalIssued": 9888,
+        "rarity": "RARE",
+        "id": "3.40.03",
+        "updatedAt": "2021-12-30T12:04:04.305Z"
+      }
+    ],
+    "id": "3.40"
+  },
+  {
     "name": "A Visit From St. Nick - S1",
     "brand": "A Visit from St. Nick",
     "season": 3,
@@ -3481,7 +3520,7 @@
         "floorPrice": 30,
         "totalIssued": 8888,
         "rarity": "COMMON",
-        "id": "3.40.01",
+        "id": "3.41.01",
         "updatedAt": "2021-12-30T12:04:02.309Z"
       },
       {
@@ -3489,7 +3528,7 @@
         "floorPrice": 30.5,
         "totalIssued": 7777,
         "rarity": "UNCOMMON",
-        "id": "3.40.02",
+        "id": "3.41.02",
         "updatedAt": "2021-12-29T11:04:00.164Z"
       },
       {
@@ -3497,7 +3536,7 @@
         "floorPrice": 54.49,
         "totalIssued": 6666,
         "rarity": "RARE",
-        "id": "3.40.03",
+        "id": "3.41.03",
         "updatedAt": "2021-12-28T12:04:01.257Z"
       },
       {
@@ -3505,10 +3544,31 @@
         "floorPrice": 116.5,
         "totalIssued": 5555,
         "rarity": "ULTRA_RARE",
-        "id": "3.40.04",
+        "id": "3.41.04",
         "updatedAt": "2021-12-29T11:04:03.267Z"
       }
     ],
-    "id": "3.40"
+    "id": "3.41"
+  },
+  {
+    "name": "Last Fat Breakfast",
+    "brand": "Cereal Killers",
+    "season": 3,
+    "date": "2021-12-31T08:00:00-08:00",
+    "url": "https://medium.com/veve-collectibles/ron-english-last-fat-breakfast-2ce8b3f0b4e3",
+    "keywords": [
+      "Ron English"
+    ],
+    "slugs": [],
+    "collectibles": [
+      {
+        "name": "Last Fat Breakfast",
+        "floorPrice": 1000,
+        "totalIssued": 1959,
+        "rarity": "ULTRA_RARE",
+        "id": "3.42.01"
+      }
+    ],
+    "id": "3.42"
   }
 ]
