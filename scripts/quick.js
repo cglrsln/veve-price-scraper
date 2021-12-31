@@ -3,9 +3,19 @@
 const fs = require("fs");
 const path = require("path");
 
+const processComicsPrices = require("./comics-quick");
+
 process.stdin.on("data", data => {
   const prices = JSON.parse(data.toString());
-  processPrices(prices.data);
+
+  if (prices.data[0].brand) {
+    console.log("Processing Sets");
+    processSetPrices(prices.data);
+  } else if (prices.data[0].comicSeries) {
+    console.log("Processing Comics");
+    processComicsPrices(prices.data);
+  }
+
   process.exit();
 });
 
@@ -21,7 +31,7 @@ function writeSets(sets) {
   );
 }
 
-function processPrices(prices) {
+function processSetPrices(prices) {
   const priceMap = prices.map(p => {
     return {
       name: p.name.trim(),
@@ -35,7 +45,9 @@ function processPrices(prices) {
 
   currentSets.forEach(cs => {
     cs.collectibles.forEach(cl => {
-      const updatedPrice = priceMap.find(pm => pm.name === cl.name && pm.brand === cs.brand);
+      const updatedPrice = priceMap.find(
+        pm => pm.name === cl.name && pm.brand === cs.brand
+      );
       if (updatedPrice) {
         console.log(
           "updating",

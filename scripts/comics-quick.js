@@ -3,11 +3,11 @@
 const fs = require("fs");
 const path = require("path");
 
-process.stdin.on("data", data => {
-  const prices = JSON.parse(data.toString());
-  processPrices(prices.data);
-  process.exit();
-});
+// process.stdin.on("data", data => {
+//   const prices = JSON.parse(data.toString());
+//   processComicsPrices(prices.data);
+//   process.exit();
+// });
 
 function readComics() {
   const rawdata = fs.readFileSync(path.join("./comics.v2.json"));
@@ -21,7 +21,7 @@ function writeComics(comics) {
   );
 }
 
-function processPrices(prices) {
+function processComicsPrices(prices) {
   const priceMap = prices.map(p => {
     return {
       series: p.comicSeries.name.trim(),
@@ -59,3 +59,5 @@ function processPrices(prices) {
   console.log(priceMap.filter(pm => !pm.processed));
   writeComics(currentComics);
 }
+
+module.exports = processComicsPrices;
