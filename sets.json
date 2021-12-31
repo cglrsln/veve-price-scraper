@@ -3524,7 +3524,7 @@
     "collectibles": [
       {
         "name": "Last Fat Breakfast",
-        "floorPrice": 100,
+        "floorPrice": 280,
         "totalIssued": 1959,
         "rarity": "ULTRA_RARE",
         "id": "3.41.01"
