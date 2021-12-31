@@ -29,16 +29,16 @@
         "rarity": "RARE",
         "totalIssued": 3000,
         "id": "C001.3",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 420
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 500
       },
       {
         "name": "Vibranium Variant",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2400,
         "id": "C001.4",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 1055
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 1249
       },
       {
         "name": "True Believer Variant",
@@ -141,8 +141,8 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2400,
         "id": "C003.4",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 424.99
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 476.8
       },
       {
         "name": "True Believer Variant",
@@ -193,16 +193,16 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 2400,
         "id": "C004.4",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 105
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 125
       },
       {
         "name": "True Believer Variant",
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C004.5",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 1150
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 1280
       }
     ],
     "id": "C004"
@@ -273,8 +273,8 @@
         "rarity": "COMMON",
         "totalIssued": 48000,
         "id": "C006.1",
-        "updatedAt": "2021-12-23T10:00:00-05:00",
-        "floorPrice": 9.99
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 11.97
       },
       {
         "name": "Vintage Variant",
@@ -385,8 +385,8 @@
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
         "id": "C008.2",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 31
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 34
       },
       {
         "name": "Hero Variant",
@@ -409,8 +409,8 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 455,
         "id": "C008.5",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 719
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 843
       }
     ],
     "id": "C008"
@@ -437,8 +437,8 @@
         "rarity": "UNCOMMON",
         "totalIssued": 3500,
         "id": "C009.2",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 22.5
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 24.98
       },
       {
         "name": "Hero Variant",
@@ -505,8 +505,8 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 500,
         "id": "C010.4",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 1199
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 1375
       },
       {
         "name": "True Believer Variant",
@@ -557,8 +557,8 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C011.4",
-        "updatedAt": "2021-12-27T11:59:01.877Z",
-        "floorPrice": 150
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 179
       },
       {
         "name": "True Believer Variant",
@@ -721,8 +721,8 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C014.5",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 770
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 849
       }
     ],
     "id": "C014"
@@ -749,16 +749,16 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C015.2",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 69
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 75
       },
       {
         "name": "Hero Variant",
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C015.3",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 93
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 114.99
       },
       {
         "name": "Vibranium Variant",
@@ -773,8 +773,8 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C015.5",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 899
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 999
       }
     ],
     "id": "C015"
@@ -861,8 +861,8 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C017.3",
-        "updatedAt": "2021-12-27T16:59:01.383Z",
-        "floorPrice": 79
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 92
       },
       {
         "name": "Vibranium Variant",
@@ -913,16 +913,16 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C018.3",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 53
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 59.99
       },
       {
         "name": "Vibranium Variant",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C018.4",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 149.95
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 169
       },
       {
         "name": "True Believer Variant",
@@ -965,8 +965,8 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C019.3",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 142
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 160
       },
       {
         "name": "Vibranium Variant",
@@ -1017,8 +1017,8 @@
         "rarity": "RARE",
         "totalIssued": 1000,
         "id": "C020.3",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 129
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 140
       },
       {
         "name": "Vibranium Variant",
@@ -1069,16 +1069,16 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C021.3",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 68
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 74.98
       },
       {
         "name": "Vibranium Variant",
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C021.4",
-        "updatedAt": "2021-12-23T10:00:00-05:00",
-        "floorPrice": 192
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 209
       },
       {
         "name": "True Believer Variant",
@@ -1105,16 +1105,16 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C022.1",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 14
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 17.5
       },
       {
         "name": "Vintage Variant",
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C022.2",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 24
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 25.99
       },
       {
         "name": "Hero Variant",
@@ -1129,16 +1129,16 @@
         "rarity": "ULTRA_RARE",
         "totalIssued": 1050,
         "id": "C022.4",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 150
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 178.5
       },
       {
         "name": "True Believer Variant",
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C022.5",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 420
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 500
       }
     ],
     "id": "C022"
@@ -1189,8 +1189,8 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C023.5",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 299
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 348
       }
     ],
     "id": "C023"
@@ -1217,8 +1217,8 @@
         "rarity": "UNCOMMON",
         "totalIssued": 2500,
         "id": "C024.2",
-        "updatedAt": "2021-12-27T16:59:01.383Z",
-        "floorPrice": 29.99
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 34
       },
       {
         "name": "Hero Variant",
@@ -1241,8 +1241,8 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 250,
         "id": "C024.5",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 1500
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 1740
       }
     ],
     "id": "C024"
@@ -1329,8 +1329,8 @@
         "rarity": "RARE",
         "totalIssued": 2350,
         "id": "C026.3",
-        "updatedAt": "2021-12-29T10:59:01.553Z",
-        "floorPrice": 45
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 53.75
       },
       {
         "name": "Vibranium Variant",
@@ -1365,16 +1365,16 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C027.1",
-        "updatedAt": "2021-12-23T10:00:00-05:00",
-        "floorPrice": 12
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 12.95
       },
       {
         "name": "Vintage Variant",
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C027.2",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 14.5
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 18
       },
       {
         "name": "Hero Variant",
@@ -1397,8 +1397,8 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C027.5",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 299
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 385
       }
     ],
     "id": "C027"
@@ -1425,24 +1425,24 @@
         "rarity": "UNCOMMON",
         "totalIssued": 11550,
         "id": "C028.2",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 19.4
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 21
       },
       {
         "name": "Hero Variant",
         "rarity": "RARE",
         "totalIssued": 5600,
         "id": "C028.3",
-        "updatedAt": "2021-12-29T11:59:01.810Z",
-        "floorPrice": 43.99
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 48
       },
       {
         "name": "Vibranium Variant",
         "rarity": "ULTRA_RARE",
         "totalIssued": 2450,
         "id": "C028.4",
-        "updatedAt": "2021-12-29T11:59:01.810Z",
-        "floorPrice": 110
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 114
       },
       {
         "name": "True Believer Variant",
@@ -1717,8 +1717,8 @@
         "exclusiveCover": true,
         "totalIssued": 600,
         "id": "C033.5",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 270
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 307.69
       }
     ],
     "id": "C033"
@@ -1845,8 +1845,8 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C036.1",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 11
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 12.99
       },
       {
         "name": "Vintage Variant",
@@ -1916,8 +1916,8 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C037.3",
-        "updatedAt": "2021-12-23T10:00:00-05:00",
-        "floorPrice": 49.68
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 65.5
       },
       {
         "name": "Vibranium Variant",
@@ -2033,8 +2033,8 @@
         "exclusiveCover": false,
         "totalIssued": 1050,
         "id": "C039.4",
-        "updatedAt": "2021-12-28T11:59:01.810Z",
-        "floorPrice": 124
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 135
       },
       {
         "name": "True Believer Variant",
@@ -2061,16 +2061,16 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C040.1",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 16
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 18
       },
       {
         "name": "Vintage Variant",
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C040.2",
-        "updatedAt": "2021-12-23T10:00:00-05:00",
-        "floorPrice": 17.99
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 18.99
       },
       {
         "name": "Hero Variant",
@@ -2078,8 +2078,8 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C040.3",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
-        "floorPrice": 39
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 42
       },
       {
         "name": "Vibranium Variant",
@@ -2087,16 +2087,16 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C040.4",
-        "updatedAt": "2021-12-27T11:59:01.877Z",
-        "floorPrice": 103.99
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 101.99
       },
       {
         "name": "True Believer Variant",
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C040.5",
-        "updatedAt": "2021-12-27T16:59:01.383Z",
-        "floorPrice": 468
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 470
       }
     ],
     "id": "C040"
@@ -2115,7 +2115,7 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C041.1",
-        "updatedAt": "2021-12-30T11:59:01.701Z",
+        "updatedAt": "2021-12-31T10:59:01.682Z",
         "floorPrice": 11
       },
       {
@@ -2123,8 +2123,8 @@
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C041.2",
-        "updatedAt": "2021-12-28T11:59:01.810Z",
-        "floorPrice": 13.99
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 13
       },
       {
         "name": "Hero Variant",
@@ -2132,8 +2132,8 @@
         "exclusiveCover": true,
         "totalIssued": 2350,
         "id": "C041.3",
-        "updatedAt": "2021-12-23T10:00:00-05:00",
-        "floorPrice": 38
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 38.49
       },
       {
         "name": "Vibranium Variant",
@@ -2141,16 +2141,16 @@
         "exclusiveCover": true,
         "totalIssued": 1050,
         "id": "C041.4",
-        "updatedAt": "2021-12-23T10:00:00-05:00",
-        "floorPrice": 80
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 77
       },
       {
         "name": "True Believer Variant",
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C041.5",
-        "updatedAt": "2021-12-23T10:00:00-05:00",
-        "floorPrice": 328
+        "updatedAt": "2021-12-31T10:59:01.682Z",
+        "floorPrice": 345
       }
     ],
     "id": "C041"
@@ -2169,24 +2169,24 @@
         "rarity": "COMMON",
         "totalIssued": 21000,
         "id": "C042.1",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 14.25
+        "updatedAt": "2021-12-31T09:59:01.864Z",
+        "floorPrice": 14.8
       },
       {
         "name": "Vintage Variant",
         "rarity": "UNCOMMON",
         "totalIssued": 5000,
         "id": "C042.2",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 15.99
+        "updatedAt": "2021-12-31T09:59:01.864Z",
+        "floorPrice": 17
       },
       {
         "name": "Hero Variant",
         "rarity": "RARE",
         "exclusiveCover": true,
         "totalIssued": 2350,
-        "updatedAt": "2021-12-29T10:59:01.553Z",
-        "floorPrice": 37.44,
+        "updatedAt": "2021-12-31T09:59:01.864Z",
+        "floorPrice": 36,
         "id": "C042.3"
       },
       {
@@ -2194,8 +2194,8 @@
         "rarity": "ULTRA_RARE",
         "exclusiveCover": true,
         "totalIssued": 1050,
-        "updatedAt": "2021-12-29T10:59:01.553Z",
-        "floorPrice": 99,
+        "updatedAt": "2021-12-31T09:59:01.864Z",
+        "floorPrice": 102.9,
         "id": "C042.4"
       },
       {
@@ -2203,8 +2203,8 @@
         "rarity": "SECRET_RARE",
         "totalIssued": 600,
         "id": "C042.5",
-        "updatedAt": "2021-12-29T21:43:41.248Z",
-        "floorPrice": 399.99
+        "updatedAt": "2021-12-31T09:59:01.864Z",
+        "floorPrice": 414
       }
     ],
     "id": "C042"
@@ -2222,43 +2222,43 @@
         "name": "Classic Cover",
         "rarity": "COMMON",
         "totalIssued": 425,
-        "floorPrice": 2199.99,
+        "floorPrice": 2299,
         "id": "C043.1",
-        "updatedAt": "2021-12-30T19:59:02.578Z"
+        "updatedAt": "2021-12-31T09:59:01.864Z"
       },
       {
         "name": "Vintage Variant",
         "rarity": "UNCOMMON",
         "totalIssued": 260,
-        "floorPrice": 1999,
+        "floorPrice": 1700,
         "id": "C043.2",
-        "updatedAt": "2021-12-30T19:59:02.578Z"
+        "updatedAt": "2021-12-31T09:59:01.864Z"
       },
       {
         "name": "Hero Variant",
         "rarity": "RARE",
         "exclusiveCover": true,
         "totalIssued": 175,
-        "floorPrice": 2998,
+        "floorPrice": 2792,
         "id": "C043.3",
-        "updatedAt": "2021-12-30T19:59:02.578Z"
+        "updatedAt": "2021-12-31T09:59:01.864Z"
       },
       {
         "name": "Vibranium Variant",
         "rarity": "ULTRA_RARE",
         "exclusiveCover": true,
         "totalIssued": 100,
-        "floorPrice": 6200,
+        "floorPrice": 5999,
         "id": "C043.4",
-        "updatedAt": "2021-12-30T19:59:02.578Z"
+        "updatedAt": "2021-12-31T09:59:01.864Z"
       },
       {
         "name": "True Believer Variant",
         "rarity": "SECRET_RARE",
         "totalIssued": 40,
-        "floorPrice": 26500,
+        "floorPrice": 24500,
         "id": "C043.5",
-        "updatedAt": "2021-12-30T19:59:02.578Z"
+        "updatedAt": "2021-12-31T09:59:01.864Z"
       }
     ],
     "id": "C043"
