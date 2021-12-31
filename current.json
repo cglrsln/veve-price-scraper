@@ -3614,14 +3614,14 @@
     "collectibles": [
       {
         "name": "Last Fat Breakfast",
-        "floorPrice": 100,
+        "floorPrice": 280,
         "totalIssued": 1959,
         "rarity": "ULTRA_RARE",
         "id": "3.41.01"
       }
     ],
     "id": "3.41",
-    "total": 100,
-    "marketCap": 195900
+    "total": 280,
+    "marketCap": 548520
   }
 ]
